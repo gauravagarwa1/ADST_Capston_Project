@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+{% block title %}Projects · Project Phoenix{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="section-kicker">WORKSPACE / {{ 'ASSIGNMENTS' if current_user.get('role')=='teacher' else 'MY PROJECTS' }} · LIVE DATA</div><h1>{{ 'Create and manage meaningful challenges.' if current_user.get('role')=='teacher' else 'Your work, with direction.' }}</h1><p>{{ 'Create assignments and review project activity. Everything is saved to the local database.' if current_user.get('role')=='teacher' else 'Add projects, track scores and keep AI feedback connected to your work.' }}</p></div>{% if current_user.get('role')=='teacher' %}<button class="cyan-btn" onclick="openModal('assignmentModal')">+ New assignment</button>{% else %}<button class="cyan-btn" onclick="openModal('projectModal')">+ Add project</button>{% endif %}</div>
+<div class="toolbar"><div class="search-input">⌕ <input id="q" placeholder="Search projects…" oninput="renderProjects()"></div><select id="subject"><option value="">All subjects</option></select><select id="skill"><option value="">All skill levels</option></select><button class="outline-btn" onclick="loadProjects()">Filter</button></div>
+<div class="project-list" id="projectList"></div>{% if current_user.get("role")=="teacher" %}<section class="panel assignment-list-panel"><div class="panel-head"><div><div class="section-kicker">ASSIGNMENTS</div><h2>Created challenges</h2></div></div><div class="assignment-list" id="assignmentList"></div></section>{% endif %}
+
+<div class="modal" id="projectModal"><div class="modal-card"><button class="modal-close" onclick="closeModal('projectModal')">×</button><div class="section-kicker">NEW PROJECT</div><h2>Add project to Phoenix</h2><p class="muted">The project is saved immediately and will be included in analytics and career graphs.</p><form id="projectForm" class="modal-form" enctype="multipart/form-data">
+{% if current_user.get('role')=='teacher' %}<label>Student<select name="student_id" id="studentSelect" required></select></label>{% endif %}
+<label>Assignment (optional)<select name="assignment_id" id="assignmentSelect"><option value="">Independent project</option></select></label><label>Project title / ID<input name="project_id" required placeholder="e.g. Campus energy diary"></label><label>Subject<input name="project_subject" required placeholder="Physics"></label><label>Skill level<select name="skill_level"><option>Beginner</option><option selected>Intermediate</option><option>Advanced</option></select></label><label>Career interest<input name="career_interest" required placeholder="Data Science, Design, Sustainability..."></label>
+<div class="form-two"><label>Programming<input name="programming" type="number" min="0" max="100" value="75"></label><label>Analytical<input name="analytical" type="number" min="0" max="100" value="75"></label><label>Creativity<input name="creativity" type="number" min="0" max="100" value="75"></label><label>Communication<input name="communication" type="number" min="0" max="100" value="75"></label><label>Problem solving<input name="problem_solving" type="number" min="0" max="100" value="75"></label><label>Completeness<input name="completeness" type="number" min="0" max="100" value="75"></label><label>Accuracy<input name="accuracy" type="number" min="0" max="100" value="75"></label><label>Points<input name="points_earned" type="number" min="0" value="75"></label></div>
+<label>Project files <input name="files" type="file" multiple accept=".pdf,.docx,.pptx,.jpg,.jpeg,.png,.zip,.csv"><small>PDF, DOCX, PPTX, JPG, PNG, ZIP or CSV · up to 20 MB each</small></label><label>Project link <input name="project_link" type="url" placeholder="https://..."></label><label>Your reflection <textarea name="reflection" rows="4" maxlength="250" placeholder="What did you learn, test or improve?"></textarea></label><label class="check"><input name="submitted_on_time" type="checkbox" checked> Submitted on time</label><input type="hidden" name="submission_status" id="submissionStatus" value="submitted"><div class="button-row"><button class="outline-btn" type="button" onclick="submitProjectForm('draft')">Save draft</button><button class="cyan-btn" type="button" onclick="submitProjectForm('submitted')">Submit for teacher review</button></div><div id="projectMsg" class="form-msg"></div></form></div></div>
+
+{% if current_user.get('role')=='teacher' %}<div class="modal" id="assignmentModal"><div class="modal-card"><button class="modal-close" onclick="closeModal('assignmentModal')">×</button><div class="section-kicker">NEW ASSIGNMENT</div><h2>Create a monthly challenge</h2><p class="muted">Assignments are stored separately and appear in analytics.</p><form id="assignmentForm" class="modal-form"><label>Project title<input name="title" required placeholder="Materials for a cooler city"></label><label>Subject<input name="subject" required placeholder="Physics"></label><label>Class / group<input name="class_group" required value="Class 10B"></label><label>Description<textarea name="description" rows="4" placeholder="Instructions and learning outcome"></textarea></label><div class="form-two"><label>Skill level<select name="skill_level"><option>Beginner</option><option selected>Intermediate</option><option>Advanced</option></select></label><label>Due date<input name="due_date" type="date" required></label><label>Maximum points<input name="max_points" type="number" value="100" min="1"></label></div><button class="cyan-btn full" type="submit">Create assignment</button><div id="assignmentMsg" class="form-msg"></div></form></div></div>{% endif %}
+{% endblock %}
+{% block scripts %}
+<script>
+let allProjects=[];
+function openModal(id){document.getElementById(id)?.classList.add('open')}
+function closeModal(id){document.getElementById(id)?.classList.remove('open')}
+function esc(v){return String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+async function loadAssignments(){
+ const r=await fetch('/api/assignments'); if(!r.ok)return; const d=await r.json();
+ const list=document.getElementById('assignmentList');
+ if(list) list.innerHTML=d.assignments.map(a=>`<article class="assignment-row"><div><b>${esc(a.title)}</b><small>${esc(a.subject)} · ${esc(a.class_group)} · ${esc(a.skill_level)}</small></div><span>Due ${esc(a.due_date)}</span><strong>${a.max_points} pts</strong><div class="assignment-action"><span class="assignment-status">${a.submissions||0} submissions</span><a class="outline-btn" href="/evaluation">Check submissions →</a></div></article>`).join('')||'<div class="empty-state small">No assignments created yet.</div>';
+ if(document.getElementById('assignmentSelect')){
+   const sel=document.getElementById('assignmentSelect'); const current=new URLSearchParams(location.search).get('assignment');
+   sel.innerHTML='<option value="">Independent project</option>'+d.assignments.map(a=>`<option value="${a.assignment_id}" data-subject="${esc(a.subject)}" data-skill="${esc(a.skill_level)}" data-points="${a.max_points}" data-title="${esc(a.title)}" ${String(a.assignment_id)===String(current)?'selected':''}>${esc(a.title)} · ${esc(a.subject)} · due ${esc(a.due_date)}</option>`).join('');
+   if(current) applyAssignment();
+ }
+}
+function applyAssignment(){
+ const sel=document.getElementById('assignmentSelect'); const o=sel?.selectedOptions?.[0]; if(!o||!o.value)return;
+ const title=document.querySelector('[name="project_id"]'), subject=document.querySelector('[name="project_subject"]'), skill=document.querySelector('[name="skill_level"]'), points=document.querySelector('[name="points_earned"]');
+ if(title && (!title.value || title.value==='')) title.value=o.dataset.title||'';
+ if(subject) subject.value=o.dataset.subject||subject.value;
+ if(skill) skill.value=o.dataset.skill||skill.value;
+ if(points) points.value=o.dataset.points||points.value;
+}
+async function loadProjects(){
+ let p=new URLSearchParams({subject:document.getElementById('subject').value,skill:document.getElementById('skill').value});
+ let r=await fetch('/api/projects?'+p); let d=await r.json();
+ if(!r.ok){projectList.innerHTML='<div class="empty-state">'+esc(d.error||'Could not load projects. Restart the server after updating Phoenix.')+'</div>';return;}
+ allProjects=d.projects||[];
+ const subjectValue=document.getElementById('subject').value, skillValue=document.getElementById('skill').value;
+ document.getElementById('subject').innerHTML='<option value="">All subjects</option>'+d.subjects.map(x=>`<option ${x===subjectValue?'selected':''}>${esc(x)}</option>`).join('');
+ document.getElementById('skill').innerHTML='<option value="">All skill levels</option>'+d.skills.map(x=>`<option ${x===skillValue?'selected':''}>${esc(x)}</option>`).join('');
+ if(document.getElementById('studentSelect'))document.getElementById('studentSelect').innerHTML=d.students.map(x=>`<option value="${esc(x.student_id)}">${esc(x.student_name)} · ${esc(x.student_id)}</option>`).join('');
+ renderProjects();
+}
+function renderProjects(){
+ let q=(document.getElementById('q').value||'').toLowerCase();
+ let data=allProjects.filter(x=>(x.project_id+' '+x.project_subject+' '+x.student_name+' '+(x.assignment_title||'')).toLowerCase().includes(q));
+ projectList.innerHTML=data.map(x=>`<article class="project-detail-card"><div class="project-status"><span>${x.final_published?'REVIEWED':(x.submission_status==='draft'?'DRAFT':'AI FIRST LOOK')}</span><b>${esc(x.project_subject)} · ${esc(x.skill_level)}</b></div><div class="project-detail-main"><div><h2>${esc(x.project_id)}</h2><p>${esc(x.student_name)} · ${x.assignment_title?esc(x.assignment_title)+' · ':''}${x.submitted_on_time?'On time':'Late submission'} · ${x.file_count||0} file(s) · ${esc(x.career_interest||'Interest not set')}</p><div class="metric-strip"><div><small>PROJECT SCORE</small><strong>${x.final_published?x.teacher_score:x.project_score}/100</strong></div><div><small>COMPLETENESS</small><strong>${x.completeness_score}</strong></div><div><small>ACCURACY</small><strong>${x.accuracy_score}</strong></div><div><small>POINTS</small><strong>${x.points_earned}</strong></div></div></div><div class="career-pill"><small>CAREER MATCH</small><b>${esc(x.recommended_career||'Pending')}</b></div></div><div class="ai-note"><span>${x.final_published?'TEACHER REVIEW':(x.submission_status==='draft'?'DRAFT':'AI FIRST LOOK')}</span><p>${esc(x.final_published?(x.teacher_feedback||'Final grade published.'):(x.ai_feedback||'No AI feedback yet.'))}</p>{% if current_user.get('role')=='teacher' %}<a href="/evaluation?submission=${x.submission_id}">Review & mark →</a>{% else %}<a href="/projects">View project →</a>{% endif %}</div></article>`).join('')||'<div class="empty-state">No projects match your filters.</div>';
+}
+async function submitProjectForm(status){
+ document.getElementById('submissionStatus').value=status;
+ const form=document.getElementById('projectForm'); const data=new FormData(form); const btnMsg=document.getElementById('projectMsg');
+ btnMsg.style.display='block';btnMsg.textContent=status==='draft'?'Saving draft…':'Submitting for teacher review…';btnMsg.className='form-msg';
+ try{const r=await fetch('/api/projects',{method:'POST',body:data});const d=await r.json();if(!r.ok){btnMsg.textContent=d.error||'Could not save project.';btnMsg.className='form-msg error';return;}btnMsg.textContent=status==='draft'?'Draft saved.':'Submitted for teacher review.';btnMsg.className='form-msg success';form.reset();document.getElementById('submissionStatus').value='submitted';setTimeout(()=>{closeModal('projectModal');loadProjects()},350);}catch(e){btnMsg.textContent='Request failed: '+e.message;btnMsg.className='form-msg error';}
+}
+document.getElementById('assignmentSelect')?.addEventListener('change',applyAssignment);
+document.getElementById('projectForm')?.addEventListener('submit',e=>e.preventDefault());
+document.getElementById('assignmentForm')?.addEventListener('submit',async e=>{e.preventDefault();let data=Object.fromEntries(new FormData(e.target));let r=await fetch('/api/assignments',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});let d=await r.json();assignmentMsg.textContent=d.error||'Assignment created and students notified.';assignmentMsg.className='form-msg '+(d.error?'error':'success');if(r.ok){e.target.reset();closeModal('assignmentModal');await loadAssignments();await loadProjects();}});
+loadAssignments();loadProjects();
+</script>
+{% endblock %}

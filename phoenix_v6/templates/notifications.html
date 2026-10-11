@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Notifications · Project Phoenix{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="section-kicker">NOTIFICATIONS</div><h1>Stay close to what matters.</h1><p>Assignments, submissions and published teacher feedback appear here automatically.</p></div><div class="page-actions"><button class="outline-btn" onclick="markAll()">Mark all as read</button></div></div>
+<section class="panel"><div class="panel-head"><div><div class="section-kicker">ACTIVITY</div><h2>Your latest updates</h2></div></div><div id="notificationList" class="notification-list"></div></section>
+{% endblock %}
+{% block scripts %}
+<script>
+function esc(v){return String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+async function loadNotifications(){const r=await fetch('/api/notifications');const d=await r.json();const list=document.getElementById('notificationList');list.innerHTML=(d.notifications||[]).map(n=>`<article class="notification-item ${n.is_read?'read':'unread'}"><div class="notification-dot"></div><div class="notification-main"><b>${esc(n.title)}</b><p>${esc(n.body)}</p><small>${esc(n.created_at)}</small></div>${!n.is_read?`<button class="outline-btn small-btn" onclick="markOne(${n.notification_id})">Mark read</button>`:''}</article>`).join('')||'<div class="empty-state">You are all caught up.</div>';const c=document.getElementById('notificationCount');if(c){c.textContent=d.unread||0;c.style.display=d.unread?'inline-flex':'none'}}
+async function markOne(id){await fetch('/api/notifications',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({notification_id:id})});loadNotifications()}
+async function markAll(){await fetch('/api/notifications',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({all:true})});loadNotifications()}
+loadNotifications();
+</script>
+{% endblock %}

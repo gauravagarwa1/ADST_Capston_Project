@@ -1,0 +1,1001 @@
+student_id,student_name,age,city,education_level,project_id,project_subject,skill_level,programming_score,analytical_score,creativity_score,communication_score,problem_solving_score,completeness_score,accuracy_score,submitted_on_time,project_score,points_earned,ai_feedback,career_interest,recommended_career
+STU0001,Ananya,21,Mumbai,Undergraduate,PRJ055,Mobile App Development,Intermediate,51.5,54.5,82.5,75.7,60.0,85.1,55.3,1,65.5,95,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0002,Kabir,23,Mumbai,School,PRJ078,Data Science,Intermediate,79.3,63.6,55.0,66.3,77.0,76.2,71.9,1,71.7,97,Strong project; add more creativity and documentation,Software Developer,Software Developer
+STU0003,Riya,18,Guwahati,School,PRJ089,Artificial Intelligence,Beginner,96.7,75.9,60.3,77.3,51.9,57.4,85.6,1,74.0,97,Strong project; add more creativity and documentation,Database Administrator,Software Developer
+STU0004,Aditya,23,Hyderabad,Undergraduate,PRJ086,Mobile App Development,Beginner,28.6,66.7,65.2,77.5,78.3,75.3,49.0,1,75.4,95,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0005,Riya,15,Bengaluru,Higher Secondary,PRJ013,Data Science,Intermediate,87.4,73.1,100.0,52.1,61.0,77.2,76.1,1,80.6,109,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0006,Aarav,25,Chennai,Undergraduate,PRJ027,Web Development,Intermediate,70.4,48.8,50.3,44.2,63.6,90.5,62.3,1,68.9,83,Good work; improve problem-solving depth,Product Manager,Cloud Engineer
+STU0007,Diya,18,Jaipur,Higher Secondary,PRJ002,Data Science,Beginner,25.2,73.2,41.5,61.0,73.8,75.8,51.4,1,65.9,98,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0008,Rohan,15,Bengaluru,School,PRJ098,Mobile App Development,Beginner,53.9,58.9,100.0,62.3,71.5,77.5,56.5,1,81.3,103,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0009,Kavya,20,Hyderabad,Undergraduate,PRJ001,Python,Beginner,94.0,59.2,59.9,77.0,77.8,65.6,76.0,1,75.0,96,Strong project; add more creativity and documentation,Product Manager,Software Developer
+STU0010,Priya,23,Mumbai,Higher Secondary,PRJ020,Business Analytics,Beginner,64.3,83.7,59.8,84.1,100.0,73.8,71.8,1,85.1,117,Excellent project; ready for advanced work,Cloud Engineer,Product Manager
+STU0011,Tanya,20,Hyderabad,Undergraduate,PRJ008,Mobile App Development,Advanced,67.8,84.8,69.0,62.7,64.9,52.9,74.5,1,70.3,99,Strong project; add more creativity and documentation,Database Administrator,Database Administrator
+STU0012,Riya,17,Guwahati,Undergraduate,PRJ069,Python,Intermediate,59.3,92.1,61.5,72.6,44.5,77.9,73.7,1,76.3,92,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0013,Aditya,18,Delhi,School,PRJ025,Python,Beginner,64.8,60.9,70.0,60.1,76.1,52.7,65.1,1,65.4,78,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0014,Kavya,20,Chennai,Undergraduate,PRJ024,Mobile App Development,Beginner,46.0,67.5,45.4,46.7,55.7,64.7,56.0,1,67.2,83,Good work; improve problem-solving depth,Mobile App Developer,Database Administrator
+STU0015,Tanya,21,Lucknow,Undergraduate,PRJ070,Artificial Intelligence,Intermediate,69.3,67.8,55.4,75.6,55.4,74.9,67.9,1,63.9,93,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0016,Ishaan,25,Kolkata,School,PRJ001,Python,Intermediate,70.4,76.2,49.7,59.8,47.6,68.0,73.2,1,59.1,75,Good work; improve problem-solving depth,Mobile App Developer,Data Analyst
+STU0017,Riya,24,Guwahati,School,PRJ094,Web Development,Beginner,67.8,66.7,90.6,68.2,91.8,72.0,68.0,1,80.7,101,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0018,Priya,19,Jaipur,Undergraduate,PRJ002,Business Analytics,Intermediate,42.8,59.8,96.7,94.6,59.5,73.8,55.2,1,78.1,109,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0019,Aditya,25,Jaipur,Undergraduate,PRJ081,Web Development,Intermediate,68.4,53.9,61.9,80.9,74.5,91.8,62.3,1,76.6,109,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0020,Rohan,22,Chennai,Higher Secondary,PRJ024,Business Analytics,Beginner,53.3,59.2,78.5,70.0,56.6,89.7,59.3,1,78.9,104,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0021,Arjun,15,Chennai,Undergraduate,PRJ019,Artificial Intelligence,Beginner,45.0,75.4,90.4,58.8,60.9,81.4,60.7,0,69.4,99,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0022,Karan,21,Lucknow,Postgraduate,PRJ005,Artificial Intelligence,Intermediate,50.3,45.7,97.2,50.9,48.8,93.1,54.2,1,78.9,104,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0023,Priya,21,Guwahati,Undergraduate,PRJ086,Web Development,Advanced,78.3,65.4,59.5,65.8,45.4,73.0,73.9,1,64.4,84,Good work; improve problem-solving depth,Data Analyst,Data Analyst
+STU0024,Tanya,15,Hyderabad,Postgraduate,PRJ061,Cloud Computing,Intermediate,56.2,77.9,40.4,32.2,61.7,64.7,68.2,1,54.7,83,Improve accuracy and completeness,Product Manager,Database Administrator
+STU0025,Aditya,21,Jaipur,Undergraduate,PRJ057,Cloud Computing,Beginner,65.4,52.0,66.6,65.2,68.5,68.0,61.7,1,68.9,103,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0026,Ira,22,Mumbai,Higher Secondary,PRJ006,Mobile App Development,Intermediate,82.9,45.4,52.5,35.3,59.1,68.1,67.5,1,72.7,106,Strong project; add more creativity and documentation,Data Scientist,Cloud Engineer
+STU0027,Rahul,17,Mumbai,Undergraduate,PRJ053,Cloud Computing,Intermediate,72.7,51.0,29.0,84.0,65.3,94.1,61.4,1,72.0,90,Strong project; add more creativity and documentation,Database Administrator,Software Developer
+STU0028,Aditya,19,Delhi,Undergraduate,PRJ012,Business Analytics,Intermediate,59.5,63.3,29.4,45.8,75.0,91.8,66.0,1,68.3,83,Good work; improve problem-solving depth,Software Developer,Database Administrator
+STU0029,Aarav,20,Hyderabad,Postgraduate,PRJ079,Cloud Computing,Intermediate,20.0,48.2,77.1,82.0,70.0,78.6,43.1,1,72.7,92,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0030,Aanya,24,Pune,Undergraduate,PRJ016,Database,Intermediate,48.2,86.2,46.8,66.8,59.8,63.1,64.6,1,68.8,98,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0031,Meera,18,Delhi,School,PRJ049,Mobile App Development,Intermediate,55.7,74.1,53.4,69.9,76.2,71.1,62.4,1,77.4,104,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0032,Meera,25,Hyderabad,School,PRJ002,Cloud Computing,Intermediate,90.7,59.8,91.7,59.7,51.1,80.4,74.2,0,70.6,98,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0033,Ira,25,Bengaluru,Higher Secondary,PRJ025,UI/UX Design,Intermediate,62.1,67.8,43.5,41.8,71.4,71.6,66.2,0,56.7,84,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0034,Rahul,24,Kolkata,Undergraduate,PRJ033,Web Development,Beginner,51.9,93.6,84.6,58.8,90.7,73.0,68.8,1,75.0,102,Strong project; add more creativity and documentation,Cyber Security Analyst,Database Administrator
+STU0035,Nisha,20,Chennai,Higher Secondary,PRJ066,Cyber Security,Beginner,49.3,51.8,46.2,57.4,29.5,86.9,55.1,0,50.3,65,Improve accuracy and completeness,Cloud Engineer,Data Analyst
+STU0036,Ira,24,Mumbai,Higher Secondary,PRJ033,Database,Beginner,66.3,56.6,35.0,42.2,67.7,81.4,61.8,1,58.6,73,Good work; improve problem-solving depth,UI/UX Designer,Cloud Engineer
+STU0037,Vivaan,16,Mumbai,Undergraduate,PRJ035,Database,Beginner,46.0,79.4,71.5,75.8,56.1,100.0,58.9,0,69.5,91,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0038,Kabir,22,Hyderabad,Undergraduate,PRJ039,Mobile App Development,Intermediate,45.9,69.4,68.6,58.8,73.9,86.5,56.4,1,76.7,109,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0039,Riya,17,Guwahati,Undergraduate,PRJ094,Python,Intermediate,41.3,58.2,57.9,76.5,80.4,79.2,51.2,0,55.5,86,Good work; improve problem-solving depth,Database Administrator,Product Manager
+STU0040,Arjun,25,Hyderabad,Undergraduate,PRJ052,Cyber Security,Intermediate,72.2,72.6,69.1,60.1,60.6,77.3,75.5,1,77.0,106,Strong project; add more creativity and documentation,Cloud Engineer,Database Administrator
+STU0041,Riya,22,Hyderabad,School,PRJ060,Artificial Intelligence,Intermediate,68.0,78.3,75.6,91.3,55.4,61.8,68.5,1,74.3,89,Strong project; add more creativity and documentation,Data Analyst,Data Analyst
+STU0042,Meera,18,Bengaluru,Undergraduate,PRJ054,Database,Intermediate,94.7,71.8,41.2,46.2,95.3,80.4,81.9,1,80.0,116,Strong project; add more creativity and documentation,Database Administrator,Cloud Engineer
+STU0043,Aanya,23,Mumbai,Higher Secondary,PRJ054,Cyber Security,Intermediate,29.6,80.9,57.9,59.0,51.8,56.5,57.3,1,66.7,96,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0044,Sneha,23,Jaipur,Undergraduate,PRJ001,Cyber Security,Beginner,42.7,73.6,48.6,52.3,56.2,79.0,56.0,1,66.7,87,Good work; improve problem-solving depth,Database Administrator,Database Administrator
+STU0045,Arjun,17,Guwahati,Higher Secondary,PRJ008,Data Science,Beginner,98.8,59.4,88.3,59.5,42.2,87.1,79.7,1,78.4,112,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0046,Kabir,21,Delhi,Undergraduate,PRJ035,Business Analytics,Beginner,20.0,51.3,84.9,78.1,86.1,87.4,38.7,1,78.1,108,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0047,Ananya,22,Delhi,Undergraduate,PRJ067,Artificial Intelligence,Advanced,50.9,42.1,55.6,61.4,87.4,88.0,52.3,1,74.0,99,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0048,Nisha,21,Guwahati,Higher Secondary,PRJ014,Database,Beginner,66.2,58.6,79.9,59.9,74.1,80.2,62.4,1,78.2,111,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0049,Ananya,22,Pune,Undergraduate,PRJ085,Cloud Computing,Beginner,57.6,55.2,54.4,69.9,58.9,67.9,59.6,1,74.6,101,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0050,Aanya,20,Hyderabad,Undergraduate,PRJ011,Web Development,Intermediate,75.8,42.9,66.1,62.8,79.1,83.0,58.4,1,75.4,110,Strong project; add more creativity and documentation,Data Analyst,Mobile App Developer
+STU0051,Ishaan,15,Chennai,Undergraduate,PRJ040,Mobile App Development,Intermediate,86.2,53.4,57.6,67.5,76.1,58.3,71.5,1,75.3,110,Strong project; add more creativity and documentation,Software Developer,Software Developer
+STU0052,Ananya,15,Chennai,Undergraduate,PRJ055,Mobile App Development,Intermediate,44.5,68.6,46.6,73.9,81.6,86.1,54.9,0,60.9,89,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0053,Meera,22,Kolkata,Undergraduate,PRJ007,Database,Intermediate,67.6,88.5,78.5,79.4,69.2,73.0,75.6,0,64.9,84,Good work; improve problem-solving depth,Product Manager,Data Analyst
+STU0054,Vivaan,17,Mumbai,Postgraduate,PRJ037,Web Development,Intermediate,100.0,67.9,65.0,64.1,57.0,100.0,83.4,1,88.7,118,Excellent project; ready for advanced work,Cloud Engineer,Cloud Engineer
+STU0055,Diya,24,Chennai,Undergraduate,PRJ016,UI/UX Design,Beginner,76.7,60.9,92.9,44.2,71.0,89.6,70.0,0,76.9,112,Strong project; add more creativity and documentation,Cloud Engineer,Mobile App Developer
+STU0056,Meera,23,Chennai,Undergraduate,PRJ015,Cloud Computing,Beginner,44.7,84.1,66.7,64.9,65.0,88.2,62.7,1,81.9,118,Strong project; add more creativity and documentation,Software Developer,Data Analyst
+STU0057,Rahul,23,Kolkata,Undergraduate,PRJ005,Business Analytics,Intermediate,63.4,45.0,76.9,67.9,64.8,69.4,57.4,0,59.8,74,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0058,Aditya,21,Chennai,Undergraduate,PRJ098,Data Science,Intermediate,63.4,42.5,49.4,39.4,100.0,100.0,56.1,1,72.1,95,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0059,Aditya,23,Hyderabad,Higher Secondary,PRJ040,Cloud Computing,Intermediate,52.3,46.0,39.3,54.8,66.5,100.0,52.6,0,45.2,72,Improve accuracy and completeness,Data Scientist,Cyber Security Analyst
+STU0060,Ira,22,Lucknow,Undergraduate,PRJ031,Python,Advanced,51.9,66.9,86.0,76.5,74.6,91.9,63.1,1,85.5,113,Excellent project; ready for advanced work,Database Administrator,UI/UX Designer
+STU0061,Nisha,24,Jaipur,School,PRJ074,Database,Intermediate,60.5,62.1,64.9,82.9,69.9,78.6,60.3,1,80.5,102,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0062,Kavya,16,Bengaluru,Higher Secondary,PRJ099,Database,Beginner,58.2,70.6,55.7,62.4,60.9,73.3,65.3,1,73.3,105,Strong project; add more creativity and documentation,Data Analyst,Data Analyst
+STU0063,Sneha,21,Hyderabad,School,PRJ092,Python,Beginner,88.5,57.0,48.1,91.3,45.3,49.4,74.7,1,69.8,86,Good work; improve problem-solving depth,Cyber Security Analyst,Software Developer
+STU0064,Priya,19,Hyderabad,Undergraduate,PRJ060,Cyber Security,Intermediate,74.7,30.3,53.3,81.3,53.1,67.9,59.5,1,69.3,94,Good work; improve problem-solving depth,Product Manager,Mobile App Developer
+STU0065,Priya,15,Chennai,School,PRJ060,Mobile App Development,Intermediate,61.9,67.1,44.6,69.5,85.7,84.4,63.3,1,71.1,90,Strong project; add more creativity and documentation,UI/UX Designer,Cyber Security Analyst
+STU0066,Aanya,20,Pune,Higher Secondary,PRJ051,Web Development,Intermediate,92.0,51.3,34.5,58.7,30.6,57.4,74.9,1,60.9,80,Good work; improve problem-solving depth,Cloud Engineer,Software Developer
+STU0067,Diya,23,Guwahati,Higher Secondary,PRJ075,Cloud Computing,Intermediate,54.8,52.3,56.7,48.9,67.9,67.9,56.0,1,68.9,92,Good work; improve problem-solving depth,AI/ML Engineer,Cyber Security Analyst
+STU0068,Ishaan,25,Lucknow,School,PRJ014,Cyber Security,Intermediate,63.3,35.0,77.7,82.7,75.4,73.6,59.6,1,84.3,103,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0069,Nisha,20,Mumbai,Undergraduate,PRJ061,Cloud Computing,Advanced,39.5,50.1,74.4,80.8,100.0,76.7,47.4,0,66.5,89,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0070,Arjun,15,Pune,Undergraduate,PRJ039,Python,Advanced,66.8,72.0,73.3,38.9,53.5,57.7,73.3,0,65.1,79,Good work; improve problem-solving depth,Mobile App Developer,AI/ML Engineer
+STU0071,Ira,17,Chennai,Undergraduate,PRJ062,Cyber Security,Beginner,44.9,23.7,59.8,73.7,59.9,96.0,45.8,1,60.6,78,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0072,Meera,22,Lucknow,Undergraduate,PRJ093,Artificial Intelligence,Intermediate,60.7,52.6,41.8,46.9,84.4,71.9,60.4,1,68.7,84,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0073,Kavya,23,Delhi,Higher Secondary,PRJ073,Artificial Intelligence,Intermediate,35.6,35.3,44.6,81.9,89.4,80.3,41.4,0,64.4,96,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0074,Rahul,18,Bengaluru,School,PRJ023,Python,Beginner,99.6,69.0,64.7,66.1,37.0,89.9,83.7,1,66.1,90,Good work; improve problem-solving depth,Data Analyst,Cloud Engineer
+STU0075,Arjun,16,Guwahati,Higher Secondary,PRJ001,UI/UX Design,Beginner,64.0,45.8,59.6,56.7,65.5,77.7,60.2,0,58.3,83,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0076,Vivaan,19,Delhi,Undergraduate,PRJ013,Cloud Computing,Beginner,59.2,73.1,45.9,69.8,88.5,85.3,66.9,1,72.1,92,Strong project; add more creativity and documentation,Product Manager,Cyber Security Analyst
+STU0077,Aditya,21,Hyderabad,Higher Secondary,PRJ078,Python,Beginner,62.4,58.2,29.5,44.8,90.9,67.0,60.5,1,58.7,80,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0078,Priya,16,Kolkata,Undergraduate,PRJ015,Data Science,Intermediate,56.0,43.5,63.8,31.2,59.0,99.1,55.1,0,68.3,92,Good work; improve problem-solving depth,Product Manager,Mobile App Developer
+STU0079,Ira,18,Bengaluru,Postgraduate,PRJ090,Artificial Intelligence,Advanced,43.7,53.8,41.3,63.6,52.2,63.7,52.8,1,65.3,94,Good work; improve problem-solving depth,Product Manager,Data Analyst
+STU0080,Ishaan,25,Lucknow,School,PRJ009,Business Analytics,Intermediate,66.6,59.3,48.5,57.1,74.9,76.1,66.3,1,61.5,86,Good work; improve problem-solving depth,Mobile App Developer,Cloud Engineer
+STU0081,Sneha,22,Mumbai,Higher Secondary,PRJ098,Business Analytics,Advanced,36.3,57.6,50.2,77.5,62.6,94.2,49.2,1,79.4,109,Strong project; add more creativity and documentation,Software Developer,Product Manager
+STU0082,Kavya,21,Mumbai,Undergraduate,PRJ042,Cyber Security,Beginner,36.4,76.4,87.9,43.5,71.0,97.0,53.8,1,77.9,114,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0083,Arjun,21,Guwahati,Undergraduate,PRJ060,UI/UX Design,Beginner,60.8,76.1,91.2,61.2,55.8,89.3,70.3,1,75.4,96,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0084,Arjun,19,Kolkata,School,PRJ077,Database,Beginner,36.7,93.3,73.9,61.5,43.9,58.5,60.5,1,65.7,90,Good work; improve problem-solving depth,Product Manager,Data Analyst
+STU0085,Priya,21,Pune,Undergraduate,PRJ098,Cloud Computing,Intermediate,54.7,63.8,38.5,61.0,80.0,87.9,62.5,1,74.8,90,Strong project; add more creativity and documentation,Data Analyst,Cyber Security Analyst
+STU0086,Ananya,15,Guwahati,Higher Secondary,PRJ042,Web Development,Beginner,54.7,39.7,50.7,83.3,67.6,80.5,52.3,1,75.0,109,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0087,Arjun,16,Guwahati,Undergraduate,PRJ080,Mobile App Development,Intermediate,44.5,64.5,72.5,57.7,60.5,70.9,56.8,0,56.2,67,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0088,Tanya,18,Delhi,Undergraduate,PRJ093,Cloud Computing,Intermediate,94.4,46.0,63.2,78.3,20.0,76.6,72.5,1,70.6,98,Strong project; add more creativity and documentation,UI/UX Designer,Mobile App Developer
+STU0089,Rohan,25,Jaipur,Undergraduate,PRJ052,UI/UX Design,Beginner,44.7,57.1,57.2,59.2,61.5,68.8,54.7,1,65.8,95,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0090,Rahul,18,Kolkata,Undergraduate,PRJ010,UI/UX Design,Intermediate,55.0,51.5,88.8,47.2,87.2,52.7,62.2,0,57.7,70,Good work; improve problem-solving depth,Database Administrator,UI/UX Designer
+STU0091,Aditya,24,Chennai,School,PRJ093,Database,Beginner,54.8,76.7,56.3,51.4,84.9,75.9,65.4,1,77.4,100,Strong project; add more creativity and documentation,Data Analyst,Database Administrator
+STU0092,Sneha,20,Guwahati,Higher Secondary,PRJ060,Business Analytics,Advanced,42.1,85.1,50.5,42.6,60.9,76.9,64.6,0,61.9,81,Good work; improve problem-solving depth,Database Administrator,Database Administrator
+STU0093,Rohan,22,Pune,Undergraduate,PRJ096,Database,Intermediate,85.2,70.0,50.2,67.6,46.8,65.4,79.3,1,67.1,85,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0094,Ananya,24,Kolkata,School,PRJ036,Python,Beginner,58.5,67.1,84.8,47.5,59.5,81.7,61.9,1,79.5,112,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0095,Nisha,16,Guwahati,Undergraduate,PRJ021,Database,Advanced,90.5,74.3,69.5,52.3,63.4,67.9,76.4,1,74.8,101,Strong project; add more creativity and documentation,AI/ML Engineer,AI/ML Engineer
+STU0096,Kavya,24,Delhi,Undergraduate,PRJ029,UI/UX Design,Advanced,52.5,62.5,42.6,47.6,76.1,61.2,60.0,1,61.5,86,Good work; improve problem-solving depth,Cyber Security Analyst,Database Administrator
+STU0097,Aarav,18,Kolkata,Undergraduate,PRJ003,Data Science,Beginner,50.4,41.4,74.1,76.9,54.1,81.2,53.2,1,72.7,94,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0098,Sneha,18,Chennai,School,PRJ034,Business Analytics,Intermediate,36.9,84.5,56.1,71.1,84.8,65.2,63.2,0,71.8,97,Strong project; add more creativity and documentation,Cyber Security Analyst,Database Administrator
+STU0099,Karan,23,Bengaluru,Undergraduate,PRJ093,Data Science,Intermediate,68.5,20.0,53.3,51.8,85.2,86.0,50.9,1,68.7,98,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0100,Diya,22,Lucknow,School,PRJ031,Business Analytics,Intermediate,37.3,98.9,74.4,79.3,75.9,88.1,64.3,1,80.5,109,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0101,Riya,17,Pune,Higher Secondary,PRJ047,Artificial Intelligence,Beginner,41.8,69.7,57.0,62.6,76.3,87.1,55.4,1,72.2,101,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0102,Tanya,23,Guwahati,Postgraduate,PRJ021,Database,Beginner,89.1,46.8,47.4,57.6,78.6,53.4,70.8,0,55.8,71,Good work; improve problem-solving depth,Mobile App Developer,Software Developer
+STU0103,Ananya,19,Pune,Undergraduate,PRJ092,Business Analytics,Beginner,54.6,94.6,88.4,58.6,58.0,84.1,69.7,1,80.6,108,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0104,Arjun,17,Delhi,Higher Secondary,PRJ033,Mobile App Development,Advanced,56.8,42.0,29.8,58.3,77.7,80.3,53.9,1,62.7,95,Good work; improve problem-solving depth,Database Administrator,Cyber Security Analyst
+STU0105,Sneha,20,Mumbai,Undergraduate,PRJ089,Web Development,Intermediate,49.1,60.1,70.0,78.0,74.3,85.2,56.9,0,68.1,86,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0106,Sneha,23,Delhi,School,PRJ070,Python,Beginner,54.5,47.0,49.6,67.8,84.2,64.8,55.1,1,69.8,100,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0107,Tanya,16,Lucknow,Undergraduate,PRJ068,Database,Beginner,38.1,77.8,81.2,61.3,81.2,69.0,57.8,0,64.1,83,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0108,Aanya,20,Mumbai,School,PRJ069,Mobile App Development,Advanced,76.9,53.6,36.8,77.4,65.8,75.7,73.7,0,58.0,87,Good work; improve problem-solving depth,AI/ML Engineer,Software Developer
+STU0109,Aditya,25,Mumbai,Higher Secondary,PRJ027,Business Analytics,Beginner,74.1,57.4,50.6,49.3,49.9,85.0,67.5,1,64.1,92,Good work; improve problem-solving depth,Data Scientist,Cloud Engineer
+STU0110,Ira,25,Jaipur,Postgraduate,PRJ021,Python,Intermediate,68.2,56.6,56.9,75.9,75.5,91.0,63.2,1,74.9,90,Strong project; add more creativity and documentation,Data Scientist,Software Developer
+STU0111,Aanya,18,Delhi,Postgraduate,PRJ047,Business Analytics,Intermediate,72.8,100.0,67.5,69.6,69.9,73.4,82.4,1,86.3,115,Excellent project; ready for advanced work,Product Manager,Data Analyst
+STU0112,Priya,19,Pune,Higher Secondary,PRJ017,Cyber Security,Intermediate,60.3,43.0,49.6,76.8,75.2,74.9,55.4,1,65.5,89,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0113,Meera,25,Bengaluru,Undergraduate,PRJ076,Data Science,Beginner,57.7,72.5,38.0,72.1,80.0,73.1,64.1,1,67.3,100,Good work; improve problem-solving depth,Software Developer,Database Administrator
+STU0114,Kabir,21,Hyderabad,Undergraduate,PRJ014,Web Development,Intermediate,86.7,52.3,49.6,46.6,58.3,65.6,70.7,1,64.4,93,Good work; improve problem-solving depth,Mobile App Developer,Cloud Engineer
+STU0115,Tanya,20,Chennai,Higher Secondary,PRJ014,Cloud Computing,Beginner,57.9,62.8,70.3,57.6,76.9,73.0,62.7,1,72.5,87,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0116,Arjun,17,Mumbai,Higher Secondary,PRJ081,Cloud Computing,Beginner,49.8,72.3,81.8,63.5,64.5,78.9,64.0,1,77.3,101,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0117,Karan,22,Bengaluru,Postgraduate,PRJ022,Mobile App Development,Intermediate,27.8,47.7,76.9,60.1,80.3,81.0,47.4,1,79.5,98,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0118,Aarav,20,Chennai,Higher Secondary,PRJ093,Mobile App Development,Intermediate,66.1,58.7,83.5,56.3,69.9,68.3,61.6,1,73.2,97,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0119,Ishaan,17,Hyderabad,School,PRJ037,Data Science,Intermediate,100.0,57.5,69.9,66.7,59.7,88.1,74.3,1,76.9,100,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0120,Ira,23,Guwahati,Undergraduate,PRJ045,Database,Beginner,53.3,84.1,49.5,91.6,66.1,68.8,64.4,0,54.2,85,Improve accuracy and completeness,Mobile App Developer,Product Manager
+STU0121,Diya,21,Lucknow,Postgraduate,PRJ015,Database,Beginner,47.8,70.2,81.5,77.6,63.0,66.4,55.8,1,77.9,93,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0122,Vivaan,21,Guwahati,Higher Secondary,PRJ041,Cloud Computing,Intermediate,47.6,61.5,75.9,49.0,67.1,83.9,54.8,0,69.3,90,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0123,Vivaan,25,Mumbai,Undergraduate,PRJ067,Business Analytics,Advanced,46.4,77.3,87.9,63.0,64.5,69.6,61.4,1,78.8,106,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0124,Aditya,21,Guwahati,Higher Secondary,PRJ038,Business Analytics,Beginner,57.0,66.8,53.5,84.6,100.0,83.8,61.0,1,80.1,113,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0125,Ananya,22,Kolkata,Higher Secondary,PRJ037,Artificial Intelligence,Intermediate,40.9,60.1,46.6,66.4,65.3,76.0,53.2,1,62.3,95,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0126,Aditya,19,Lucknow,Undergraduate,PRJ098,Cyber Security,Intermediate,48.3,34.9,45.7,72.4,36.4,80.4,45.6,0,51.6,80,Improve accuracy and completeness,AI/ML Engineer,Product Manager
+STU0127,Rohan,24,Jaipur,School,PRJ085,Database,Advanced,25.3,79.2,41.1,68.3,98.1,66.0,48.1,0,56.9,86,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0128,Ishaan,19,Lucknow,Undergraduate,PRJ012,Artificial Intelligence,Advanced,68.5,61.9,45.6,41.4,84.1,70.9,66.4,1,75.0,109,Strong project; add more creativity and documentation,UI/UX Designer,Cloud Engineer
+STU0129,Meera,15,Delhi,Postgraduate,PRJ092,Business Analytics,Advanced,71.9,67.2,39.9,82.7,53.4,69.5,68.7,1,78.1,112,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0130,Ananya,18,Kolkata,Undergraduate,PRJ080,Data Science,Beginner,61.0,85.5,68.5,63.1,82.1,100.0,71.7,1,82.9,108,Strong project; add more creativity and documentation,Data Scientist,Database Administrator
+STU0131,Arjun,23,Pune,Higher Secondary,PRJ075,Mobile App Development,Intermediate,53.1,52.7,54.2,67.7,74.0,84.3,57.0,1,78.1,107,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0132,Karan,22,Mumbai,School,PRJ008,Web Development,Beginner,54.6,47.3,71.3,58.4,76.4,62.8,54.9,1,73.7,89,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0133,Arjun,22,Hyderabad,Higher Secondary,PRJ054,Cyber Security,Beginner,31.9,56.0,63.3,65.3,42.2,93.6,46.2,0,45.7,64,Improve accuracy and completeness,Data Analyst,UI/UX Designer
+STU0134,Vivaan,18,Chennai,Undergraduate,PRJ076,Web Development,Intermediate,67.8,65.1,67.9,79.8,100.0,83.1,66.3,1,75.2,107,Strong project; add more creativity and documentation,Software Developer,Product Manager
+STU0135,Ira,23,Mumbai,School,PRJ049,Business Analytics,Intermediate,65.4,91.9,56.7,77.6,35.9,72.4,76.0,0,63.8,95,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0136,Riya,22,Chennai,Postgraduate,PRJ094,Database,Beginner,57.3,69.2,47.6,53.2,73.2,85.2,63.3,1,67.8,84,Good work; improve problem-solving depth,Product Manager,Database Administrator
+STU0137,Priya,19,Chennai,Undergraduate,PRJ073,Data Science,Intermediate,62.9,61.2,52.7,73.4,45.3,48.1,62.6,1,65.5,80,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0138,Aarav,25,Bengaluru,Undergraduate,PRJ021,Cyber Security,Beginner,50.2,72.6,92.1,54.6,60.7,94.6,63.6,1,75.2,97,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0139,Aarav,23,Bengaluru,Undergraduate,PRJ028,Cyber Security,Intermediate,66.1,50.3,61.1,51.1,28.6,75.5,66.2,1,67.5,86,Good work; improve problem-solving depth,Software Developer,Mobile App Developer
+STU0140,Arjun,22,Jaipur,School,PRJ100,Cyber Security,Beginner,54.4,68.1,62.0,60.0,58.4,79.3,65.4,1,65.8,89,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0141,Sneha,23,Lucknow,Undergraduate,PRJ071,Mobile App Development,Intermediate,51.7,80.3,44.4,53.4,65.5,56.6,65.0,1,64.8,86,Good work; improve problem-solving depth,Mobile App Developer,Database Administrator
+STU0142,Kavya,23,Kolkata,Undergraduate,PRJ084,Business Analytics,Beginner,55.8,81.6,56.7,71.1,51.5,94.2,65.8,1,74.7,106,Strong project; add more creativity and documentation,Data Analyst,Data Analyst
+STU0143,Diya,23,Guwahati,Higher Secondary,PRJ081,Cyber Security,Intermediate,70.5,46.2,68.4,62.9,68.6,83.4,59.3,1,78.3,101,Strong project; add more creativity and documentation,Data Scientist,Mobile App Developer
+STU0144,Kavya,25,Lucknow,Higher Secondary,PRJ006,Cyber Security,Beginner,57.7,57.6,100.0,72.7,65.3,58.4,60.4,1,74.4,94,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0145,Ishaan,17,Kolkata,Undergraduate,PRJ074,Web Development,Intermediate,72.9,56.2,54.0,70.6,73.1,84.9,64.3,1,76.6,103,Strong project; add more creativity and documentation,Data Analyst,Software Developer
+STU0146,Tanya,19,Bengaluru,Higher Secondary,PRJ094,Business Analytics,Intermediate,61.3,68.9,59.8,56.5,78.4,70.8,62.8,1,65.0,80,Good work; improve problem-solving depth,AI/ML Engineer,Cyber Security Analyst
+STU0147,Ishaan,17,Bengaluru,Postgraduate,PRJ069,Business Analytics,Beginner,44.7,79.9,22.8,77.5,48.8,87.5,62.1,1,66.0,91,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0148,Meera,17,Chennai,Higher Secondary,PRJ091,Business Analytics,Intermediate,52.2,64.7,37.1,84.9,59.0,59.6,60.6,1,58.7,83,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0149,Rohan,24,Chennai,Postgraduate,PRJ010,Database,Intermediate,45.2,86.2,59.9,83.3,57.9,77.4,65.2,1,79.6,101,Strong project; add more creativity and documentation,Cloud Engineer,Data Analyst
+STU0150,Priya,21,Pune,Higher Secondary,PRJ100,Database,Beginner,91.5,78.2,48.8,74.3,73.9,55.6,81.2,1,67.6,94,Good work; improve problem-solving depth,Database Administrator,Software Developer
+STU0151,Riya,22,Chennai,Undergraduate,PRJ021,Cyber Security,Intermediate,46.0,61.4,89.5,70.4,74.2,70.6,57.3,1,78.5,113,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0152,Aditya,20,Guwahati,Undergraduate,PRJ063,Cloud Computing,Beginner,32.5,57.3,65.0,60.0,61.3,72.6,50.5,1,64.7,98,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0153,Aarav,21,Kolkata,Undergraduate,PRJ027,Python,Beginner,71.8,50.0,42.6,85.2,66.1,83.9,65.4,1,74.5,107,Strong project; add more creativity and documentation,UI/UX Designer,Software Developer
+STU0154,Aditya,22,Delhi,School,PRJ016,Data Science,Advanced,65.7,74.3,55.2,73.1,82.2,58.6,71.6,1,77.2,106,Strong project; add more creativity and documentation,Database Administrator,Database Administrator
+STU0155,Rohan,17,Delhi,Undergraduate,PRJ094,Artificial Intelligence,Intermediate,56.0,48.4,38.7,49.6,85.7,58.3,58.6,1,60.6,91,Good work; improve problem-solving depth,Database Administrator,Cyber Security Analyst
+STU0156,Sneha,18,Delhi,Postgraduate,PRJ006,Artificial Intelligence,Intermediate,29.4,40.2,65.3,86.3,59.6,74.2,40.2,0,49.6,68,Improve accuracy and completeness,Mobile App Developer,UI/UX Designer
+STU0157,Karan,19,Pune,Postgraduate,PRJ020,Cloud Computing,Intermediate,45.4,83.5,41.5,41.7,54.6,69.4,60.1,1,61.9,84,Good work; improve problem-solving depth,Product Manager,Database Administrator
+STU0158,Aarav,20,Mumbai,Undergraduate,PRJ026,Data Science,Intermediate,66.0,48.5,66.5,76.4,49.8,88.6,63.8,1,71.0,88,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0159,Priya,24,Pune,Undergraduate,PRJ017,Cyber Security,Advanced,33.3,79.5,62.7,58.0,76.3,75.9,58.2,1,74.2,94,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0160,Ananya,16,Delhi,Undergraduate,PRJ084,Web Development,Beginner,86.9,62.7,63.1,42.5,60.4,99.8,74.1,1,77.8,101,Strong project; add more creativity and documentation,Cloud Engineer,AI/ML Engineer
+STU0161,Aditya,21,Lucknow,School,PRJ065,UI/UX Design,Beginner,40.4,29.8,75.4,46.1,41.2,94.6,44.2,1,60.4,86,Good work; improve problem-solving depth,Database Administrator,UI/UX Designer
+STU0162,Vivaan,22,Lucknow,Postgraduate,PRJ060,Mobile App Development,Beginner,54.2,68.2,58.5,80.0,100.0,67.8,59.5,1,77.4,113,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0163,Rahul,24,Delhi,Undergraduate,PRJ001,Web Development,Intermediate,56.8,70.9,49.7,64.4,67.4,53.0,64.3,0,55.0,79,Good work; improve problem-solving depth,UI/UX Designer,Database Administrator
+STU0164,Meera,20,Jaipur,School,PRJ096,Database,Intermediate,49.4,80.1,73.9,84.0,63.4,100.0,60.3,1,77.3,105,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0165,Riya,18,Kolkata,Undergraduate,PRJ087,Python,Intermediate,61.6,45.2,65.7,100.0,72.5,73.9,59.4,0,63.8,85,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0166,Meera,21,Jaipur,Higher Secondary,PRJ047,UI/UX Design,Beginner,78.9,72.6,83.4,47.6,67.8,68.8,72.4,1,74.3,99,Strong project; add more creativity and documentation,UI/UX Designer,AI/ML Engineer
+STU0167,Riya,17,Guwahati,Higher Secondary,PRJ064,Mobile App Development,Intermediate,23.6,79.2,73.7,32.4,83.3,91.7,52.3,1,75.4,105,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0168,Ishaan,22,Hyderabad,Undergraduate,PRJ056,UI/UX Design,Beginner,68.9,69.2,93.4,72.5,87.0,83.4,70.9,1,85.2,117,Excellent project; ready for advanced work,Software Developer,UI/UX Designer
+STU0169,Arjun,23,Bengaluru,Undergraduate,PRJ057,Cloud Computing,Intermediate,71.4,48.6,36.1,62.2,55.0,77.2,65.6,0,54.6,72,Improve accuracy and completeness,Software Developer,Software Developer
+STU0170,Aanya,16,Delhi,Higher Secondary,PRJ062,Cyber Security,Intermediate,69.1,41.8,59.6,47.4,44.9,75.6,58.5,1,63.7,86,Good work; improve problem-solving depth,Software Developer,Mobile App Developer
+STU0171,Ishaan,23,Pune,School,PRJ029,Web Development,Intermediate,54.0,59.2,75.8,85.4,77.6,88.3,59.2,1,84.4,107,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0172,Ira,15,Delhi,Higher Secondary,PRJ094,Data Science,Intermediate,87.9,75.9,61.8,87.2,70.8,68.3,76.7,1,82.8,106,Strong project; add more creativity and documentation,Mobile App Developer,Software Developer
+STU0173,Meera,25,Bengaluru,School,PRJ007,Python,Intermediate,62.5,41.8,72.2,64.1,90.3,49.8,61.1,1,70.8,105,Strong project; add more creativity and documentation,UI/UX Designer,Mobile App Developer
+STU0174,Kavya,24,Pune,Undergraduate,PRJ089,Artificial Intelligence,Intermediate,32.0,69.1,78.7,59.3,59.4,55.9,52.1,0,54.4,78,Improve accuracy and completeness,Cloud Engineer,UI/UX Designer
+STU0175,Priya,25,Kolkata,Undergraduate,PRJ035,UI/UX Design,Advanced,60.0,62.7,76.0,43.5,78.4,86.0,60.9,1,80.9,107,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0176,Vivaan,20,Lucknow,School,PRJ061,Mobile App Development,Intermediate,46.0,63.8,78.3,93.2,82.4,81.2,59.1,1,80.5,107,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0177,Aanya,18,Kolkata,Undergraduate,PRJ044,UI/UX Design,Advanced,51.9,66.4,56.1,67.0,83.8,85.1,62.0,1,83.2,117,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0178,Kavya,21,Bengaluru,Undergraduate,PRJ050,Cloud Computing,Intermediate,47.4,46.9,64.2,82.2,92.3,85.3,50.0,0,64.1,90,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0179,Kabir,21,Hyderabad,School,PRJ090,Mobile App Development,Intermediate,55.7,66.4,20.0,60.8,70.6,63.0,63.0,1,53.4,83,Improve accuracy and completeness,Software Developer,Database Administrator
+STU0180,Tanya,18,Jaipur,Undergraduate,PRJ053,UI/UX Design,Intermediate,71.7,76.2,65.4,56.6,57.5,89.3,76.1,1,78.1,107,Strong project; add more creativity and documentation,Database Administrator,Database Administrator
+STU0181,Aanya,15,Hyderabad,Undergraduate,PRJ093,Business Analytics,Advanced,51.9,56.8,55.7,43.3,59.6,74.3,56.7,0,48.2,65,Improve accuracy and completeness,Cloud Engineer,Database Administrator
+STU0182,Ananya,24,Kolkata,Higher Secondary,PRJ056,Python,Beginner,58.1,70.8,84.7,63.9,48.7,68.8,66.9,1,72.5,96,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0183,Rahul,23,Mumbai,School,PRJ060,Cloud Computing,Intermediate,71.9,68.2,50.4,76.3,85.4,79.8,67.9,1,75.6,102,Strong project; add more creativity and documentation,Database Administrator,Cyber Security Analyst
+STU0184,Kabir,23,Chennai,Undergraduate,PRJ077,Web Development,Beginner,90.6,47.3,93.6,78.0,67.5,100.0,71.5,1,88.2,112,Excellent project; ready for advanced work,UI/UX Designer,Mobile App Developer
+STU0185,Tanya,20,Chennai,Undergraduate,PRJ041,Database,Beginner,45.9,59.9,48.1,76.7,50.4,80.9,58.1,1,68.0,86,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0186,Kavya,24,Jaipur,Undergraduate,PRJ046,Cyber Security,Intermediate,42.3,78.2,78.3,62.9,59.0,68.0,58.7,1,71.4,93,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0187,Priya,22,Jaipur,Postgraduate,PRJ081,UI/UX Design,Beginner,66.1,73.0,95.6,73.5,95.3,79.6,69.0,1,94.4,133,Excellent project; ready for advanced work,Cloud Engineer,UI/UX Designer
+STU0188,Kabir,17,Guwahati,Undergraduate,PRJ042,Cloud Computing,Intermediate,50.8,51.5,62.5,45.0,79.2,67.9,56.3,1,59.5,78,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0189,Kabir,25,Mumbai,Undergraduate,PRJ028,Python,Beginner,81.9,60.7,34.2,50.2,60.5,98.3,71.6,1,68.0,83,Good work; improve problem-solving depth,Software Developer,Cloud Engineer
+STU0190,Meera,20,Mumbai,Undergraduate,PRJ058,Cyber Security,Beginner,36.5,78.7,98.2,34.3,68.4,74.7,59.3,1,72.9,90,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0191,Ananya,22,Chennai,Higher Secondary,PRJ026,Python,Beginner,65.3,61.4,43.4,62.0,59.5,69.7,62.9,1,68.5,84,Good work; improve problem-solving depth,Data Analyst,Software Developer
+STU0192,Priya,22,Guwahati,Undergraduate,PRJ089,Data Science,Beginner,63.4,65.1,91.3,59.5,75.6,87.5,66.2,1,79.4,110,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0193,Sneha,17,Jaipur,Higher Secondary,PRJ068,Cloud Computing,Advanced,48.8,64.2,39.7,64.5,71.8,79.7,59.2,1,60.6,78,Good work; improve problem-solving depth,Data Scientist,Database Administrator
+STU0194,Ira,19,Pune,Undergraduate,PRJ093,Cyber Security,Intermediate,75.6,46.9,85.1,74.3,68.4,75.6,63.8,1,78.4,98,Strong project; add more creativity and documentation,Cyber Security Analyst,Mobile App Developer
+STU0195,Vivaan,23,Jaipur,Undergraduate,PRJ031,Web Development,Intermediate,66.1,54.8,43.8,66.1,70.9,61.9,63.6,1,65.3,92,Good work; improve problem-solving depth,Data Analyst,Software Developer
+STU0196,Sneha,23,Pune,Undergraduate,PRJ081,UI/UX Design,Beginner,61.8,58.4,70.2,70.8,55.0,81.6,63.1,1,75.4,102,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0197,Kavya,17,Bengaluru,Higher Secondary,PRJ017,Mobile App Development,Intermediate,48.8,75.3,30.3,59.6,69.9,83.8,61.3,1,62.3,92,Good work; improve problem-solving depth,Product Manager,Database Administrator
+STU0198,Rohan,21,Bengaluru,Higher Secondary,PRJ040,UI/UX Design,Intermediate,50.3,73.5,100.0,75.3,50.6,69.7,58.6,1,73.7,101,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0199,Aanya,24,Jaipur,School,PRJ069,Web Development,Intermediate,65.2,34.4,62.3,61.4,87.6,96.6,58.3,1,75.4,92,Strong project; add more creativity and documentation,UI/UX Designer,Mobile App Developer
+STU0200,Aanya,22,Guwahati,Undergraduate,PRJ096,Artificial Intelligence,Intermediate,82.3,20.0,62.4,69.3,42.8,84.5,57.5,1,68.2,91,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0201,Rohan,18,Bengaluru,Higher Secondary,PRJ087,Data Science,Beginner,80.6,76.8,64.4,73.1,56.4,89.1,80.4,1,81.8,112,Strong project; add more creativity and documentation,Product Manager,Data Analyst
+STU0202,Sneha,16,Delhi,School,PRJ076,Cloud Computing,Intermediate,37.7,72.1,81.6,80.2,58.5,70.5,55.8,0,60.4,78,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0203,Karan,24,Jaipur,Postgraduate,PRJ046,Python,Beginner,71.5,68.1,42.5,53.6,52.4,96.4,69.8,1,81.5,105,Strong project; add more creativity and documentation,Cloud Engineer,Data Analyst
+STU0204,Ira,25,Lucknow,Undergraduate,PRJ021,Python,Beginner,84.5,56.3,39.4,76.8,61.5,40.2,71.0,1,54.6,84,Improve accuracy and completeness,Cyber Security Analyst,Software Developer
+STU0205,Karan,25,Mumbai,Postgraduate,PRJ019,Artificial Intelligence,Intermediate,39.3,31.9,55.3,63.8,71.7,93.7,45.0,1,65.1,86,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0206,Nisha,20,Lucknow,Undergraduate,PRJ094,Cloud Computing,Beginner,38.6,43.7,61.4,66.8,61.4,67.1,46.8,1,62.1,78,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0207,Arjun,23,Jaipur,Undergraduate,PRJ026,Data Science,Advanced,59.5,90.5,94.1,51.7,67.1,100.0,72.2,1,83.1,120,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0208,Ananya,15,Kolkata,Undergraduate,PRJ080,Python,Intermediate,59.1,67.9,74.3,69.0,100.0,76.2,63.8,1,79.7,104,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0209,Vivaan,23,Chennai,Undergraduate,PRJ078,Cloud Computing,Advanced,60.5,39.5,46.3,61.7,68.2,74.1,55.9,1,68.7,85,Good work; improve problem-solving depth,Data Scientist,Software Developer
+STU0210,Aarav,19,Bengaluru,Undergraduate,PRJ020,UI/UX Design,Intermediate,71.6,33.0,88.3,62.6,78.6,83.7,56.3,1,71.1,88,Strong project; add more creativity and documentation,Data Scientist,Mobile App Developer
+STU0211,Aanya,20,Guwahati,Higher Secondary,PRJ031,Database,Intermediate,73.2,94.0,80.4,47.6,37.4,87.2,78.3,1,80.3,110,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0212,Meera,15,Mumbai,Undergraduate,PRJ065,Cyber Security,Beginner,65.8,78.0,58.9,86.8,50.7,72.3,66.1,1,70.2,103,Strong project; add more creativity and documentation,Mobile App Developer,Data Analyst
+STU0213,Rahul,19,Chennai,Higher Secondary,PRJ086,Python,Intermediate,69.1,73.9,38.3,84.9,79.6,93.7,71.3,1,76.6,110,Strong project; add more creativity and documentation,Data Analyst,Cyber Security Analyst
+STU0214,Meera,19,Lucknow,Undergraduate,PRJ042,Data Science,Beginner,84.9,86.6,100.0,51.3,51.1,90.0,81.0,0,76.5,106,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0215,Rohan,16,Kolkata,Undergraduate,PRJ088,Cyber Security,Beginner,68.7,34.8,84.5,73.0,88.0,60.6,54.4,1,65.8,99,Good work; improve problem-solving depth,Product Manager,Mobile App Developer
+STU0216,Nisha,23,Guwahati,Undergraduate,PRJ036,Cyber Security,Beginner,67.1,43.5,82.9,61.0,90.9,86.8,59.2,1,79.4,109,Strong project; add more creativity and documentation,AI/ML Engineer,Mobile App Developer
+STU0217,Rahul,15,Bengaluru,School,PRJ033,Artificial Intelligence,Intermediate,28.1,37.7,49.4,92.3,59.1,80.3,40.6,1,75.0,107,Strong project; add more creativity and documentation,Software Developer,Product Manager
+STU0218,Kavya,19,Mumbai,Undergraduate,PRJ047,Artificial Intelligence,Intermediate,46.9,90.5,74.2,68.0,82.4,92.4,65.6,1,82.1,112,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0219,Kabir,19,Hyderabad,School,PRJ086,Business Analytics,Intermediate,33.5,68.2,72.8,55.9,63.5,86.9,51.0,1,67.8,92,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0220,Aditya,19,Jaipur,Higher Secondary,PRJ043,Database,Beginner,30.7,75.9,78.7,76.8,61.7,52.9,56.1,1,68.0,99,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0221,Nisha,20,Jaipur,Higher Secondary,PRJ049,Python,Intermediate,61.0,37.6,40.7,53.6,55.5,78.1,49.7,1,63.5,82,Good work; improve problem-solving depth,Product Manager,Mobile App Developer
+STU0222,Aditya,24,Pune,School,PRJ012,Database,Intermediate,49.2,70.1,83.1,74.7,49.9,76.6,59.1,1,71.8,100,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0223,Diya,17,Chennai,Undergraduate,PRJ081,Mobile App Development,Intermediate,55.3,40.4,79.1,91.6,69.4,91.3,53.4,1,77.3,110,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0224,Tanya,23,Guwahati,School,PRJ068,UI/UX Design,Advanced,67.3,62.8,65.4,60.3,51.8,67.7,66.5,1,75.8,98,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0225,Nisha,16,Mumbai,School,PRJ053,Business Analytics,Intermediate,41.3,85.0,53.6,57.1,76.3,91.5,59.5,0,62.9,85,Good work; improve problem-solving depth,Mobile App Developer,Database Administrator
+STU0226,Sneha,20,Kolkata,Undergraduate,PRJ026,Mobile App Development,Beginner,49.6,62.8,69.3,72.0,59.0,93.9,56.6,0,58.4,89,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0227,Aarav,16,Kolkata,Undergraduate,PRJ057,Mobile App Development,Intermediate,62.5,20.6,57.0,87.8,58.3,62.7,49.0,1,68.9,97,Good work; improve problem-solving depth,Database Administrator,Mobile App Developer
+STU0228,Priya,21,Guwahati,Higher Secondary,PRJ087,Web Development,Beginner,39.0,49.9,68.2,56.7,66.5,64.4,51.5,1,71.9,93,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0229,Kavya,19,Guwahati,Postgraduate,PRJ088,Python,Intermediate,56.7,43.4,71.5,62.6,62.3,75.4,53.3,1,67.1,98,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0230,Priya,15,Hyderabad,School,PRJ055,Python,Advanced,66.7,72.0,63.8,82.5,72.9,98.3,68.4,1,85.3,103,Excellent project; ready for advanced work,Data Scientist,Product Manager
+STU0231,Sneha,16,Mumbai,Higher Secondary,PRJ052,Cyber Security,Intermediate,63.4,45.8,62.1,78.3,63.2,78.5,61.0,1,71.0,88,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0232,Tanya,21,Jaipur,Undergraduate,PRJ002,Web Development,Advanced,76.8,45.5,68.4,69.9,53.2,72.9,64.2,1,65.7,87,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0233,Ananya,22,Jaipur,Postgraduate,PRJ070,UI/UX Design,Advanced,63.4,60.8,88.6,55.2,78.4,91.7,63.6,1,86.8,110,Excellent project; ready for advanced work,AI/ML Engineer,UI/UX Designer
+STU0234,Rahul,24,Bengaluru,School,PRJ007,Cyber Security,Beginner,68.4,39.3,93.3,65.1,63.6,84.3,59.6,1,75.7,109,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0235,Meera,15,Hyderabad,School,PRJ075,Cyber Security,Beginner,42.8,41.3,67.4,68.0,78.7,72.4,48.5,1,71.1,101,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0236,Arjun,17,Mumbai,Higher Secondary,PRJ003,Data Science,Beginner,67.1,67.8,61.7,68.5,58.5,72.9,69.3,0,64.3,84,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0237,Tanya,22,Mumbai,Undergraduate,PRJ014,Python,Intermediate,59.7,73.7,76.3,60.3,46.8,80.8,66.9,1,78.7,96,Strong project; add more creativity and documentation,Software Developer,Data Analyst
+STU0238,Ira,22,Guwahati,School,PRJ034,Web Development,Intermediate,62.7,59.1,56.9,45.6,78.9,91.0,61.4,1,72.7,103,Strong project; add more creativity and documentation,Product Manager,Cloud Engineer
+STU0239,Aanya,16,Guwahati,School,PRJ080,UI/UX Design,Advanced,100.0,92.6,56.4,63.5,81.9,100.0,88.1,1,88.4,122,Excellent project; ready for advanced work,Mobile App Developer,AI/ML Engineer
+STU0240,Rahul,21,Guwahati,Undergraduate,PRJ018,Database,Intermediate,47.7,55.4,81.7,58.4,77.2,67.6,60.2,1,85.3,103,Excellent project; ready for advanced work,Database Administrator,UI/UX Designer
+STU0241,Sneha,15,Delhi,Higher Secondary,PRJ023,Python,Beginner,32.3,60.7,80.2,44.4,58.2,82.3,52.3,1,78.1,103,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0242,Rahul,17,Hyderabad,School,PRJ065,Web Development,Intermediate,55.9,57.8,56.2,68.5,42.6,81.7,58.3,1,65.3,97,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0243,Aditya,15,Hyderabad,School,PRJ019,UI/UX Design,Beginner,28.4,65.1,38.7,47.8,35.9,76.9,49.3,1,53.2,77,Improve accuracy and completeness,Product Manager,Data Analyst
+STU0244,Ira,16,Bengaluru,Postgraduate,PRJ078,Python,Intermediate,57.6,45.9,57.5,62.2,70.3,98.4,56.1,1,71.1,98,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0245,Rohan,17,Delhi,Undergraduate,PRJ055,Web Development,Beginner,86.7,58.2,68.2,83.2,69.5,62.5,73.0,1,73.3,100,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0246,Karan,15,Lucknow,Undergraduate,PRJ071,Cyber Security,Beginner,53.1,47.9,77.5,48.5,74.3,93.4,55.7,1,74.4,94,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0247,Vivaan,16,Bengaluru,Undergraduate,PRJ071,Database,Beginner,50.8,62.9,55.9,50.7,84.7,99.8,56.9,0,65.4,95,Good work; improve problem-solving depth,Product Manager,Cyber Security Analyst
+STU0248,Sneha,21,Kolkata,Higher Secondary,PRJ050,Business Analytics,Beginner,33.5,70.1,44.4,56.5,46.2,71.0,53.1,1,60.0,88,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0249,Aanya,24,Chennai,Undergraduate,PRJ077,Database,Intermediate,48.6,64.7,64.9,73.5,79.1,57.1,58.9,1,69.2,97,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0250,Aditya,21,Hyderabad,Undergraduate,PRJ052,Artificial Intelligence,Intermediate,52.4,41.6,63.3,80.5,73.3,54.5,53.1,1,63.6,92,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0251,Meera,19,Jaipur,Undergraduate,PRJ033,Artificial Intelligence,Intermediate,50.0,74.4,65.8,57.0,58.7,100.0,61.1,1,78.3,104,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0252,Kabir,23,Delhi,Undergraduate,PRJ073,Data Science,Advanced,53.9,54.7,20.0,65.8,81.2,64.8,59.1,1,61.1,76,Good work; improve problem-solving depth,Database Administrator,Cyber Security Analyst
+STU0253,Nisha,21,Hyderabad,Higher Secondary,PRJ071,Web Development,Beginner,75.1,80.9,66.2,75.7,67.9,83.0,78.6,1,84.4,121,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0254,Kabir,20,Kolkata,Higher Secondary,PRJ011,Database,Beginner,46.8,76.1,80.0,61.1,47.8,84.7,60.0,1,75.7,107,Strong project; add more creativity and documentation,UI/UX Designer,Data Analyst
+STU0255,Arjun,22,Delhi,Postgraduate,PRJ069,Data Science,Beginner,78.5,51.9,89.3,66.8,68.9,75.7,67.3,1,81.2,117,Strong project; add more creativity and documentation,AI/ML Engineer,Mobile App Developer
+STU0256,Priya,16,Hyderabad,School,PRJ036,Business Analytics,Intermediate,42.1,76.5,44.7,84.1,91.6,100.0,57.5,1,70.0,103,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0257,Ananya,20,Hyderabad,Undergraduate,PRJ072,Cyber Security,Intermediate,63.3,55.1,56.8,76.5,84.7,66.8,61.7,1,78.5,112,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0258,Kabir,22,Jaipur,School,PRJ093,Cloud Computing,Beginner,60.4,20.0,44.0,58.2,76.5,78.3,45.4,1,65.1,97,Good work; improve problem-solving depth,Database Administrator,Mobile App Developer
+STU0259,Vivaan,22,Lucknow,Postgraduate,PRJ090,Web Development,Beginner,57.2,56.7,92.8,45.1,39.2,88.2,58.2,1,74.3,99,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0260,Priya,15,Kolkata,Undergraduate,PRJ026,Mobile App Development,Intermediate,50.1,64.9,72.7,52.2,57.3,68.3,58.2,1,64.4,94,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0261,Rohan,17,Lucknow,Higher Secondary,PRJ052,Business Analytics,Intermediate,58.9,61.8,61.9,70.6,84.0,79.3,64.3,1,74.3,101,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0262,Priya,19,Guwahati,Higher Secondary,PRJ091,Business Analytics,Intermediate,61.2,53.5,90.8,77.7,45.0,73.0,58.2,0,59.5,91,Good work; improve problem-solving depth,Database Administrator,UI/UX Designer
+STU0263,Ishaan,22,Hyderabad,Higher Secondary,PRJ051,Artificial Intelligence,Intermediate,46.2,72.9,20.0,67.0,87.2,97.5,59.8,1,78.8,101,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0264,Ishaan,25,Bengaluru,Undergraduate,PRJ093,Cyber Security,Beginner,38.9,36.5,56.9,50.9,41.4,86.5,41.6,1,63.4,77,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0265,Sneha,16,Hyderabad,Undergraduate,PRJ095,Business Analytics,Advanced,43.6,53.4,79.7,48.7,70.3,91.7,54.5,1,78.2,95,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0266,Kavya,17,Jaipur,Undergraduate,PRJ049,UI/UX Design,Advanced,30.6,67.3,98.5,70.3,71.7,58.3,46.1,1,70.5,102,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0267,Nisha,19,Jaipur,Higher Secondary,PRJ044,Business Analytics,Intermediate,45.3,69.3,65.0,71.7,63.0,54.1,57.7,1,63.9,96,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0268,Sneha,18,Kolkata,Higher Secondary,PRJ058,Web Development,Beginner,54.2,57.9,59.8,90.4,61.9,81.6,57.6,1,70.6,93,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0269,Meera,18,Jaipur,Undergraduate,PRJ020,Cyber Security,Intermediate,62.7,31.8,64.2,52.5,87.9,82.2,55.2,1,76.1,106,Strong project; add more creativity and documentation,UI/UX Designer,Mobile App Developer
+STU0270,Tanya,20,Delhi,Undergraduate,PRJ085,Database,Beginner,54.7,43.3,68.4,55.5,43.4,67.7,54.1,1,59.2,90,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0271,Karan,21,Bengaluru,Undergraduate,PRJ040,Cyber Security,Beginner,67.7,60.2,60.3,65.3,61.9,56.6,67.7,0,58.7,86,Good work; improve problem-solving depth,Data Analyst,Cloud Engineer
+STU0272,Riya,20,Hyderabad,School,PRJ060,Artificial Intelligence,Intermediate,27.9,61.7,33.3,67.1,96.0,94.7,46.9,1,66.0,87,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0273,Karan,20,Bengaluru,Undergraduate,PRJ018,Artificial Intelligence,Beginner,55.4,34.9,63.9,95.7,74.4,77.3,53.3,1,78.0,95,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0274,Riya,25,Hyderabad,Higher Secondary,PRJ089,Cloud Computing,Beginner,58.0,46.7,45.7,38.6,58.1,100.0,57.0,1,65.2,81,Good work; improve problem-solving depth,Software Developer,Cloud Engineer
+STU0275,Kavya,21,Pune,Higher Secondary,PRJ045,Business Analytics,Beginner,46.0,53.5,64.7,70.1,98.4,58.3,55.8,1,72.1,91,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0276,Ananya,17,Chennai,Higher Secondary,PRJ091,Cyber Security,Intermediate,45.9,35.7,50.8,81.9,44.1,64.3,47.4,1,57.1,72,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0277,Ishaan,19,Delhi,Higher Secondary,PRJ077,Artificial Intelligence,Advanced,33.5,26.4,76.5,51.2,47.0,67.4,36.6,1,58.1,86,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0278,Ananya,16,Bengaluru,Higher Secondary,PRJ034,Business Analytics,Intermediate,45.1,85.1,100.0,33.2,53.1,100.0,60.5,1,80.0,105,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0279,Riya,22,Guwahati,School,PRJ093,UI/UX Design,Beginner,48.3,60.3,94.8,37.9,60.9,54.2,55.8,1,69.6,103,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0280,Aarav,19,Pune,Undergraduate,PRJ035,Python,Intermediate,60.5,50.1,54.0,55.6,70.3,55.4,57.7,1,63.6,93,Good work; improve problem-solving depth,Data Scientist,Mobile App Developer
+STU0281,Riya,16,Lucknow,Undergraduate,PRJ048,Cloud Computing,Beginner,53.0,70.7,69.4,56.8,46.3,91.9,60.0,1,77.2,113,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0282,Aarav,23,Chennai,Postgraduate,PRJ043,Cyber Security,Intermediate,48.8,44.5,39.3,80.1,81.1,84.3,53.7,1,71.6,92,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0283,Ira,18,Lucknow,School,PRJ026,Data Science,Beginner,67.1,58.0,63.3,68.4,89.2,75.5,65.9,1,80.7,117,Strong project; add more creativity and documentation,Cloud Engineer,Cyber Security Analyst
+STU0284,Kabir,19,Guwahati,School,PRJ071,Python,Beginner,73.0,64.4,42.1,80.4,66.7,78.1,72.8,0,63.7,83,Good work; improve problem-solving depth,UI/UX Designer,Software Developer
+STU0285,Rahul,19,Pune,Higher Secondary,PRJ031,Cyber Security,Intermediate,51.8,75.7,71.6,36.7,70.0,73.9,61.3,1,74.9,105,Strong project; add more creativity and documentation,Cyber Security Analyst,Database Administrator
+STU0286,Aarav,15,Jaipur,Undergraduate,PRJ074,Cloud Computing,Intermediate,59.4,69.2,77.2,86.8,74.8,64.3,66.2,1,74.9,98,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0287,Tanya,18,Chennai,Higher Secondary,PRJ003,Data Science,Intermediate,81.3,57.5,63.3,57.2,75.6,91.3,72.0,1,79.0,115,Strong project; add more creativity and documentation,Database Administrator,Cloud Engineer
+STU0288,Aditya,25,Lucknow,Higher Secondary,PRJ075,Business Analytics,Intermediate,49.9,78.0,47.6,71.3,62.8,53.6,65.6,0,59.3,75,Good work; improve problem-solving depth,Data Scientist,Data Analyst
+STU0289,Priya,16,Pune,Higher Secondary,PRJ036,Business Analytics,Beginner,52.6,86.8,59.9,60.1,74.3,61.5,68.5,1,70.5,87,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0290,Ishaan,21,Delhi,School,PRJ022,Business Analytics,Intermediate,34.3,65.3,44.3,88.6,61.8,80.1,54.7,1,67.5,96,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0291,Tanya,19,Delhi,Higher Secondary,PRJ041,UI/UX Design,Beginner,61.3,20.0,65.1,49.8,51.2,71.2,48.6,1,61.2,91,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0292,Kavya,25,Chennai,Postgraduate,PRJ015,Artificial Intelligence,Intermediate,49.8,32.2,23.7,80.0,55.4,79.7,47.4,1,63.6,84,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0293,Rohan,22,Hyderabad,Undergraduate,PRJ044,Artificial Intelligence,Intermediate,59.2,53.4,73.8,48.0,91.4,57.1,58.8,1,73.6,107,Strong project; add more creativity and documentation,Data Scientist,Mobile App Developer
+STU0294,Nisha,19,Jaipur,School,PRJ044,Cloud Computing,Beginner,36.6,60.4,86.5,74.2,57.0,69.5,50.0,1,67.4,84,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0295,Aditya,21,Mumbai,School,PRJ026,Web Development,Beginner,75.9,60.1,82.9,64.8,93.6,72.0,67.6,1,78.0,99,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0296,Aanya,22,Hyderabad,Higher Secondary,PRJ098,Business Analytics,Advanced,57.9,76.9,74.2,69.7,63.9,83.0,64.9,1,75.7,108,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0297,Priya,23,Jaipur,School,PRJ007,Mobile App Development,Advanced,76.6,50.3,60.3,60.7,84.2,41.1,66.1,1,72.5,101,Strong project; add more creativity and documentation,Mobile App Developer,Software Developer
+STU0298,Aarav,22,Lucknow,Higher Secondary,PRJ048,Database,Intermediate,48.8,44.8,54.5,70.4,79.6,69.2,45.8,1,61.0,79,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0299,Priya,15,Jaipur,Undergraduate,PRJ050,Python,Advanced,88.7,68.2,56.1,67.9,56.4,67.6,77.5,1,72.4,105,Strong project; add more creativity and documentation,Product Manager,Software Developer
+STU0300,Tanya,19,Kolkata,Higher Secondary,PRJ067,Database,Beginner,63.7,67.3,58.2,60.5,65.8,73.0,68.1,1,74.7,98,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0301,Nisha,18,Delhi,Undergraduate,PRJ024,Web Development,Beginner,58.3,58.1,40.2,58.6,69.3,78.1,61.5,1,66.5,96,Good work; improve problem-solving depth,Database Administrator,Cyber Security Analyst
+STU0302,Kabir,16,Lucknow,Undergraduate,PRJ003,Data Science,Intermediate,74.7,72.7,42.5,68.5,79.1,77.0,73.2,1,73.5,104,Strong project; add more creativity and documentation,Database Administrator,Cloud Engineer
+STU0303,Vivaan,16,Jaipur,Higher Secondary,PRJ021,Cyber Security,Advanced,59.1,38.7,68.2,63.6,56.8,58.1,54.2,1,67.8,83,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0304,Nisha,19,Chennai,Postgraduate,PRJ057,Database,Intermediate,39.3,56.2,62.4,65.5,97.0,76.9,54.5,1,70.3,96,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0305,Riya,17,Chennai,Undergraduate,PRJ087,Database,Intermediate,59.3,54.5,74.6,70.6,97.9,81.3,58.6,1,80.0,111,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0306,Meera,25,Guwahati,Postgraduate,PRJ033,Artificial Intelligence,Beginner,57.7,44.1,35.4,74.9,76.3,61.0,51.8,1,61.3,94,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0307,Nisha,19,Pune,Postgraduate,PRJ099,Cloud Computing,Beginner,61.8,25.2,80.4,70.3,83.2,70.7,49.8,1,75.9,107,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0308,Kavya,19,Bengaluru,Undergraduate,PRJ017,Cloud Computing,Beginner,57.1,44.7,64.6,38.5,61.2,77.3,55.1,1,74.1,105,Strong project; add more creativity and documentation,Product Manager,Cloud Engineer
+STU0309,Sneha,20,Hyderabad,Undergraduate,PRJ036,Artificial Intelligence,Intermediate,58.4,49.3,73.2,42.6,82.0,65.5,55.4,1,65.3,87,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0310,Priya,22,Jaipur,Postgraduate,PRJ100,Cyber Security,Intermediate,63.4,56.4,57.8,22.3,60.6,59.5,62.5,0,48.0,74,Improve accuracy and completeness,Database Administrator,AI/ML Engineer
+STU0311,Kavya,17,Pune,School,PRJ074,Database,Beginner,52.0,71.7,89.8,43.8,88.0,90.6,58.4,0,68.5,99,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0312,Nisha,23,Mumbai,Postgraduate,PRJ021,Data Science,Beginner,70.1,57.8,58.5,61.1,71.0,64.4,64.1,1,66.0,87,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0313,Rahul,16,Mumbai,School,PRJ088,Data Science,Beginner,49.3,62.0,87.3,78.8,85.3,66.1,56.9,1,71.1,98,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0314,Kabir,25,Bengaluru,School,PRJ091,Database,Beginner,46.1,68.8,81.8,77.1,55.5,77.6,60.4,1,72.3,99,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0315,Rahul,19,Kolkata,School,PRJ067,Web Development,Beginner,44.4,36.2,64.4,58.8,53.5,85.8,45.0,1,64.7,84,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0316,Karan,24,Jaipur,Undergraduate,PRJ079,Mobile App Development,Advanced,74.9,59.5,49.5,77.1,79.1,63.2,69.2,1,74.6,108,Strong project; add more creativity and documentation,Cloud Engineer,Software Developer
+STU0317,Vivaan,24,Guwahati,Higher Secondary,PRJ074,Data Science,Beginner,68.6,76.8,96.3,27.8,64.5,60.3,71.0,0,63.8,91,Good work; improve problem-solving depth,Data Scientist,AI/ML Engineer
+STU0318,Ananya,21,Delhi,Undergraduate,PRJ009,Cyber Security,Beginner,61.6,52.2,68.9,68.4,85.8,88.3,61.9,0,63.6,83,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0319,Riya,21,Bengaluru,Higher Secondary,PRJ080,UI/UX Design,Intermediate,70.2,39.8,48.0,85.3,67.7,75.7,60.0,1,74.6,89,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0320,Diya,15,Lucknow,Postgraduate,PRJ025,Database,Beginner,59.7,71.7,62.5,52.0,87.7,76.3,64.5,1,71.6,96,Strong project; add more creativity and documentation,Software Developer,Database Administrator
+STU0321,Priya,15,Jaipur,Postgraduate,PRJ022,Cyber Security,Beginner,42.1,55.5,58.2,51.0,72.2,81.0,50.9,1,72.7,106,Strong project; add more creativity and documentation,Cloud Engineer,Product Manager
+STU0322,Kavya,15,Hyderabad,Higher Secondary,PRJ079,UI/UX Design,Intermediate,62.7,59.1,61.5,35.5,97.6,80.0,63.7,1,71.7,98,Strong project; add more creativity and documentation,Software Developer,Cyber Security Analyst
+STU0323,Tanya,18,Guwahati,Postgraduate,PRJ081,Database,Beginner,66.0,76.1,73.8,98.5,99.8,69.1,73.6,1,80.5,113,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0324,Arjun,25,Lucknow,Higher Secondary,PRJ031,UI/UX Design,Advanced,57.0,84.0,33.5,70.3,87.1,79.4,69.6,1,72.6,95,Strong project; add more creativity and documentation,Database Administrator,Database Administrator
+STU0325,Aanya,15,Lucknow,School,PRJ056,UI/UX Design,Intermediate,66.2,54.9,69.2,87.5,66.7,81.8,60.6,0,63.1,95,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0326,Kavya,19,Jaipur,Undergraduate,PRJ062,Artificial Intelligence,Intermediate,68.3,32.0,59.1,66.2,60.6,84.4,56.0,1,70.3,85,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0327,Vivaan,22,Bengaluru,School,PRJ017,Cloud Computing,Intermediate,66.1,41.9,94.7,63.3,61.1,90.6,56.6,1,79.9,110,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0328,Diya,22,Lucknow,Undergraduate,PRJ071,Database,Intermediate,76.2,46.4,88.9,70.6,65.8,73.7,63.4,1,77.1,108,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0329,Aarav,15,Delhi,Higher Secondary,PRJ071,Database,Beginner,51.1,67.0,71.6,55.4,62.9,77.8,60.7,0,60.6,88,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0330,Vivaan,21,Mumbai,Postgraduate,PRJ068,Web Development,Beginner,67.1,67.5,54.8,59.1,82.9,80.5,70.2,0,60.8,79,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0331,Meera,20,Guwahati,Undergraduate,PRJ055,Database,Beginner,61.1,68.2,83.7,82.0,79.0,66.9,63.8,1,73.5,96,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0332,Aarav,19,Hyderabad,Undergraduate,PRJ100,Python,Beginner,51.9,62.6,31.8,59.2,52.1,85.1,62.9,1,57.8,88,Good work; improve problem-solving depth,Software Developer,Data Analyst
+STU0333,Riya,19,Mumbai,Postgraduate,PRJ063,Mobile App Development,Beginner,70.6,28.7,53.8,68.0,53.2,100.0,54.5,1,71.0,87,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0334,Rohan,17,Pune,Higher Secondary,PRJ065,Python,Intermediate,86.6,67.9,57.4,66.4,44.8,56.0,76.4,1,69.1,95,Good work; improve problem-solving depth,UI/UX Designer,AI/ML Engineer
+STU0335,Tanya,16,Guwahati,Undergraduate,PRJ013,Mobile App Development,Intermediate,34.8,52.8,62.8,38.1,84.7,86.3,47.4,1,68.3,85,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0336,Tanya,23,Lucknow,Undergraduate,PRJ038,Mobile App Development,Intermediate,79.1,36.4,67.0,88.7,53.7,84.7,59.6,1,75.5,103,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0337,Diya,16,Pune,Higher Secondary,PRJ020,Web Development,Intermediate,42.7,29.4,67.0,100.0,73.5,99.7,45.8,1,75.5,94,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0338,Aanya,15,Mumbai,School,PRJ010,Python,Intermediate,79.7,62.0,96.6,72.3,100.0,85.5,70.8,1,95.7,124,Excellent project; ready for advanced work,Mobile App Developer,Mobile App Developer
+STU0339,Ira,24,Bengaluru,Undergraduate,PRJ009,Business Analytics,Intermediate,36.7,88.5,44.8,77.7,90.6,83.9,58.5,1,81.9,105,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0340,Aarav,20,Delhi,Higher Secondary,PRJ030,Business Analytics,Advanced,63.4,55.7,68.7,44.0,61.8,90.7,60.5,1,67.5,88,Good work; improve problem-solving depth,Data Analyst,Cloud Engineer
+STU0341,Karan,16,Hyderabad,School,PRJ023,Business Analytics,Beginner,58.3,50.0,78.7,67.9,70.0,77.9,56.7,0,58.1,78,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0342,Priya,25,Kolkata,Undergraduate,PRJ028,UI/UX Design,Advanced,44.5,47.1,83.5,87.6,90.4,100.0,53.8,1,86.9,107,Excellent project; ready for advanced work,Data Analyst,Product Manager
+STU0343,Karan,20,Lucknow,Undergraduate,PRJ054,Data Science,Beginner,60.1,93.1,57.9,34.2,37.0,78.4,74.8,0,59.2,72,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0344,Ishaan,15,Lucknow,School,PRJ008,Database,Intermediate,60.3,58.6,40.8,55.3,67.6,74.9,61.0,1,60.7,87,Good work; improve problem-solving depth,Cyber Security Analyst,Cloud Engineer
+STU0345,Kabir,25,Delhi,School,PRJ013,Cyber Security,Beginner,38.6,57.0,63.6,75.4,100.0,48.8,52.5,1,70.8,105,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0346,Priya,22,Chennai,Postgraduate,PRJ075,Database,Beginner,38.9,88.3,36.4,46.4,34.3,68.9,62.7,1,58.7,80,Good work; improve problem-solving depth,Database Administrator,Data Analyst
+STU0347,Ishaan,24,Delhi,Higher Secondary,PRJ096,Cloud Computing,Advanced,55.9,45.8,49.8,43.0,71.6,61.7,55.2,1,55.9,74,Good work; improve problem-solving depth,UI/UX Designer,Cloud Engineer
+STU0348,Tanya,22,Delhi,Undergraduate,PRJ049,Database,Intermediate,72.3,58.5,24.8,74.6,66.2,65.3,66.2,0,56.6,85,Good work; improve problem-solving depth,UI/UX Designer,Software Developer
+STU0349,Meera,24,Bengaluru,School,PRJ008,Business Analytics,Beginner,33.1,61.7,35.8,76.1,73.3,82.7,45.3,0,52.6,77,Improve accuracy and completeness,Data Analyst,Product Manager
+STU0350,Karan,25,Lucknow,Undergraduate,PRJ019,Cyber Security,Intermediate,45.5,62.8,43.3,58.8,68.7,100.0,54.2,1,76.7,104,Strong project; add more creativity and documentation,Cloud Engineer,Database Administrator
+STU0351,Priya,17,Delhi,Higher Secondary,PRJ081,Business Analytics,Intermediate,75.6,58.6,70.3,41.8,64.6,78.2,68.1,0,64.7,92,Good work; improve problem-solving depth,Cloud Engineer,Mobile App Developer
+STU0352,Aarav,18,Jaipur,School,PRJ015,Artificial Intelligence,Beginner,43.6,87.4,68.0,66.2,67.6,47.0,65.7,1,68.5,95,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0353,Kabir,24,Pune,Undergraduate,PRJ048,Cyber Security,Intermediate,48.0,69.7,65.9,49.5,53.5,73.3,60.2,1,62.2,79,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0354,Riya,15,Mumbai,Higher Secondary,PRJ076,Cyber Security,Beginner,37.8,54.8,67.6,90.5,61.1,70.9,51.6,1,76.4,110,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0355,Aarav,19,Hyderabad,Higher Secondary,PRJ036,Business Analytics,Beginner,78.2,79.9,60.9,69.8,54.0,92.3,78.0,1,79.4,98,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0356,Kabir,23,Kolkata,Higher Secondary,PRJ005,Artificial Intelligence,Intermediate,50.2,74.6,64.0,73.4,43.8,73.0,62.7,1,71.5,102,Strong project; add more creativity and documentation,Product Manager,Data Analyst
+STU0357,Aditya,17,Jaipur,Undergraduate,PRJ072,Cloud Computing,Intermediate,58.1,54.0,68.4,61.5,97.3,81.0,58.2,1,77.1,102,Strong project; add more creativity and documentation,Database Administrator,Cyber Security Analyst
+STU0358,Ira,18,Hyderabad,Postgraduate,PRJ011,Database,Intermediate,47.0,72.5,37.3,76.8,97.5,67.1,62.9,1,76.4,110,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0359,Rohan,24,Jaipur,School,PRJ067,Cloud Computing,Advanced,43.7,63.7,80.8,40.6,73.1,74.4,56.2,1,73.6,94,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0360,Kavya,25,Delhi,School,PRJ071,Artificial Intelligence,Intermediate,50.1,41.4,36.0,68.8,61.3,97.5,51.0,1,68.6,98,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0361,Nisha,24,Guwahati,Undergraduate,PRJ028,UI/UX Design,Intermediate,67.9,69.1,72.5,94.5,58.4,79.2,71.7,0,65.7,98,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0362,Meera,20,Lucknow,Undergraduate,PRJ088,Data Science,Intermediate,65.2,39.1,60.1,87.4,75.4,100.0,54.5,1,82.5,104,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0363,Rahul,17,Lucknow,Undergraduate,PRJ072,Business Analytics,Beginner,58.7,67.8,46.0,74.2,43.2,78.1,66.9,1,60.8,89,Good work; improve problem-solving depth,AI/ML Engineer,Data Analyst
+STU0364,Meera,25,Guwahati,Undergraduate,PRJ041,Cyber Security,Intermediate,75.0,60.2,66.6,53.0,55.9,55.8,68.3,0,61.9,79,Good work; improve problem-solving depth,AI/ML Engineer,Cloud Engineer
+STU0365,Meera,19,Hyderabad,Higher Secondary,PRJ018,UI/UX Design,Intermediate,64.5,56.3,68.2,67.7,67.4,74.5,62.6,1,73.5,104,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0366,Aarav,21,Delhi,School,PRJ086,Cloud Computing,Advanced,71.9,43.3,70.8,52.9,74.6,99.0,63.2,1,73.1,91,Strong project; add more creativity and documentation,Mobile App Developer,Cloud Engineer
+STU0367,Ira,25,Guwahati,Undergraduate,PRJ065,Artificial Intelligence,Advanced,45.1,74.2,42.9,82.4,84.5,67.3,56.3,0,59.0,91,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0368,Sneha,20,Mumbai,School,PRJ060,Python,Intermediate,56.6,62.2,65.2,37.4,77.2,78.7,62.3,1,69.5,85,Good work; improve problem-solving depth,Data Scientist,Database Administrator
+STU0369,Diya,16,Guwahati,Undergraduate,PRJ089,Python,Intermediate,73.6,53.0,43.3,76.9,67.4,84.7,63.7,1,68.8,91,Good work; improve problem-solving depth,AI/ML Engineer,Software Developer
+STU0370,Ishaan,25,Pune,Undergraduate,PRJ022,Business Analytics,Beginner,84.6,70.5,40.3,46.3,70.4,94.8,76.8,1,67.5,83,Good work; improve problem-solving depth,Cyber Security Analyst,Cloud Engineer
+STU0371,Ira,25,Delhi,Undergraduate,PRJ072,Database,Intermediate,40.6,76.0,85.4,79.6,55.3,66.3,56.6,1,69.1,91,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0372,Karan,23,Kolkata,Higher Secondary,PRJ080,Mobile App Development,Intermediate,62.1,81.4,28.8,63.0,54.4,100.0,71.6,0,60.6,73,Good work; improve problem-solving depth,AI/ML Engineer,Data Analyst
+STU0373,Nisha,15,Kolkata,Undergraduate,PRJ052,Cyber Security,Intermediate,69.0,36.0,79.9,48.4,100.0,79.8,55.3,1,69.6,83,Good work; improve problem-solving depth,Data Scientist,Mobile App Developer
+STU0374,Ananya,25,Hyderabad,Higher Secondary,PRJ023,Python,Beginner,51.6,44.6,65.3,52.3,90.6,66.3,47.9,1,66.8,94,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0375,Arjun,15,Kolkata,Undergraduate,PRJ043,Database,Intermediate,60.7,73.3,76.3,65.9,68.6,80.1,70.2,0,70.5,93,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0376,Nisha,24,Pune,Higher Secondary,PRJ039,Data Science,Intermediate,71.8,54.3,60.7,63.9,70.0,72.1,65.6,0,65.3,89,Good work; improve problem-solving depth,Software Developer,Software Developer
+STU0377,Aarav,15,Hyderabad,Undergraduate,PRJ069,Cyber Security,Beginner,55.8,53.2,72.4,71.3,69.1,63.4,57.8,1,66.3,81,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0378,Rohan,17,Pune,Undergraduate,PRJ098,UI/UX Design,Beginner,67.6,33.2,56.4,80.2,70.1,72.8,57.0,0,68.1,82,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0379,Vivaan,24,Guwahati,Undergraduate,PRJ024,UI/UX Design,Beginner,65.1,60.5,75.0,70.6,52.5,67.7,64.7,1,67.9,83,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0380,Nisha,16,Bengaluru,Higher Secondary,PRJ093,Database,Beginner,74.8,68.0,25.3,71.9,79.5,70.2,73.8,1,62.9,76,Good work; improve problem-solving depth,UI/UX Designer,Cloud Engineer
+STU0381,Aditya,15,Kolkata,Undergraduate,PRJ096,Cyber Security,Advanced,41.9,61.4,53.4,100.0,68.5,93.0,56.0,1,77.7,106,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0382,Ishaan,15,Chennai,Higher Secondary,PRJ073,Mobile App Development,Intermediate,32.8,72.2,59.2,85.6,80.1,68.6,50.7,1,68.9,101,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0383,Kavya,23,Chennai,Higher Secondary,PRJ016,Web Development,Intermediate,48.7,89.7,68.3,66.9,47.4,70.0,65.5,1,66.9,94,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0384,Diya,23,Chennai,Higher Secondary,PRJ003,Database,Beginner,70.4,64.8,73.0,60.5,43.2,92.8,66.7,0,67.1,85,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0385,Sneha,15,Jaipur,Undergraduate,PRJ100,Web Development,Beginner,60.7,41.8,63.8,51.7,67.5,70.5,57.9,0,57.5,73,Good work; improve problem-solving depth,Software Developer,Mobile App Developer
+STU0386,Rohan,23,Guwahati,Undergraduate,PRJ030,Mobile App Development,Beginner,48.7,60.5,70.6,72.1,74.7,76.8,56.9,0,65.8,83,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0387,Aditya,20,Jaipur,Higher Secondary,PRJ082,Database,Intermediate,49.6,80.8,69.0,86.0,68.1,91.3,69.9,1,90.7,116,Excellent project; ready for advanced work,Software Developer,Product Manager
+STU0388,Kabir,20,Bengaluru,Undergraduate,PRJ083,Business Analytics,Intermediate,64.1,52.8,60.2,81.8,65.0,74.3,62.3,1,73.4,101,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0389,Aanya,18,Hyderabad,Undergraduate,PRJ086,Cloud Computing,Beginner,35.5,48.1,49.6,63.7,65.0,88.0,46.9,0,56.5,86,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0390,Kavya,25,Chennai,School,PRJ066,Business Analytics,Beginner,41.9,70.6,71.6,89.8,68.9,62.7,58.2,1,73.3,106,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0391,Karan,18,Guwahati,Undergraduate,PRJ050,Web Development,Advanced,62.7,42.1,100.0,76.3,70.7,79.2,59.3,1,81.4,108,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0392,Riya,21,Hyderabad,Undergraduate,PRJ007,UI/UX Design,Intermediate,43.2,42.9,66.4,48.6,48.4,78.4,48.5,1,69.2,94,Good work; improve problem-solving depth,Database Administrator,UI/UX Designer
+STU0393,Vivaan,17,Guwahati,Undergraduate,PRJ039,Database,Intermediate,32.8,71.9,93.0,52.6,55.4,66.7,55.4,1,64.5,81,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0394,Riya,15,Guwahati,Undergraduate,PRJ003,UI/UX Design,Intermediate,49.4,75.0,65.2,62.7,73.6,66.5,62.7,1,65.5,84,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0395,Nisha,20,Kolkata,Undergraduate,PRJ066,Python,Intermediate,43.2,50.7,47.6,70.6,80.4,84.1,52.2,1,65.2,85,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0396,Karan,21,Delhi,Higher Secondary,PRJ008,Cloud Computing,Advanced,66.2,33.6,47.1,65.6,63.1,56.0,52.9,0,45.2,62,Improve accuracy and completeness,Database Administrator,Mobile App Developer
+STU0397,Sneha,23,Chennai,Higher Secondary,PRJ027,Python,Intermediate,95.8,66.7,88.6,48.0,99.4,53.8,79.5,1,76.2,106,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0398,Riya,17,Hyderabad,Higher Secondary,PRJ038,Cyber Security,Intermediate,30.4,35.7,28.0,41.1,53.6,87.1,41.7,1,56.9,83,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0399,Rahul,15,Guwahati,Undergraduate,PRJ055,Python,Beginner,53.7,63.4,59.5,51.9,87.0,90.1,59.1,0,67.4,95,Good work; improve problem-solving depth,AI/ML Engineer,Cyber Security Analyst
+STU0400,Nisha,20,Jaipur,Undergraduate,PRJ026,Mobile App Development,Beginner,76.1,69.4,65.9,59.6,50.5,82.5,70.6,1,74.1,92,Strong project; add more creativity and documentation,Cloud Engineer,AI/ML Engineer
+STU0401,Aditya,20,Hyderabad,Undergraduate,PRJ032,Web Development,Advanced,72.2,79.9,59.7,67.2,64.1,76.4,72.3,1,77.4,97,Strong project; add more creativity and documentation,Data Analyst,Data Analyst
+STU0402,Tanya,24,Chennai,Higher Secondary,PRJ030,Data Science,Beginner,55.6,54.8,66.9,73.0,70.9,92.8,62.3,1,79.8,113,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0403,Vivaan,24,Pune,Higher Secondary,PRJ031,Python,Advanced,35.8,72.7,54.3,77.0,66.0,78.4,55.2,1,72.4,94,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0404,Kavya,24,Mumbai,Undergraduate,PRJ093,Business Analytics,Intermediate,38.7,74.0,68.1,45.0,59.9,93.5,56.6,1,66.3,91,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0405,Diya,19,Guwahati,School,PRJ051,Web Development,Beginner,67.2,78.4,64.0,55.9,71.1,72.2,70.4,1,71.2,103,Strong project; add more creativity and documentation,UI/UX Designer,Database Administrator
+STU0406,Vivaan,22,Lucknow,Higher Secondary,PRJ015,Cloud Computing,Beginner,81.1,28.1,37.4,57.8,75.5,71.2,59.6,1,66.0,87,Good work; improve problem-solving depth,Mobile App Developer,Software Developer
+STU0407,Aditya,23,Bengaluru,Higher Secondary,PRJ074,Python,Intermediate,72.4,62.5,78.9,29.9,83.7,74.5,67.0,1,76.4,102,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0408,Arjun,18,Mumbai,Undergraduate,PRJ066,Business Analytics,Intermediate,32.5,75.4,59.8,46.2,62.2,97.2,57.0,1,70.8,98,Strong project; add more creativity and documentation,Database Administrator,Database Administrator
+STU0409,Arjun,23,Chennai,Higher Secondary,PRJ093,Cyber Security,Intermediate,68.2,36.5,73.3,53.6,61.5,84.6,58.5,0,68.9,87,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0410,Arjun,25,Hyderabad,Higher Secondary,PRJ048,Business Analytics,Intermediate,39.5,61.2,54.9,90.0,73.6,73.5,51.8,1,74.9,107,Strong project; add more creativity and documentation,Cloud Engineer,Product Manager
+STU0411,Aarav,17,Hyderabad,School,PRJ097,Business Analytics,Advanced,60.6,56.2,55.5,100.0,94.0,77.1,64.0,1,81.6,103,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0412,Priya,25,Hyderabad,School,PRJ088,Cloud Computing,Advanced,37.0,47.9,43.9,65.2,70.9,70.1,45.2,1,59.0,87,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0413,Nisha,25,Lucknow,Undergraduate,PRJ012,Data Science,Advanced,61.7,54.2,55.8,85.8,66.3,86.6,61.2,0,61.5,89,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0414,Rohan,24,Bengaluru,Postgraduate,PRJ086,Cyber Security,Beginner,75.6,46.4,36.1,69.1,49.0,81.6,60.4,1,63.7,96,Good work; improve problem-solving depth,Data Scientist,Software Developer
+STU0415,Aarav,17,Lucknow,Undergraduate,PRJ048,Web Development,Intermediate,59.8,83.5,40.1,84.6,62.8,79.3,72.7,1,68.9,86,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0416,Karan,15,Bengaluru,Postgraduate,PRJ054,Cloud Computing,Beginner,64.9,57.8,46.3,78.0,66.2,77.6,63.3,1,76.4,100,Strong project; add more creativity and documentation,Mobile App Developer,Software Developer
+STU0417,Ananya,25,Bengaluru,School,PRJ050,Business Analytics,Advanced,39.8,74.7,42.7,70.6,79.6,85.9,57.4,0,64.0,97,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0418,Aditya,22,Jaipur,School,PRJ042,Business Analytics,Intermediate,59.5,64.7,57.9,71.8,75.3,89.4,61.4,1,73.9,107,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0419,Rahul,24,Kolkata,School,PRJ014,Web Development,Advanced,62.3,67.8,45.0,50.3,93.9,82.8,67.0,1,77.5,107,Strong project; add more creativity and documentation,Cyber Security Analyst,Cyber Security Analyst
+STU0420,Rahul,24,Hyderabad,Undergraduate,PRJ071,Artificial Intelligence,Advanced,56.9,20.0,45.6,73.2,74.7,61.2,47.1,1,61.9,88,Good work; improve problem-solving depth,Data Scientist,Mobile App Developer
+STU0421,Arjun,19,Delhi,Undergraduate,PRJ092,Artificial Intelligence,Advanced,34.3,61.3,39.1,51.5,57.2,78.6,51.6,1,60.6,93,Good work; improve problem-solving depth,UI/UX Designer,Database Administrator
+STU0422,Nisha,23,Delhi,Undergraduate,PRJ077,UI/UX Design,Beginner,31.8,54.8,48.1,85.6,57.7,54.1,50.2,1,58.0,77,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0423,Rohan,17,Kolkata,School,PRJ054,Python,Beginner,71.7,57.9,79.6,41.2,70.1,67.7,68.4,1,68.1,97,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0424,Aanya,21,Chennai,Undergraduate,PRJ003,Business Analytics,Beginner,87.9,72.0,68.5,55.2,65.1,78.1,78.6,0,70.1,91,Strong project; add more creativity and documentation,Cyber Security Analyst,AI/ML Engineer
+STU0425,Ira,18,Chennai,Higher Secondary,PRJ092,Business Analytics,Beginner,49.1,56.6,47.6,59.5,72.7,60.9,55.1,1,56.8,88,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0426,Priya,24,Hyderabad,School,PRJ093,Python,Intermediate,56.1,67.9,79.6,69.9,56.7,86.5,62.8,1,73.1,88,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0427,Ira,22,Kolkata,Higher Secondary,PRJ071,UI/UX Design,Intermediate,68.6,34.6,78.5,81.5,89.6,79.6,56.3,1,78.3,97,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0428,Priya,19,Lucknow,School,PRJ093,Business Analytics,Beginner,41.0,63.3,61.2,75.0,66.2,78.2,54.9,1,67.0,94,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0429,Priya,15,Hyderabad,Undergraduate,PRJ073,Cyber Security,Advanced,72.0,55.7,44.5,28.7,55.0,60.9,65.8,1,57.0,77,Good work; improve problem-solving depth,Data Analyst,AI/ML Engineer
+STU0430,Aanya,19,Hyderabad,Undergraduate,PRJ007,Mobile App Development,Advanced,59.6,54.7,52.2,86.2,39.4,74.0,59.3,1,71.2,90,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0431,Aanya,20,Jaipur,Undergraduate,PRJ042,UI/UX Design,Beginner,58.8,47.5,45.4,42.9,60.0,80.5,59.9,0,58.7,80,Good work; improve problem-solving depth,Data Analyst,Cloud Engineer
+STU0432,Ishaan,19,Bengaluru,Higher Secondary,PRJ095,Cloud Computing,Advanced,60.0,38.9,50.7,56.1,53.9,93.4,52.1,1,65.0,80,Good work; improve problem-solving depth,Software Developer,Mobile App Developer
+STU0433,Kabir,15,Chennai,Undergraduate,PRJ064,UI/UX Design,Intermediate,57.7,79.3,46.7,58.8,76.6,97.5,65.2,1,82.3,108,Strong project; add more creativity and documentation,UI/UX Designer,Database Administrator
+STU0434,Aditya,25,Mumbai,Higher Secondary,PRJ018,Cloud Computing,Beginner,54.7,36.1,55.5,88.9,39.6,75.2,52.9,1,66.3,90,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0435,Ira,16,Kolkata,Undergraduate,PRJ004,Cloud Computing,Advanced,69.6,41.0,38.8,74.6,65.7,72.1,61.5,1,75.5,105,Strong project; add more creativity and documentation,Product Manager,Software Developer
+STU0436,Priya,23,Lucknow,Undergraduate,PRJ066,Mobile App Development,Intermediate,41.4,61.9,41.3,56.3,58.2,59.5,53.4,1,63.3,95,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0437,Nisha,17,Kolkata,Higher Secondary,PRJ087,Database,Intermediate,84.9,95.5,46.0,72.8,78.2,70.2,82.6,1,72.1,103,Strong project; add more creativity and documentation,Data Analyst,Data Analyst
+STU0438,Sneha,25,Lucknow,School,PRJ067,Python,Beginner,58.7,32.2,65.3,63.9,65.2,74.1,49.1,1,70.8,94,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0439,Priya,22,Kolkata,Undergraduate,PRJ099,Data Science,Intermediate,83.7,45.9,74.9,81.6,72.7,81.0,68.6,1,80.3,97,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0440,Ira,17,Hyderabad,Undergraduate,PRJ074,Python,Beginner,99.0,64.6,64.8,72.5,81.2,91.8,83.1,1,89.7,118,Excellent project; ready for advanced work,Cloud Engineer,Software Developer
+STU0441,Aditya,18,Chennai,Higher Secondary,PRJ047,UI/UX Design,Intermediate,39.6,55.9,37.7,56.8,59.5,67.9,52.9,1,65.4,83,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0442,Aanya,16,Pune,Undergraduate,PRJ021,Cyber Security,Intermediate,64.2,51.4,73.7,57.8,47.7,71.0,64.0,1,70.9,104,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0443,Aditya,19,Lucknow,School,PRJ005,Cloud Computing,Beginner,42.1,44.6,20.0,83.8,56.7,93.1,50.7,1,62.4,77,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0444,Tanya,20,Pune,Undergraduate,PRJ014,Artificial Intelligence,Beginner,20.0,58.0,47.5,47.8,66.1,77.4,46.5,1,60.8,80,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0445,Rahul,23,Hyderabad,School,PRJ097,UI/UX Design,Intermediate,48.6,72.5,96.2,78.4,40.1,92.1,57.5,1,82.4,111,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0446,Ananya,17,Kolkata,Higher Secondary,PRJ049,Cyber Security,Intermediate,35.0,98.0,62.7,80.6,70.5,84.5,63.4,1,78.5,114,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0447,Aditya,21,Delhi,School,PRJ005,Mobile App Development,Intermediate,50.6,52.3,63.5,55.3,68.7,100.0,55.7,1,81.5,115,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0448,Karan,25,Bengaluru,Undergraduate,PRJ009,Business Analytics,Advanced,25.7,74.1,45.8,66.3,79.7,76.6,50.2,1,65.4,89,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0449,Sneha,22,Mumbai,Undergraduate,PRJ044,UI/UX Design,Intermediate,41.3,51.0,76.2,34.2,72.8,87.9,47.8,1,69.9,95,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0450,Kabir,25,Hyderabad,Undergraduate,PRJ097,Cloud Computing,Beginner,58.5,82.3,92.4,64.2,70.8,70.0,68.1,1,84.9,109,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0451,Vivaan,18,Lucknow,Higher Secondary,PRJ086,Data Science,Beginner,55.9,80.0,59.9,58.0,67.5,81.6,65.8,1,76.1,94,Strong project; add more creativity and documentation,Cyber Security Analyst,Database Administrator
+STU0452,Arjun,16,Guwahati,Higher Secondary,PRJ054,Cyber Security,Beginner,65.9,20.0,80.5,65.4,63.1,90.8,54.1,1,82.5,115,Strong project; add more creativity and documentation,Data Analyst,Mobile App Developer
+STU0453,Sneha,15,Mumbai,Undergraduate,PRJ001,Artificial Intelligence,Intermediate,40.0,80.1,82.3,53.8,63.3,97.7,56.9,1,79.8,116,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0454,Meera,18,Guwahati,Undergraduate,PRJ057,Database,Beginner,68.4,94.5,62.8,93.0,52.3,61.3,75.8,1,83.7,105,Strong project; add more creativity and documentation,AI/ML Engineer,Data Analyst
+STU0455,Ishaan,15,Bengaluru,Postgraduate,PRJ050,Cyber Security,Beginner,36.1,71.2,47.2,80.2,69.6,52.9,57.4,1,68.6,100,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0456,Ananya,15,Jaipur,Undergraduate,PRJ054,Business Analytics,Advanced,40.8,64.8,26.3,39.6,42.4,76.3,59.3,0,50.2,67,Improve accuracy and completeness,Cloud Engineer,Database Administrator
+STU0457,Aanya,21,Pune,Higher Secondary,PRJ064,Database,Advanced,44.3,57.6,65.1,72.4,68.5,45.8,50.8,1,63.5,80,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0458,Kavya,21,Kolkata,Undergraduate,PRJ054,UI/UX Design,Beginner,62.1,60.6,80.4,76.1,76.9,73.1,66.4,0,74.0,107,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0459,Rahul,22,Kolkata,Undergraduate,PRJ060,Database,Advanced,47.7,64.3,51.5,73.5,87.6,82.7,60.4,1,71.5,86,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0460,Ira,16,Guwahati,Undergraduate,PRJ038,UI/UX Design,Beginner,48.3,59.8,59.4,36.5,86.5,87.4,60.8,1,67.8,87,Good work; improve problem-solving depth,Mobile App Developer,Database Administrator
+STU0461,Rohan,25,Lucknow,Undergraduate,PRJ021,UI/UX Design,Advanced,67.2,45.3,49.0,67.2,71.2,97.4,57.6,1,68.3,91,Good work; improve problem-solving depth,Cloud Engineer,Software Developer
+STU0462,Rohan,20,Delhi,Higher Secondary,PRJ073,Cloud Computing,Beginner,80.5,65.0,75.2,71.8,50.0,84.3,75.2,1,73.2,104,Strong project; add more creativity and documentation,UI/UX Designer,Mobile App Developer
+STU0463,Riya,16,Mumbai,Postgraduate,PRJ048,Mobile App Development,Beginner,28.0,57.6,25.9,71.8,61.0,69.9,45.9,1,63.2,80,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0464,Meera,17,Guwahati,Higher Secondary,PRJ074,Cloud Computing,Beginner,79.7,75.9,78.1,78.6,81.0,83.7,77.2,0,73.0,90,Strong project; add more creativity and documentation,Database Administrator,Software Developer
+STU0465,Diya,18,Lucknow,Undergraduate,PRJ099,Data Science,Intermediate,72.5,55.4,67.2,74.2,72.0,57.7,68.5,1,65.2,90,Good work; improve problem-solving depth,Data Analyst,Software Developer
+STU0466,Tanya,15,Kolkata,Higher Secondary,PRJ013,Artificial Intelligence,Advanced,50.4,55.6,81.4,61.4,80.0,75.7,59.6,1,74.9,95,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0467,Nisha,17,Chennai,Undergraduate,PRJ087,Database,Beginner,34.9,64.6,66.3,40.9,61.9,93.1,53.6,1,73.4,93,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0468,Arjun,24,Bengaluru,Undergraduate,PRJ048,Python,Beginner,75.8,42.2,37.7,58.7,55.7,80.9,59.0,1,70.9,93,Strong project; add more creativity and documentation,Cloud Engineer,Software Developer
+STU0469,Riya,15,Pune,School,PRJ057,Cyber Security,Advanced,74.6,58.8,70.0,79.2,56.6,100.0,70.6,0,81.5,113,Strong project; add more creativity and documentation,Cyber Security Analyst,Mobile App Developer
+STU0470,Rohan,20,Pune,Undergraduate,PRJ096,Artificial Intelligence,Beginner,38.5,47.9,79.3,57.8,64.2,85.1,46.8,1,71.5,89,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0471,Riya,23,Guwahati,Postgraduate,PRJ043,Mobile App Development,Beginner,47.5,75.7,92.6,77.1,71.6,75.0,59.5,1,76.1,98,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0472,Priya,19,Mumbai,Higher Secondary,PRJ075,Database,Intermediate,38.3,52.4,84.4,74.7,72.2,47.8,48.5,0,50.9,81,Improve accuracy and completeness,Mobile App Developer,UI/UX Designer
+STU0473,Ananya,22,Jaipur,Undergraduate,PRJ040,Python,Beginner,66.8,86.2,34.2,69.6,55.1,85.8,74.5,1,73.0,108,Strong project; add more creativity and documentation,Mobile App Developer,Data Analyst
+STU0474,Karan,22,Chennai,Undergraduate,PRJ027,Mobile App Development,Intermediate,63.0,87.0,65.5,57.9,68.9,80.2,73.2,1,81.3,102,Strong project; add more creativity and documentation,UI/UX Designer,Database Administrator
+STU0475,Sneha,15,Guwahati,School,PRJ007,UI/UX Design,Beginner,38.0,73.4,32.0,72.6,62.1,62.8,57.2,1,55.9,86,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0476,Ira,16,Pune,Higher Secondary,PRJ037,Cyber Security,Intermediate,55.5,35.2,90.7,55.5,68.4,82.5,50.9,0,60.0,87,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0477,Sneha,20,Guwahati,School,PRJ031,Cyber Security,Beginner,45.7,37.8,45.1,64.6,49.3,63.0,52.0,1,60.6,82,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0478,Aanya,24,Kolkata,Undergraduate,PRJ080,Artificial Intelligence,Intermediate,50.6,78.5,63.3,65.4,80.4,71.0,59.9,1,73.4,93,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0479,Rohan,17,Guwahati,School,PRJ039,Web Development,Beginner,59.9,48.6,75.0,71.5,70.8,88.5,57.4,1,76.6,97,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0480,Diya,16,Delhi,School,PRJ081,Cyber Security,Beginner,49.4,83.9,63.2,75.5,68.5,69.3,61.1,1,68.0,86,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0481,Aarav,25,Mumbai,Higher Secondary,PRJ075,Web Development,Intermediate,40.7,43.7,69.2,67.2,58.8,80.9,49.5,1,73.5,103,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0482,Riya,23,Guwahati,School,PRJ067,Data Science,Beginner,58.9,57.8,37.2,57.7,73.6,76.5,59.8,0,47.5,75,Improve accuracy and completeness,Data Scientist,Cyber Security Analyst
+STU0483,Riya,16,Delhi,Undergraduate,PRJ001,Web Development,Beginner,44.9,70.7,89.7,65.5,44.2,84.5,61.5,1,80.4,97,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0484,Rahul,16,Delhi,Higher Secondary,PRJ081,Cyber Security,Beginner,51.9,72.6,81.0,70.1,41.2,73.3,60.3,1,68.5,89,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0485,Aarav,21,Delhi,Higher Secondary,PRJ081,Business Analytics,Beginner,55.7,81.4,46.7,74.8,33.4,76.0,66.3,0,46.1,65,Improve accuracy and completeness,Cyber Security Analyst,Data Analyst
+STU0486,Kabir,20,Mumbai,School,PRJ064,Mobile App Development,Beginner,42.8,46.7,64.3,85.3,57.1,57.6,47.5,1,64.6,90,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0487,Kabir,16,Lucknow,School,PRJ079,UI/UX Design,Beginner,74.0,64.4,60.7,72.9,57.1,81.6,67.3,1,75.0,90,Strong project; add more creativity and documentation,Cyber Security Analyst,Software Developer
+STU0488,Nisha,22,Pune,Undergraduate,PRJ083,Business Analytics,Advanced,25.5,58.1,34.8,60.2,80.5,65.8,46.3,1,57.9,88,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0489,Ira,20,Delhi,Higher Secondary,PRJ078,Mobile App Development,Beginner,94.1,63.9,30.9,61.2,61.6,80.5,78.6,1,68.0,84,Good work; improve problem-solving depth,Cyber Security Analyst,Cloud Engineer
+STU0490,Sneha,24,Lucknow,Undergraduate,PRJ024,Mobile App Development,Intermediate,50.2,54.4,45.2,56.6,58.2,100.0,55.8,0,63.7,87,Good work; improve problem-solving depth,Data Scientist,Database Administrator
+STU0491,Rahul,20,Bengaluru,Undergraduate,PRJ012,Cyber Security,Intermediate,54.0,40.4,63.8,55.9,61.2,82.0,55.5,1,67.8,88,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0492,Ira,19,Chennai,Undergraduate,PRJ071,Web Development,Intermediate,50.5,93.5,70.8,84.4,58.9,61.0,64.8,1,71.4,99,Strong project; add more creativity and documentation,Cyber Security Analyst,Data Analyst
+STU0493,Tanya,16,Jaipur,School,PRJ099,Data Science,Intermediate,69.0,68.6,63.8,63.0,69.9,70.2,70.8,1,77.7,98,Strong project; add more creativity and documentation,Cloud Engineer,Database Administrator
+STU0494,Tanya,16,Chennai,Undergraduate,PRJ036,Web Development,Beginner,57.7,78.4,63.6,95.8,36.1,57.9,70.1,0,54.8,83,Improve accuracy and completeness,Cyber Security Analyst,Data Analyst
+STU0495,Arjun,25,Chennai,School,PRJ074,Python,Beginner,66.8,32.9,99.2,72.3,70.2,86.0,57.0,1,79.8,109,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0496,Riya,21,Mumbai,Higher Secondary,PRJ029,Artificial Intelligence,Beginner,50.8,70.4,48.3,74.5,61.4,54.8,61.5,0,57.0,83,Good work; improve problem-solving depth,Data Analyst,Data Analyst
+STU0497,Kavya,17,Jaipur,Undergraduate,PRJ073,Cloud Computing,Intermediate,40.3,84.1,75.2,52.2,72.1,81.9,60.3,1,73.1,106,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0498,Ira,24,Hyderabad,School,PRJ092,UI/UX Design,Intermediate,70.2,26.6,71.6,60.5,50.5,89.7,50.8,1,76.0,97,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0499,Karan,16,Jaipur,Undergraduate,PRJ048,Cyber Security,Beginner,43.1,60.9,45.9,57.2,73.4,100.0,58.0,1,76.2,110,Strong project; add more creativity and documentation,Cloud Engineer,Product Manager
+STU0500,Priya,16,Bengaluru,Undergraduate,PRJ096,Web Development,Intermediate,69.8,62.4,56.3,78.1,74.6,64.8,66.5,1,71.9,105,Strong project; add more creativity and documentation,Cloud Engineer,Software Developer
+STU0501,Riya,21,Guwahati,Postgraduate,PRJ041,Cyber Security,Intermediate,37.2,56.6,69.5,61.6,73.2,53.7,50.6,1,66.4,81,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0502,Kavya,15,Delhi,School,PRJ094,Web Development,Beginner,42.9,48.2,48.8,93.0,62.4,82.7,51.3,1,66.0,80,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0503,Aanya,17,Lucknow,Higher Secondary,PRJ043,Artificial Intelligence,Intermediate,26.9,49.1,69.1,73.9,77.1,87.3,46.0,1,71.2,102,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0504,Aditya,21,Jaipur,Undergraduate,PRJ035,UI/UX Design,Beginner,41.4,77.3,72.6,67.0,74.1,93.2,56.4,0,66.5,95,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0505,Arjun,24,Chennai,Undergraduate,PRJ075,Cyber Security,Beginner,53.0,66.6,65.4,47.3,52.0,71.3,60.1,0,56.8,79,Good work; improve problem-solving depth,UI/UX Designer,Database Administrator
+STU0506,Rohan,18,Guwahati,Undergraduate,PRJ084,Web Development,Intermediate,60.8,52.5,58.0,54.5,58.7,81.9,61.3,1,72.7,97,Strong project; add more creativity and documentation,Cloud Engineer,Cloud Engineer
+STU0507,Nisha,20,Guwahati,Postgraduate,PRJ005,Python,Beginner,88.0,63.1,23.7,73.3,80.6,76.8,77.0,1,77.5,94,Strong project; add more creativity and documentation,Product Manager,Software Developer
+STU0508,Karan,16,Mumbai,School,PRJ047,Database,Intermediate,50.7,61.6,84.1,72.0,61.9,83.7,58.9,1,75.4,92,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0509,Tanya,16,Guwahati,Undergraduate,PRJ063,Cloud Computing,Beginner,69.1,69.6,50.9,64.3,57.9,80.1,70.1,1,70.6,98,Strong project; add more creativity and documentation,Mobile App Developer,Data Analyst
+STU0510,Riya,15,Chennai,Higher Secondary,PRJ078,Artificial Intelligence,Beginner,22.4,59.2,59.6,51.2,77.8,79.1,41.4,1,63.9,95,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0511,Ira,21,Pune,Undergraduate,PRJ008,Cyber Security,Advanced,41.9,87.2,55.6,63.1,51.6,75.9,68.1,0,57.7,75,Good work; improve problem-solving depth,Database Administrator,Data Analyst
+STU0512,Priya,19,Pune,Higher Secondary,PRJ016,Artificial Intelligence,Intermediate,57.8,59.5,83.3,60.6,82.5,74.3,61.7,1,76.9,112,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0513,Ira,15,Pune,School,PRJ094,Data Science,Intermediate,57.2,100.0,59.1,62.2,63.7,64.9,74.7,1,66.7,88,Good work; improve problem-solving depth,AI/ML Engineer,Data Analyst
+STU0514,Ishaan,19,Delhi,Undergraduate,PRJ021,UI/UX Design,Intermediate,55.9,79.2,82.1,60.4,96.8,57.8,64.1,0,74.7,93,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0515,Priya,18,Jaipur,Undergraduate,PRJ088,Artificial Intelligence,Beginner,57.7,63.2,43.1,73.9,68.9,57.5,61.0,1,62.3,85,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0516,Ira,18,Guwahati,Postgraduate,PRJ020,Cyber Security,Intermediate,47.7,38.9,57.4,50.4,82.4,65.6,47.5,1,73.5,105,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0517,Ishaan,19,Delhi,Higher Secondary,PRJ085,Data Science,Intermediate,86.6,74.4,66.7,58.1,72.3,55.6,78.7,1,74.3,101,Strong project; add more creativity and documentation,Software Developer,AI/ML Engineer
+STU0518,Rohan,22,Chennai,School,PRJ090,Business Analytics,Advanced,47.2,50.6,74.0,55.3,54.0,79.9,49.1,1,68.9,94,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0519,Aanya,25,Pune,Higher Secondary,PRJ066,Database,Intermediate,46.2,67.9,49.1,66.5,86.1,83.7,61.8,1,72.0,91,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0520,Aarav,17,Jaipur,Undergraduate,PRJ077,Python,Beginner,67.6,71.2,46.5,62.4,71.2,74.5,70.5,1,78.3,105,Strong project; add more creativity and documentation,UI/UX Designer,Database Administrator
+STU0521,Ishaan,19,Chennai,Higher Secondary,PRJ036,Python,Intermediate,56.2,71.8,31.0,71.0,43.4,93.9,63.9,1,64.6,83,Good work; improve problem-solving depth,Software Developer,Data Analyst
+STU0522,Rahul,16,Pune,Undergraduate,PRJ068,Business Analytics,Beginner,69.1,100.0,53.1,55.9,53.5,75.7,83.3,1,67.1,88,Good work; improve problem-solving depth,Database Administrator,Data Analyst
+STU0523,Nisha,22,Delhi,School,PRJ017,Data Science,Advanced,57.9,84.8,87.4,86.4,78.4,74.7,63.3,0,65.2,81,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0524,Ishaan,24,Chennai,Higher Secondary,PRJ024,Cloud Computing,Beginner,54.6,51.5,50.9,43.4,73.3,96.0,56.6,0,61.3,92,Good work; improve problem-solving depth,Cloud Engineer,Cyber Security Analyst
+STU0525,Arjun,22,Delhi,Undergraduate,PRJ028,Mobile App Development,Beginner,43.6,50.6,49.6,55.0,93.0,96.5,52.1,1,71.0,88,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0526,Aanya,21,Delhi,Higher Secondary,PRJ086,Cyber Security,Beginner,40.3,90.5,40.7,80.4,56.9,71.8,65.7,1,68.4,95,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0527,Rahul,22,Chennai,Higher Secondary,PRJ009,Business Analytics,Intermediate,74.6,52.3,81.4,71.0,55.7,98.0,65.3,0,70.1,96,Strong project; add more creativity and documentation,Cyber Security Analyst,Mobile App Developer
+STU0528,Nisha,19,Bengaluru,Postgraduate,PRJ019,UI/UX Design,Intermediate,75.1,63.0,66.1,63.7,57.6,91.9,70.6,1,80.0,112,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0529,Ishaan,17,Jaipur,Higher Secondary,PRJ080,UI/UX Design,Beginner,32.9,73.9,66.2,59.6,50.1,82.9,59.6,1,74.4,109,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0530,Arjun,21,Kolkata,Undergraduate,PRJ064,Python,Beginner,55.5,88.0,49.3,98.4,65.3,99.7,70.4,1,87.9,110,Excellent project; ready for advanced work,Data Scientist,Data Analyst
+STU0531,Ishaan,17,Pune,Undergraduate,PRJ083,Database,Advanced,56.3,59.8,58.1,79.9,81.6,69.6,60.5,1,70.3,86,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0532,Vivaan,18,Lucknow,Undergraduate,PRJ014,UI/UX Design,Intermediate,41.3,59.0,95.3,62.8,63.3,78.7,53.0,0,70.0,99,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0533,Karan,16,Pune,Higher Secondary,PRJ068,Database,Beginner,85.3,57.9,65.0,75.4,60.3,62.8,72.2,1,67.6,95,Good work; improve problem-solving depth,AI/ML Engineer,Software Developer
+STU0534,Meera,19,Jaipur,Higher Secondary,PRJ029,Cloud Computing,Intermediate,44.4,66.4,43.4,66.3,57.1,61.8,54.9,0,53.8,79,Improve accuracy and completeness,AI/ML Engineer,Data Analyst
+STU0535,Riya,25,Kolkata,Postgraduate,PRJ016,Database,Beginner,66.7,68.3,55.3,50.1,79.4,58.4,69.9,1,69.0,96,Good work; improve problem-solving depth,Cyber Security Analyst,Database Administrator
+STU0536,Karan,16,Kolkata,Higher Secondary,PRJ052,Cloud Computing,Intermediate,33.1,70.2,75.9,71.9,42.8,77.2,55.4,0,60.4,87,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0537,Tanya,24,Jaipur,Higher Secondary,PRJ043,Business Analytics,Intermediate,69.9,81.9,88.9,66.5,94.7,65.7,73.7,1,75.5,107,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0538,Meera,21,Chennai,Higher Secondary,PRJ004,Artificial Intelligence,Intermediate,51.1,59.8,72.8,61.6,54.3,85.2,57.1,0,60.0,83,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0539,Arjun,18,Delhi,Higher Secondary,PRJ078,Python,Beginner,62.3,49.1,58.8,78.3,60.0,81.4,56.7,1,68.1,85,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0540,Kavya,15,Chennai,School,PRJ057,Artificial Intelligence,Advanced,36.2,45.0,91.4,54.5,34.6,84.0,43.8,1,66.5,90,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0541,Meera,22,Mumbai,Undergraduate,PRJ053,Data Science,Intermediate,88.6,45.5,57.9,56.4,67.9,61.0,71.6,1,65.3,94,Good work; improve problem-solving depth,Cyber Security Analyst,Mobile App Developer
+STU0542,Rohan,15,Mumbai,School,PRJ094,Database,Intermediate,69.9,53.2,86.9,72.5,85.1,54.9,66.2,1,74.2,93,Strong project; add more creativity and documentation,UI/UX Designer,Mobile App Developer
+STU0543,Kabir,18,Guwahati,Undergraduate,PRJ065,Business Analytics,Intermediate,52.1,38.5,41.5,45.4,84.0,96.8,51.6,0,48.9,63,Improve accuracy and completeness,Mobile App Developer,Cyber Security Analyst
+STU0544,Aanya,20,Mumbai,Higher Secondary,PRJ095,Database,Beginner,60.7,83.2,60.5,52.7,45.4,84.2,73.2,1,75.0,94,Strong project; add more creativity and documentation,Cyber Security Analyst,Data Analyst
+STU0545,Karan,22,Pune,Undergraduate,PRJ085,Business Analytics,Intermediate,60.9,57.0,47.4,65.1,43.7,79.8,60.7,1,67.8,95,Good work; improve problem-solving depth,Data Analyst,Data Analyst
+STU0546,Sneha,22,Pune,Undergraduate,PRJ096,Python,Intermediate,65.1,98.6,78.9,81.4,84.8,93.1,77.8,1,84.5,105,Strong project; add more creativity and documentation,Data Analyst,Data Analyst
+STU0547,Diya,17,Mumbai,Undergraduate,PRJ070,Web Development,Intermediate,70.1,46.7,83.1,61.2,58.5,70.4,63.9,1,69.8,96,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0548,Ananya,17,Delhi,Higher Secondary,PRJ019,Data Science,Beginner,77.4,73.1,100.0,60.6,69.1,89.0,73.3,1,79.3,111,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0549,Nisha,23,Delhi,Undergraduate,PRJ010,Cloud Computing,Intermediate,54.6,80.0,44.4,58.1,75.8,80.6,65.9,1,68.5,99,Good work; improve problem-solving depth,Database Administrator,Database Administrator
+STU0550,Vivaan,16,Kolkata,Undergraduate,PRJ006,Web Development,Intermediate,78.7,46.1,69.0,61.0,84.9,91.3,66.0,1,84.1,107,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0551,Arjun,18,Delhi,School,PRJ018,Business Analytics,Beginner,56.7,67.4,53.5,79.7,47.8,67.6,60.4,1,64.6,79,Good work; improve problem-solving depth,AI/ML Engineer,Data Analyst
+STU0552,Diya,19,Lucknow,Undergraduate,PRJ094,Business Analytics,Advanced,37.7,71.9,59.2,60.6,51.7,63.1,55.5,1,59.0,79,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0553,Sneha,22,Lucknow,School,PRJ019,Business Analytics,Advanced,72.2,87.1,75.6,69.8,83.4,77.2,78.2,1,84.1,119,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0554,Riya,25,Jaipur,Undergraduate,PRJ050,Data Science,Advanced,40.9,65.0,46.7,61.3,81.3,92.7,55.0,0,62.7,87,Good work; improve problem-solving depth,Database Administrator,Product Manager
+STU0555,Vivaan,18,Jaipur,Postgraduate,PRJ041,Data Science,Intermediate,47.9,71.2,83.8,63.3,79.7,86.4,60.8,1,86.9,112,Excellent project; ready for advanced work,Product Manager,UI/UX Designer
+STU0556,Riya,19,Kolkata,Higher Secondary,PRJ015,Mobile App Development,Intermediate,65.0,61.9,81.1,48.8,99.8,57.9,63.9,1,73.6,93,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0557,Arjun,16,Kolkata,School,PRJ003,Database,Beginner,59.2,45.6,66.8,63.7,66.1,84.7,59.9,1,75.1,102,Strong project; add more creativity and documentation,Data Scientist,Mobile App Developer
+STU0558,Meera,17,Bengaluru,Undergraduate,PRJ024,Mobile App Development,Intermediate,20.0,71.1,73.5,44.4,64.8,85.5,48.0,1,69.8,87,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0559,Nisha,21,Kolkata,Higher Secondary,PRJ006,Cyber Security,Beginner,81.5,40.2,27.4,87.7,48.6,74.3,64.0,0,53.8,85,Improve accuracy and completeness,Product Manager,Software Developer
+STU0560,Meera,15,Kolkata,Postgraduate,PRJ055,Cyber Security,Intermediate,61.5,64.0,76.9,51.6,35.2,88.5,61.6,1,69.1,99,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0561,Aditya,16,Lucknow,School,PRJ040,Data Science,Advanced,41.1,87.8,72.9,60.8,72.3,76.0,64.3,1,71.5,97,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0562,Ishaan,20,Mumbai,Undergraduate,PRJ031,Python,Beginner,47.7,45.0,60.0,71.8,78.5,79.9,51.9,1,74.2,104,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0563,Arjun,18,Kolkata,Undergraduate,PRJ075,Cyber Security,Beginner,38.0,46.7,79.4,66.0,83.7,89.0,46.5,1,71.5,100,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0564,Ira,16,Guwahati,Higher Secondary,PRJ017,Web Development,Beginner,72.0,80.6,28.9,70.2,70.6,78.6,74.7,1,69.1,84,Good work; improve problem-solving depth,Cyber Security Analyst,Data Analyst
+STU0565,Nisha,16,Kolkata,Higher Secondary,PRJ095,Data Science,Beginner,86.2,60.1,55.7,76.1,92.7,69.6,76.6,1,79.1,97,Strong project; add more creativity and documentation,UI/UX Designer,Software Developer
+STU0566,Aanya,16,Chennai,Undergraduate,PRJ081,Cyber Security,Beginner,42.3,56.8,53.6,46.9,62.4,76.1,56.0,0,50.1,76,Improve accuracy and completeness,Cloud Engineer,UI/UX Designer
+STU0567,Karan,21,Lucknow,Higher Secondary,PRJ016,Database,Beginner,67.4,64.1,42.1,51.8,80.2,57.9,70.1,0,51.9,77,Improve accuracy and completeness,Database Administrator,Cloud Engineer
+STU0568,Nisha,21,Pune,School,PRJ053,UI/UX Design,Beginner,64.4,69.9,58.6,74.1,71.8,61.7,68.6,1,68.7,101,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0569,Rohan,16,Hyderabad,Undergraduate,PRJ027,Web Development,Beginner,64.6,53.9,57.8,53.1,62.0,59.5,62.4,1,63.3,83,Good work; improve problem-solving depth,Cloud Engineer,Mobile App Developer
+STU0570,Aarav,23,Guwahati,Undergraduate,PRJ028,Python,Intermediate,67.7,63.2,42.2,72.1,72.8,65.1,67.3,1,71.0,88,Strong project; add more creativity and documentation,Data Scientist,Cyber Security Analyst
+STU0571,Riya,24,Jaipur,Higher Secondary,PRJ072,Web Development,Advanced,40.5,34.7,51.8,49.3,62.0,89.8,43.8,0,57.8,76,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0572,Aditya,21,Bengaluru,Higher Secondary,PRJ082,Artificial Intelligence,Intermediate,31.8,38.0,54.1,57.1,91.1,87.6,40.3,1,68.7,95,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0573,Aditya,16,Jaipur,Higher Secondary,PRJ020,Business Analytics,Intermediate,38.2,82.6,44.1,64.7,65.1,77.7,61.0,1,65.0,92,Good work; improve problem-solving depth,Cloud Engineer,Database Administrator
+STU0574,Ishaan,23,Guwahati,Postgraduate,PRJ017,Mobile App Development,Advanced,67.0,75.6,50.0,47.1,72.6,80.6,76.0,1,72.5,100,Strong project; add more creativity and documentation,Cloud Engineer,Database Administrator
+STU0575,Riya,25,Delhi,Postgraduate,PRJ048,Data Science,Intermediate,92.9,72.1,79.7,66.6,55.3,74.6,78.3,1,77.9,93,Strong project; add more creativity and documentation,Data Analyst,Mobile App Developer
+STU0576,Tanya,20,Hyderabad,Undergraduate,PRJ014,Cyber Security,Intermediate,60.9,53.5,38.8,82.9,66.1,75.5,61.9,1,63.9,81,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0577,Aditya,18,Chennai,Higher Secondary,PRJ079,Web Development,Intermediate,67.7,41.2,50.0,42.6,71.7,75.9,56.6,1,64.7,97,Good work; improve problem-solving depth,Mobile App Developer,Cloud Engineer
+STU0578,Ira,18,Bengaluru,Higher Secondary,PRJ029,Python,Intermediate,81.4,71.8,49.7,42.6,89.4,100.0,78.9,1,76.6,101,Strong project; add more creativity and documentation,Mobile App Developer,Cloud Engineer
+STU0579,Aarav,19,Lucknow,Undergraduate,PRJ039,Cloud Computing,Intermediate,58.5,79.8,54.0,66.0,44.2,69.3,68.9,1,71.9,99,Strong project; add more creativity and documentation,Database Administrator,Data Analyst
+STU0580,Vivaan,25,Delhi,School,PRJ065,Web Development,Advanced,67.3,79.3,51.4,45.2,88.8,83.6,70.6,1,78.5,109,Strong project; add more creativity and documentation,Data Scientist,Database Administrator
+STU0581,Rohan,24,Mumbai,Higher Secondary,PRJ068,Mobile App Development,Intermediate,45.6,75.7,57.0,48.1,77.0,100.0,59.4,1,68.1,97,Good work; improve problem-solving depth,UI/UX Designer,Database Administrator
+STU0582,Nisha,24,Lucknow,Postgraduate,PRJ095,Mobile App Development,Intermediate,49.7,56.1,67.5,67.1,91.0,69.3,53.7,1,71.9,94,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0583,Meera,20,Mumbai,Undergraduate,PRJ028,Business Analytics,Beginner,40.8,67.8,42.5,78.1,54.3,76.5,58.0,1,68.6,101,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0584,Ananya,24,Guwahati,Undergraduate,PRJ030,Database,Intermediate,58.5,54.1,92.5,60.8,96.9,74.2,60.7,1,79.3,112,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0585,Kabir,21,Guwahati,Postgraduate,PRJ063,Mobile App Development,Beginner,56.8,54.0,71.6,76.5,70.5,81.2,57.4,1,74.3,106,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0586,Rahul,18,Lucknow,Undergraduate,PRJ081,Business Analytics,Beginner,61.8,35.9,54.8,75.1,64.9,81.3,55.3,1,73.1,99,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0587,Ananya,22,Kolkata,Undergraduate,PRJ015,Mobile App Development,Advanced,62.9,23.0,41.2,78.7,57.0,59.9,51.6,1,57.6,85,Good work; improve problem-solving depth,Cyber Security Analyst,Mobile App Developer
+STU0588,Vivaan,25,Lucknow,Postgraduate,PRJ095,Business Analytics,Beginner,53.5,71.5,62.8,69.5,74.5,62.3,62.5,1,66.1,80,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0589,Ananya,18,Jaipur,Higher Secondary,PRJ015,Cloud Computing,Beginner,49.5,61.5,86.3,59.7,58.8,67.2,57.7,0,55.1,72,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0590,Tanya,18,Lucknow,Postgraduate,PRJ052,UI/UX Design,Beginner,92.1,93.8,100.0,44.7,56.1,66.4,89.0,1,81.6,100,Strong project; add more creativity and documentation,Data Scientist,AI/ML Engineer
+STU0591,Sneha,19,Guwahati,Higher Secondary,PRJ038,Database,Intermediate,30.4,74.5,57.7,49.6,91.7,68.0,55.0,0,58.4,88,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0592,Ira,18,Jaipur,Undergraduate,PRJ043,Python,Beginner,76.5,63.1,66.1,63.9,59.5,84.4,73.5,0,65.7,82,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0593,Diya,22,Guwahati,Higher Secondary,PRJ020,Data Science,Beginner,60.8,61.7,54.3,59.6,84.0,79.9,60.6,1,76.5,96,Strong project; add more creativity and documentation,Product Manager,Cyber Security Analyst
+STU0594,Rahul,15,Mumbai,School,PRJ091,Data Science,Beginner,79.1,84.2,55.8,63.2,44.0,74.3,77.0,1,66.4,83,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0595,Ira,18,Kolkata,Undergraduate,PRJ047,Cyber Security,Advanced,47.7,48.5,98.6,73.5,77.7,67.9,53.5,1,82.4,119,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0596,Sneha,22,Pune,Postgraduate,PRJ079,UI/UX Design,Advanced,50.4,66.9,57.2,72.0,77.6,82.3,61.9,1,77.2,102,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0597,Arjun,22,Hyderabad,Undergraduate,PRJ023,Data Science,Advanced,72.8,34.9,44.7,83.8,87.9,82.0,60.6,0,63.4,76,Good work; improve problem-solving depth,Data Scientist,Mobile App Developer
+STU0598,Aarav,19,Guwahati,Undergraduate,PRJ084,Artificial Intelligence,Intermediate,82.9,21.1,28.3,55.5,60.6,82.7,57.3,1,62.3,83,Good work; improve problem-solving depth,Data Analyst,Software Developer
+STU0599,Karan,15,Mumbai,Undergraduate,PRJ051,Web Development,Intermediate,53.8,28.0,61.7,42.8,100.0,66.7,49.1,1,64.4,86,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0600,Arjun,18,Lucknow,Undergraduate,PRJ049,Database,Beginner,55.9,84.3,46.6,73.4,72.2,65.5,69.3,1,71.2,90,Strong project; add more creativity and documentation,Cloud Engineer,Data Analyst
+STU0601,Tanya,22,Jaipur,Undergraduate,PRJ040,Web Development,Intermediate,53.3,59.8,53.1,49.5,75.0,70.6,57.2,1,68.8,102,Good work; improve problem-solving depth,Cloud Engineer,Cyber Security Analyst
+STU0602,Diya,19,Hyderabad,School,PRJ049,Data Science,Intermediate,58.9,61.2,74.2,68.6,59.3,72.4,61.7,1,71.9,106,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0603,Rahul,24,Mumbai,Higher Secondary,PRJ069,Web Development,Beginner,88.1,36.7,60.3,63.5,79.4,76.6,63.0,1,73.4,95,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0604,Ananya,21,Delhi,School,PRJ069,UI/UX Design,Beginner,52.8,63.7,68.3,80.5,47.3,76.4,59.6,0,66.9,94,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0605,Diya,25,Kolkata,Postgraduate,PRJ027,Business Analytics,Intermediate,63.1,49.3,92.4,39.0,56.7,76.8,60.4,1,73.3,88,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0606,Karan,25,Lucknow,Higher Secondary,PRJ052,Data Science,Intermediate,35.6,59.0,48.5,56.3,98.7,97.2,52.1,1,74.0,91,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0607,Kavya,21,Pune,Higher Secondary,PRJ039,Python,Beginner,65.7,53.5,49.5,56.2,63.8,74.7,62.3,1,75.5,96,Strong project; add more creativity and documentation,AI/ML Engineer,Cloud Engineer
+STU0608,Meera,23,Chennai,Higher Secondary,PRJ006,Artificial Intelligence,Beginner,68.5,51.7,65.9,71.3,89.1,71.3,63.2,1,69.7,93,Good work; improve problem-solving depth,AI/ML Engineer,Software Developer
+STU0609,Ananya,19,Guwahati,Higher Secondary,PRJ096,Data Science,Intermediate,58.0,61.2,71.7,73.0,51.9,100.0,60.2,0,64.3,97,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0610,Nisha,20,Jaipur,Undergraduate,PRJ088,UI/UX Design,Intermediate,70.3,54.3,73.8,82.3,55.7,93.4,64.1,0,71.7,86,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0611,Rohan,17,Lucknow,Higher Secondary,PRJ010,Database,Intermediate,64.1,59.0,40.4,79.7,73.7,73.9,62.5,1,71.2,93,Strong project; add more creativity and documentation,Data Scientist,Cyber Security Analyst
+STU0612,Ananya,24,Pune,School,PRJ033,Python,Intermediate,83.4,68.9,75.0,55.1,93.3,70.4,76.9,1,72.0,103,Strong project; add more creativity and documentation,Database Administrator,Cloud Engineer
+STU0613,Arjun,17,Kolkata,Higher Secondary,PRJ086,Artificial Intelligence,Intermediate,61.1,66.7,33.9,76.2,80.1,73.9,67.4,1,68.7,89,Good work; improve problem-solving depth,AI/ML Engineer,Cyber Security Analyst
+STU0614,Ira,19,Chennai,Higher Secondary,PRJ002,Python,Intermediate,100.0,61.2,73.3,76.3,66.4,78.0,81.4,0,67.1,96,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0615,Kabir,18,Guwahati,Undergraduate,PRJ089,UI/UX Design,Intermediate,42.1,88.6,91.6,63.6,62.5,69.0,63.8,1,67.1,96,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0616,Meera,23,Bengaluru,School,PRJ087,Database,Beginner,52.2,75.5,60.7,69.4,70.2,92.6,65.3,1,83.4,115,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0617,Aanya,23,Hyderabad,Postgraduate,PRJ087,Database,Beginner,79.3,61.6,59.6,63.7,74.0,71.1,73.0,1,74.4,97,Strong project; add more creativity and documentation,AI/ML Engineer,Cloud Engineer
+STU0618,Sneha,16,Delhi,Postgraduate,PRJ019,Artificial Intelligence,Intermediate,56.6,78.5,72.8,49.0,44.1,75.0,68.8,1,71.6,100,Strong project; add more creativity and documentation,Cloud Engineer,Data Analyst
+STU0619,Riya,19,Delhi,Postgraduate,PRJ025,Cyber Security,Advanced,55.6,31.3,65.5,85.8,50.3,95.5,52.2,1,68.6,86,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0620,Karan,19,Mumbai,School,PRJ031,Mobile App Development,Intermediate,50.0,55.8,61.0,88.9,77.0,72.6,56.3,1,74.8,91,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0621,Ishaan,22,Bengaluru,Higher Secondary,PRJ020,Data Science,Advanced,52.5,73.0,49.5,43.9,66.9,86.0,62.4,1,75.5,101,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0622,Vivaan,22,Lucknow,Undergraduate,PRJ015,Web Development,Intermediate,63.2,37.9,47.2,42.0,47.4,84.2,55.2,0,60.6,79,Good work; improve problem-solving depth,UI/UX Designer,Cloud Engineer
+STU0623,Kavya,16,Delhi,Undergraduate,PRJ036,Python,Beginner,66.3,59.1,56.2,92.1,58.1,83.0,67.1,1,82.9,100,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0624,Aarav,17,Lucknow,Undergraduate,PRJ037,Data Science,Advanced,99.4,64.0,58.8,85.0,72.6,80.2,81.0,1,79.7,101,Strong project; add more creativity and documentation,Software Developer,Software Developer
+STU0625,Ishaan,21,Lucknow,Higher Secondary,PRJ092,Mobile App Development,Advanced,31.2,64.0,56.6,73.6,51.8,71.0,51.7,1,64.2,92,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0626,Rohan,19,Hyderabad,Undergraduate,PRJ031,Web Development,Intermediate,68.1,55.6,84.6,84.6,71.9,52.0,65.8,0,62.3,89,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0627,Riya,17,Delhi,Higher Secondary,PRJ022,Cyber Security,Intermediate,35.1,40.6,60.5,87.2,57.6,70.2,44.8,1,60.0,79,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0628,Tanya,16,Chennai,School,PRJ053,Data Science,Beginner,35.7,58.4,52.4,74.6,57.4,70.6,51.7,1,63.2,93,Good work; improve problem-solving depth,Database Administrator,Product Manager
+STU0629,Meera,19,Mumbai,Undergraduate,PRJ005,Cyber Security,Advanced,52.4,35.1,49.5,62.8,41.5,61.0,48.0,1,60.4,86,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0630,Riya,16,Bengaluru,Undergraduate,PRJ084,UI/UX Design,Beginner,59.2,40.0,78.7,72.6,50.6,76.2,54.0,1,66.4,92,Good work; improve problem-solving depth,Database Administrator,UI/UX Designer
+STU0631,Ishaan,25,Mumbai,Higher Secondary,PRJ034,Cyber Security,Intermediate,44.6,33.0,59.4,78.7,61.2,77.7,44.5,1,70.6,89,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0632,Aanya,21,Hyderabad,Undergraduate,PRJ019,Data Science,Intermediate,43.7,78.5,62.6,72.6,62.6,82.8,59.4,1,84.9,110,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0633,Priya,19,Pune,School,PRJ048,Cloud Computing,Beginner,58.0,48.6,64.3,92.3,49.7,87.4,52.2,1,71.7,92,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0634,Sneha,22,Hyderabad,Undergraduate,PRJ065,Mobile App Development,Intermediate,90.2,29.6,78.2,60.9,52.7,100.0,66.4,1,78.3,103,Strong project; add more creativity and documentation,Data Analyst,Mobile App Developer
+STU0635,Diya,19,Kolkata,School,PRJ094,Cloud Computing,Intermediate,68.4,87.4,48.1,87.8,100.0,71.2,74.9,1,71.9,96,Strong project; add more creativity and documentation,Mobile App Developer,Cyber Security Analyst
+STU0636,Aarav,23,Bengaluru,Undergraduate,PRJ095,UI/UX Design,Intermediate,62.2,63.7,74.4,54.6,59.6,70.6,64.8,1,69.7,95,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0637,Vivaan,17,Pune,Undergraduate,PRJ057,Cloud Computing,Beginner,76.5,60.9,66.4,44.0,84.9,94.9,65.7,0,65.8,95,Good work; improve problem-solving depth,Cyber Security Analyst,Cloud Engineer
+STU0638,Riya,18,Mumbai,Higher Secondary,PRJ086,Data Science,Beginner,81.8,79.7,74.1,76.5,53.3,70.2,81.6,0,61.6,87,Good work; improve problem-solving depth,Mobile App Developer,Data Analyst
+STU0639,Rahul,20,Jaipur,Undergraduate,PRJ074,Cloud Computing,Intermediate,39.2,63.2,62.0,49.2,80.0,67.3,52.4,0,58.9,84,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0640,Vivaan,20,Hyderabad,School,PRJ075,Data Science,Beginner,56.9,55.3,57.4,70.2,83.6,78.1,57.9,1,74.4,98,Strong project; add more creativity and documentation,Cloud Engineer,Product Manager
+STU0641,Karan,17,Pune,Undergraduate,PRJ068,UI/UX Design,Beginner,51.7,32.8,88.3,44.8,69.1,81.1,50.5,1,71.6,99,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0642,Tanya,23,Hyderabad,School,PRJ083,Artificial Intelligence,Intermediate,51.8,71.0,78.9,81.9,85.2,80.3,66.3,1,78.5,98,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0643,Nisha,15,Mumbai,Higher Secondary,PRJ050,Web Development,Intermediate,91.7,78.4,60.6,79.6,58.8,70.8,84.1,1,76.6,108,Strong project; add more creativity and documentation,Data Scientist,Data Analyst
+STU0644,Rahul,20,Kolkata,Postgraduate,PRJ045,Cyber Security,Intermediate,51.8,56.5,69.5,93.5,63.7,100.0,53.2,1,77.4,98,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0645,Rahul,21,Bengaluru,Higher Secondary,PRJ063,Python,Intermediate,64.5,59.8,51.3,46.5,47.6,84.7,65.5,0,54.4,84,Improve accuracy and completeness,Mobile App Developer,AI/ML Engineer
+STU0646,Arjun,21,Mumbai,Postgraduate,PRJ048,Data Science,Beginner,58.3,42.6,52.9,73.8,70.5,61.7,54.3,1,63.5,84,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0647,Nisha,15,Hyderabad,Postgraduate,PRJ088,UI/UX Design,Advanced,55.5,45.2,59.0,45.3,68.2,91.7,52.6,1,67.9,99,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0648,Kabir,22,Delhi,Higher Secondary,PRJ089,Database,Intermediate,88.9,86.6,78.8,60.8,80.2,100.0,82.2,1,96.5,119,Excellent project; ready for advanced work,Product Manager,AI/ML Engineer
+STU0649,Ananya,16,Kolkata,School,PRJ037,Business Analytics,Beginner,46.1,74.2,59.4,52.3,91.3,69.3,55.3,1,68.6,101,Good work; improve problem-solving depth,Database Administrator,Product Manager
+STU0650,Aanya,24,Pune,Undergraduate,PRJ006,UI/UX Design,Intermediate,69.7,77.4,74.9,69.1,70.2,84.4,72.5,1,85.1,120,Excellent project; ready for advanced work,UI/UX Designer,Database Administrator
+STU0651,Ananya,19,Hyderabad,Higher Secondary,PRJ092,Web Development,Beginner,43.3,82.7,71.6,38.9,70.7,82.2,60.9,1,78.1,105,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0652,Priya,23,Kolkata,Undergraduate,PRJ016,Cloud Computing,Intermediate,32.6,68.0,90.9,70.7,48.5,70.8,48.8,1,76.5,106,Strong project; add more creativity and documentation,Cyber Security Analyst,UI/UX Designer
+STU0653,Aditya,16,Guwahati,Undergraduate,PRJ030,Web Development,Beginner,89.3,50.2,44.6,73.8,79.0,78.1,70.7,0,62.6,78,Good work; improve problem-solving depth,Data Scientist,Software Developer
+STU0654,Kavya,17,Mumbai,Undergraduate,PRJ020,Cyber Security,Intermediate,57.3,69.4,55.6,60.0,56.3,81.0,67.0,1,72.0,101,Strong project; add more creativity and documentation,Mobile App Developer,Data Analyst
+STU0655,Ananya,22,Delhi,School,PRJ020,Business Analytics,Advanced,61.4,85.5,63.7,59.1,59.9,76.9,73.8,0,60.2,76,Good work; improve problem-solving depth,Data Scientist,Database Administrator
+STU0656,Kavya,25,Guwahati,School,PRJ004,Web Development,Beginner,52.6,49.2,48.6,51.0,46.1,66.6,54.5,1,58.7,89,Good work; improve problem-solving depth,Database Administrator,Cloud Engineer
+STU0657,Ishaan,25,Pune,Undergraduate,PRJ048,Mobile App Development,Beginner,51.1,61.7,42.6,71.0,68.8,88.1,56.9,1,66.6,83,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0658,Riya,18,Delhi,Undergraduate,PRJ002,Cloud Computing,Beginner,77.7,82.2,82.3,76.6,68.8,65.9,81.1,1,81.4,101,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0659,Ira,17,Mumbai,Undergraduate,PRJ045,Artificial Intelligence,Beginner,60.5,53.2,52.1,74.4,59.9,92.0,60.3,1,69.2,102,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0660,Karan,16,Guwahati,School,PRJ065,Mobile App Development,Advanced,42.2,55.7,59.9,82.5,62.9,69.9,55.1,1,69.6,102,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0661,Kabir,17,Delhi,School,PRJ002,Python,Intermediate,34.1,62.0,69.9,65.7,75.9,63.3,49.2,1,68.5,93,Good work; improve problem-solving depth,Cyber Security Analyst,UI/UX Designer
+STU0662,Sneha,15,Hyderabad,Postgraduate,PRJ079,Cyber Security,Beginner,36.4,49.1,73.3,40.1,29.5,82.7,47.3,1,70.5,100,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0663,Kavya,18,Jaipur,Higher Secondary,PRJ075,Python,Beginner,62.4,55.8,96.8,78.3,53.2,79.3,61.0,1,79.3,107,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0664,Aanya,22,Chennai,Undergraduate,PRJ038,Mobile App Development,Beginner,35.2,71.2,82.4,77.9,38.7,71.2,54.4,0,53.7,77,Improve accuracy and completeness,UI/UX Designer,UI/UX Designer
+STU0665,Ira,15,Bengaluru,Undergraduate,PRJ090,Artificial Intelligence,Advanced,62.0,48.0,76.7,39.4,62.5,70.0,55.5,1,70.4,97,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0666,Aditya,23,Lucknow,School,PRJ012,Business Analytics,Beginner,37.2,39.1,53.0,78.3,73.9,65.0,40.6,1,66.7,83,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0667,Priya,21,Guwahati,Undergraduate,PRJ091,Database,Intermediate,62.3,71.0,67.6,50.3,61.9,75.1,67.8,1,67.2,96,Good work; improve problem-solving depth,Database Administrator,Database Administrator
+STU0668,Vivaan,18,Chennai,Higher Secondary,PRJ068,UI/UX Design,Beginner,73.8,43.7,62.6,58.8,63.1,74.2,62.3,1,67.1,88,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0669,Ira,17,Chennai,Undergraduate,PRJ090,Business Analytics,Advanced,52.3,70.9,32.9,57.8,90.5,87.7,63.2,1,76.3,112,Strong project; add more creativity and documentation,Data Analyst,Database Administrator
+STU0670,Sneha,19,Pune,Undergraduate,PRJ046,Mobile App Development,Advanced,51.3,33.9,43.1,67.7,43.5,79.7,47.0,1,66.1,84,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0671,Arjun,18,Lucknow,School,PRJ035,Artificial Intelligence,Beginner,72.1,70.3,49.3,59.4,64.8,66.3,70.7,1,63.7,86,Good work; improve problem-solving depth,UI/UX Designer,AI/ML Engineer
+STU0672,Ishaan,17,Pune,Higher Secondary,PRJ040,Data Science,Beginner,79.4,69.5,23.1,61.6,82.9,86.2,74.9,1,65.9,89,Good work; improve problem-solving depth,Product Manager,Cloud Engineer
+STU0673,Ira,23,Delhi,Undergraduate,PRJ002,Business Analytics,Intermediate,28.2,75.2,55.9,48.6,57.7,100.0,50.8,1,64.3,81,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0674,Sneha,18,Delhi,Undergraduate,PRJ018,Mobile App Development,Beginner,62.2,63.3,71.7,81.4,65.8,67.8,68.6,0,65.5,83,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0675,Kabir,24,Jaipur,Higher Secondary,PRJ041,Python,Beginner,46.9,64.2,40.6,71.1,64.2,71.8,58.3,1,66.1,96,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0676,Ananya,18,Delhi,Undergraduate,PRJ090,Python,Beginner,45.7,77.1,42.2,63.5,69.0,67.5,61.4,1,63.6,93,Good work; improve problem-solving depth,Product Manager,Database Administrator
+STU0677,Karan,24,Kolkata,School,PRJ018,Cloud Computing,Advanced,46.4,33.6,60.7,47.4,38.7,77.0,45.6,1,58.5,77,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0678,Aanya,24,Chennai,School,PRJ074,UI/UX Design,Intermediate,36.4,76.0,72.7,83.2,56.3,90.1,60.6,1,77.4,106,Strong project; add more creativity and documentation,Cloud Engineer,Product Manager
+STU0679,Karan,15,Chennai,School,PRJ004,Cloud Computing,Advanced,35.2,62.6,35.2,67.7,56.5,66.2,51.7,0,57.2,77,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0680,Diya,15,Pune,Postgraduate,PRJ082,Web Development,Intermediate,54.8,61.0,78.5,65.5,42.4,79.1,59.5,0,63.8,83,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0681,Nisha,17,Lucknow,School,PRJ100,Artificial Intelligence,Intermediate,56.0,49.0,69.4,64.2,53.9,66.0,53.4,1,66.6,83,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0682,Priya,17,Delhi,School,PRJ001,Cloud Computing,Intermediate,71.8,34.3,43.3,42.1,63.1,93.7,57.3,1,71.5,103,Strong project; add more creativity and documentation,Product Manager,Cloud Engineer
+STU0683,Diya,24,Jaipur,Undergraduate,PRJ071,Database,Beginner,43.1,63.3,77.3,78.1,71.3,64.3,54.8,1,77.7,113,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0684,Priya,16,Bengaluru,Higher Secondary,PRJ024,Artificial Intelligence,Advanced,63.3,81.1,43.1,43.9,78.9,94.8,73.4,0,66.4,85,Good work; improve problem-solving depth,Data Scientist,Database Administrator
+STU0685,Aditya,18,Delhi,Undergraduate,PRJ035,Web Development,Beginner,77.5,55.1,86.4,87.5,59.2,75.9,70.1,1,82.0,118,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0686,Karan,25,Jaipur,Undergraduate,PRJ072,Data Science,Beginner,69.9,67.5,42.1,58.3,71.5,74.0,69.0,1,67.1,83,Good work; improve problem-solving depth,Mobile App Developer,Cloud Engineer
+STU0687,Vivaan,22,Mumbai,School,PRJ098,Mobile App Development,Beginner,73.8,76.8,79.1,73.8,99.4,65.5,74.4,1,85.0,103,Strong project; add more creativity and documentation,Software Developer,Cyber Security Analyst
+STU0688,Ananya,22,Delhi,Higher Secondary,PRJ026,Database,Beginner,85.1,98.9,85.5,64.0,70.7,61.4,86.0,1,74.6,98,Strong project; add more creativity and documentation,Database Administrator,AI/ML Engineer
+STU0689,Riya,23,Hyderabad,Undergraduate,PRJ026,Mobile App Development,Intermediate,40.6,62.5,51.9,67.1,66.3,91.2,53.6,1,66.6,95,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0690,Vivaan,15,Jaipur,School,PRJ086,Business Analytics,Intermediate,40.1,88.8,58.5,49.4,43.0,76.5,63.3,1,70.5,92,Strong project; add more creativity and documentation,Product Manager,Data Analyst
+STU0691,Meera,22,Chennai,Postgraduate,PRJ088,Artificial Intelligence,Beginner,39.2,47.0,35.5,55.6,62.7,91.4,48.2,1,67.2,94,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0692,Diya,17,Hyderabad,Higher Secondary,PRJ028,Python,Intermediate,51.3,52.6,61.3,59.6,76.5,81.0,54.3,1,72.3,106,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0693,Karan,16,Guwahati,Higher Secondary,PRJ004,Data Science,Intermediate,52.3,61.5,54.9,52.1,75.1,86.2,56.1,0,59.0,82,Good work; improve problem-solving depth,Data Scientist,Cyber Security Analyst
+STU0694,Sneha,24,Lucknow,Higher Secondary,PRJ095,Python,Advanced,64.8,55.9,74.7,84.6,72.0,65.4,60.9,1,70.0,84,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0695,Arjun,18,Lucknow,Postgraduate,PRJ051,UI/UX Design,Advanced,67.6,60.5,86.7,63.2,62.9,65.3,63.7,1,69.8,99,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0696,Aditya,18,Mumbai,Higher Secondary,PRJ079,Database,Intermediate,47.0,67.1,36.4,31.7,56.0,83.4,57.0,0,52.2,81,Improve accuracy and completeness,Software Developer,Database Administrator
+STU0697,Ananya,16,Hyderabad,School,PRJ013,Data Science,Intermediate,68.3,64.3,48.3,46.6,50.1,82.3,65.9,1,72.6,91,Strong project; add more creativity and documentation,Cyber Security Analyst,AI/ML Engineer
+STU0698,Rohan,24,Lucknow,Higher Secondary,PRJ054,Cyber Security,Intermediate,55.7,90.2,57.6,43.3,69.4,66.3,68.7,1,67.4,88,Good work; improve problem-solving depth,Software Developer,Database Administrator
+STU0699,Rohan,20,Hyderabad,School,PRJ029,Artificial Intelligence,Intermediate,64.2,65.1,67.5,62.5,94.5,84.4,63.7,0,67.7,98,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0700,Priya,22,Pune,Undergraduate,PRJ011,Cloud Computing,Beginner,46.8,51.9,72.3,78.2,69.9,99.6,52.9,0,71.8,101,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0701,Meera,15,Jaipur,Undergraduate,PRJ072,Business Analytics,Intermediate,55.4,66.8,61.5,51.2,78.3,73.0,64.6,1,77.2,110,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0702,Diya,21,Guwahati,School,PRJ074,Data Science,Beginner,45.8,73.3,57.3,53.4,85.2,79.4,55.7,0,58.7,89,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0703,Priya,17,Hyderabad,Undergraduate,PRJ096,Database,Intermediate,58.3,46.7,71.8,68.4,58.0,85.5,53.2,1,71.3,106,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0704,Ananya,21,Hyderabad,Higher Secondary,PRJ012,Data Science,Intermediate,62.3,73.6,45.0,58.7,68.1,69.6,66.1,1,64.9,95,Good work; improve problem-solving depth,UI/UX Designer,Database Administrator
+STU0705,Rohan,24,Mumbai,School,PRJ038,Web Development,Intermediate,86.7,32.9,62.1,65.0,79.4,68.3,62.8,0,63.0,80,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0706,Ananya,24,Delhi,Undergraduate,PRJ097,Python,Intermediate,59.9,54.3,100.0,53.5,66.7,70.4,58.0,0,59.2,84,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0707,Nisha,24,Bengaluru,School,PRJ007,Cloud Computing,Intermediate,76.5,74.8,56.2,77.3,75.4,52.5,71.9,1,70.7,102,Strong project; add more creativity and documentation,Cloud Engineer,Software Developer
+STU0708,Aarav,25,Hyderabad,Higher Secondary,PRJ088,Cloud Computing,Intermediate,52.1,60.6,28.0,74.4,60.8,70.4,60.8,1,56.8,75,Good work; improve problem-solving depth,AI/ML Engineer,Data Analyst
+STU0709,Arjun,24,Pune,School,PRJ087,Cyber Security,Intermediate,63.8,58.8,42.1,39.2,74.3,100.0,63.9,1,68.6,84,Good work; improve problem-solving depth,Cyber Security Analyst,Cloud Engineer
+STU0710,Aarav,16,Mumbai,Higher Secondary,PRJ037,Data Science,Beginner,48.7,73.4,75.4,67.5,46.9,65.5,59.3,0,57.3,70,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0711,Arjun,21,Delhi,Postgraduate,PRJ006,UI/UX Design,Intermediate,59.8,46.1,38.8,37.7,94.8,74.1,54.9,1,68.4,87,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0712,Nisha,19,Mumbai,Undergraduate,PRJ098,Cyber Security,Intermediate,82.1,38.9,68.3,63.5,65.3,89.6,65.2,1,75.5,99,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0713,Karan,17,Chennai,Undergraduate,PRJ055,Artificial Intelligence,Beginner,49.6,60.7,20.0,58.7,78.5,72.9,56.6,1,60.4,92,Good work; improve problem-solving depth,Data Analyst,Cyber Security Analyst
+STU0714,Meera,18,Guwahati,Higher Secondary,PRJ045,Cyber Security,Beginner,66.5,82.2,52.6,55.9,77.7,36.7,72.1,1,64.6,81,Good work; improve problem-solving depth,Cloud Engineer,Database Administrator
+STU0715,Sneha,15,Jaipur,Undergraduate,PRJ035,Cyber Security,Intermediate,62.6,74.7,76.1,63.2,76.6,73.0,66.5,1,74.3,105,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0716,Diya,23,Pune,Undergraduate,PRJ073,Web Development,Beginner,55.2,62.5,42.7,67.7,64.8,76.8,61.1,1,67.7,95,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0717,Karan,22,Hyderabad,School,PRJ087,Business Analytics,Intermediate,55.8,48.3,75.8,62.5,84.7,46.1,55.9,1,64.8,90,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0718,Ishaan,18,Guwahati,Undergraduate,PRJ068,Data Science,Beginner,78.0,63.4,66.6,26.8,67.1,72.0,69.2,1,67.5,91,Good work; improve problem-solving depth,Data Analyst,AI/ML Engineer
+STU0719,Vivaan,17,Hyderabad,School,PRJ043,Cloud Computing,Intermediate,83.1,50.5,48.6,76.0,77.6,88.1,72.8,1,75.2,105,Strong project; add more creativity and documentation,Cloud Engineer,Software Developer
+STU0720,Vivaan,20,Bengaluru,Higher Secondary,PRJ071,Python,Intermediate,68.6,61.9,79.9,89.8,70.0,80.0,67.1,1,79.0,115,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0721,Meera,15,Bengaluru,Higher Secondary,PRJ055,Mobile App Development,Beginner,69.6,93.0,83.2,76.6,81.6,76.1,79.0,1,84.2,115,Strong project; add more creativity and documentation,AI/ML Engineer,Database Administrator
+STU0722,Nisha,22,Chennai,Postgraduate,PRJ049,Mobile App Development,Intermediate,46.6,49.3,82.5,71.6,79.5,87.1,53.5,1,81.6,109,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0723,Sneha,24,Mumbai,School,PRJ055,Cloud Computing,Beginner,66.7,68.9,67.3,63.4,73.2,72.5,66.8,1,71.9,91,Strong project; add more creativity and documentation,Cloud Engineer,AI/ML Engineer
+STU0724,Karan,21,Bengaluru,Higher Secondary,PRJ061,Business Analytics,Intermediate,20.0,73.9,71.4,46.7,88.2,78.9,53.5,1,73.2,103,Strong project; add more creativity and documentation,Software Developer,Product Manager
+STU0725,Priya,15,Chennai,Undergraduate,PRJ045,Web Development,Intermediate,57.8,58.5,63.3,58.6,62.9,95.5,63.2,1,78.0,112,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0726,Diya,19,Jaipur,Postgraduate,PRJ078,Business Analytics,Intermediate,35.0,61.9,48.5,97.1,65.2,74.9,47.1,1,61.6,80,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0727,Riya,16,Guwahati,School,PRJ021,Data Science,Intermediate,45.7,86.8,37.7,39.9,70.6,74.7,62.7,0,67.0,93,Good work; improve problem-solving depth,Software Developer,Database Administrator
+STU0728,Nisha,20,Mumbai,School,PRJ088,Database,Intermediate,51.4,92.9,84.2,57.2,64.4,82.5,70.3,1,79.8,109,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0729,Meera,20,Pune,Undergraduate,PRJ098,Data Science,Intermediate,52.5,57.6,57.6,53.8,66.4,75.3,57.5,1,66.1,86,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0730,Nisha,25,Guwahati,Undergraduate,PRJ011,Database,Intermediate,62.9,70.2,71.3,76.5,79.4,76.9,66.5,0,69.1,90,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0731,Aanya,15,Kolkata,Undergraduate,PRJ085,Cloud Computing,Beginner,70.0,52.9,45.1,59.0,52.4,58.8,59.0,1,56.1,77,Good work; improve problem-solving depth,Database Administrator,Software Developer
+STU0732,Priya,15,Mumbai,School,PRJ100,Python,Intermediate,100.0,36.6,66.1,45.9,85.0,81.0,73.1,0,60.6,74,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0733,Vivaan,22,Delhi,Undergraduate,PRJ012,Artificial Intelligence,Advanced,56.1,61.2,55.1,69.2,94.4,51.6,60.2,1,69.8,92,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0734,Aanya,21,Jaipur,Higher Secondary,PRJ086,Cloud Computing,Intermediate,64.1,75.6,59.5,47.1,48.6,78.2,69.9,1,67.5,94,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0735,Ishaan,15,Guwahati,School,PRJ059,Business Analytics,Advanced,65.4,70.2,60.1,75.9,49.9,86.2,67.6,1,72.7,102,Strong project; add more creativity and documentation,Database Administrator,Data Analyst
+STU0736,Ira,20,Mumbai,Postgraduate,PRJ061,UI/UX Design,Intermediate,45.7,74.5,60.4,81.6,82.9,91.1,60.8,1,73.1,90,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0737,Sneha,15,Hyderabad,School,PRJ058,Cloud Computing,Beginner,42.7,63.0,67.0,70.5,75.9,65.6,52.8,1,75.7,104,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0738,Rohan,17,Bengaluru,Undergraduate,PRJ063,Business Analytics,Advanced,43.7,67.1,87.3,49.6,94.0,80.7,56.9,0,65.6,91,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0739,Kavya,24,Lucknow,Higher Secondary,PRJ047,Data Science,Beginner,48.2,69.6,26.7,66.8,97.3,87.4,60.0,0,62.2,84,Good work; improve problem-solving depth,Data Scientist,Cyber Security Analyst
+STU0740,Nisha,18,Mumbai,Higher Secondary,PRJ062,UI/UX Design,Intermediate,51.3,59.3,67.3,72.9,39.7,75.6,58.7,1,66.9,86,Good work; improve problem-solving depth,Database Administrator,UI/UX Designer
+STU0741,Rahul,17,Hyderabad,Undergraduate,PRJ093,Database,Beginner,50.4,53.5,74.2,48.7,100.0,94.8,55.4,1,73.1,90,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0742,Vivaan,16,Kolkata,Postgraduate,PRJ029,Python,Advanced,61.8,49.8,46.7,53.7,70.4,61.3,57.8,0,63.4,93,Good work; improve problem-solving depth,Product Manager,Software Developer
+STU0743,Kabir,16,Mumbai,School,PRJ009,UI/UX Design,Beginner,49.8,71.5,67.7,77.7,62.3,95.2,61.1,1,74.0,96,Strong project; add more creativity and documentation,Cloud Engineer,UI/UX Designer
+STU0744,Ira,15,Delhi,Undergraduate,PRJ052,Artificial Intelligence,Intermediate,56.8,94.4,64.6,78.7,69.7,77.4,72.1,1,79.7,111,Strong project; add more creativity and documentation,Database Administrator,Data Analyst
+STU0745,Rohan,19,Chennai,Undergraduate,PRJ059,Business Analytics,Intermediate,62.3,83.1,56.6,66.2,46.0,97.9,70.5,0,65.7,89,Good work; improve problem-solving depth,Product Manager,Data Analyst
+STU0746,Tanya,18,Pune,Undergraduate,PRJ014,UI/UX Design,Intermediate,69.9,44.8,65.6,86.7,57.6,79.3,59.6,1,71.0,100,Strong project; add more creativity and documentation,AI/ML Engineer,Mobile App Developer
+STU0747,Rohan,21,Guwahati,Higher Secondary,PRJ049,Mobile App Development,Beginner,50.8,66.2,50.8,74.9,86.7,77.9,61.1,0,63.1,84,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0748,Rohan,16,Delhi,Undergraduate,PRJ097,UI/UX Design,Intermediate,32.8,49.4,94.4,85.8,60.0,71.5,44.0,1,67.6,96,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0749,Kavya,19,Mumbai,Higher Secondary,PRJ080,Cloud Computing,Intermediate,43.6,67.3,79.8,63.6,97.0,78.6,59.5,1,75.3,99,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0750,Aarav,15,Hyderabad,Higher Secondary,PRJ025,Data Science,Intermediate,68.0,68.3,51.3,58.2,62.3,75.4,69.0,1,74.9,101,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0751,Rahul,19,Pune,Undergraduate,PRJ100,Cloud Computing,Advanced,42.0,57.8,54.3,74.3,57.2,66.5,51.6,1,59.9,84,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0752,Sneha,25,Bengaluru,Undergraduate,PRJ061,Web Development,Beginner,40.4,31.9,64.3,51.1,69.0,76.4,43.9,1,67.8,81,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0753,Aditya,22,Delhi,Undergraduate,PRJ054,Mobile App Development,Advanced,70.1,100.0,61.8,63.6,51.0,76.4,78.5,1,66.3,92,Good work; improve problem-solving depth,Data Analyst,Data Analyst
+STU0754,Rahul,19,Hyderabad,Undergraduate,PRJ053,Artificial Intelligence,Intermediate,65.9,53.3,59.7,52.4,61.2,55.5,58.0,1,55.7,87,Good work; improve problem-solving depth,AI/ML Engineer,Software Developer
+STU0755,Vivaan,20,Lucknow,Undergraduate,PRJ013,Web Development,Intermediate,71.7,62.8,45.6,53.2,61.6,97.0,66.4,1,72.9,94,Strong project; add more creativity and documentation,Cyber Security Analyst,Cloud Engineer
+STU0756,Kabir,20,Guwahati,School,PRJ046,UI/UX Design,Intermediate,55.5,73.1,100.0,81.9,69.4,71.3,62.7,1,84.1,103,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0757,Nisha,20,Mumbai,Postgraduate,PRJ036,Cyber Security,Beginner,57.0,53.1,55.0,41.6,73.1,98.7,56.8,1,67.1,80,Good work; improve problem-solving depth,AI/ML Engineer,Cloud Engineer
+STU0758,Arjun,20,Lucknow,Undergraduate,PRJ069,Artificial Intelligence,Beginner,55.3,70.5,69.1,75.6,70.8,65.7,66.5,1,69.6,92,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0759,Nisha,19,Kolkata,Postgraduate,PRJ051,Data Science,Intermediate,74.5,72.3,52.5,63.3,75.8,65.5,72.7,1,70.3,87,Strong project; add more creativity and documentation,AI/ML Engineer,Cloud Engineer
+STU0760,Diya,18,Jaipur,School,PRJ010,Artificial Intelligence,Beginner,78.2,40.8,65.8,60.5,66.4,73.3,63.0,0,62.7,78,Good work; improve problem-solving depth,Database Administrator,Mobile App Developer
+STU0761,Riya,18,Kolkata,School,PRJ064,Web Development,Beginner,89.2,42.7,20.0,56.6,62.1,71.6,69.7,1,65.3,98,Good work; improve problem-solving depth,Database Administrator,Software Developer
+STU0762,Aditya,20,Delhi,Undergraduate,PRJ086,UI/UX Design,Intermediate,36.4,63.9,52.1,67.1,43.9,77.0,50.6,1,71.1,101,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0763,Kabir,19,Delhi,Undergraduate,PRJ008,Database,Beginner,49.9,49.8,58.5,51.4,48.8,69.7,54.8,1,67.0,80,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0764,Nisha,24,Chennai,Undergraduate,PRJ047,Cyber Security,Beginner,68.1,43.9,47.3,73.0,80.0,100.0,58.6,0,63.7,92,Good work; improve problem-solving depth,Software Developer,Software Developer
+STU0765,Priya,15,Kolkata,Undergraduate,PRJ087,Database,Beginner,74.1,29.7,55.9,23.1,54.5,71.6,60.5,1,63.9,83,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0766,Arjun,22,Jaipur,School,PRJ072,Data Science,Intermediate,58.1,54.7,52.1,75.7,81.1,53.6,60.6,0,59.0,83,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0767,Aditya,18,Jaipur,School,PRJ053,Artificial Intelligence,Intermediate,64.6,68.8,52.5,77.4,100.0,100.0,66.1,0,77.2,111,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0768,Tanya,17,Chennai,Postgraduate,PRJ090,Mobile App Development,Intermediate,47.9,75.6,33.6,60.4,66.4,78.2,62.4,1,65.8,83,Good work; improve problem-solving depth,Software Developer,Database Administrator
+STU0769,Priya,25,Chennai,Higher Secondary,PRJ044,Data Science,Intermediate,74.3,57.1,77.2,68.0,58.1,84.9,68.5,1,78.8,104,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0770,Vivaan,20,Guwahati,Undergraduate,PRJ058,Data Science,Intermediate,83.2,75.8,55.6,63.4,69.6,85.3,80.5,1,74.4,109,Strong project; add more creativity and documentation,Software Developer,Cloud Engineer
+STU0771,Priya,19,Bengaluru,Undergraduate,PRJ089,UI/UX Design,Advanced,74.0,38.0,85.0,61.7,60.2,85.9,59.8,0,70.7,100,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0772,Kavya,15,Guwahati,Undergraduate,PRJ006,Artificial Intelligence,Beginner,48.0,68.1,66.8,69.9,61.9,84.5,62.4,1,77.7,111,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0773,Riya,20,Jaipur,School,PRJ071,Cloud Computing,Beginner,72.8,37.0,20.6,59.6,38.0,66.2,57.2,1,54.3,85,Improve accuracy and completeness,Cloud Engineer,Software Developer
+STU0774,Arjun,24,Chennai,Higher Secondary,PRJ001,Web Development,Intermediate,64.2,61.5,54.1,70.6,54.2,78.3,65.2,1,65.1,92,Good work; improve problem-solving depth,Cloud Engineer,Data Analyst
+STU0775,Arjun,17,Chennai,School,PRJ033,Web Development,Intermediate,74.9,48.0,64.7,48.6,56.8,89.7,65.4,1,76.3,95,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0776,Aarav,23,Delhi,Postgraduate,PRJ075,Python,Beginner,63.0,54.7,34.5,57.4,79.8,53.1,59.4,1,66.3,82,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0777,Kavya,21,Pune,Postgraduate,PRJ083,Python,Intermediate,60.9,62.5,21.0,71.7,61.4,78.6,62.7,1,60.0,87,Good work; improve problem-solving depth,Software Developer,Data Analyst
+STU0778,Nisha,16,Hyderabad,Higher Secondary,PRJ080,UI/UX Design,Advanced,51.0,88.1,86.3,76.2,44.6,78.8,68.4,1,83.6,115,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0779,Kavya,18,Chennai,Undergraduate,PRJ072,Cyber Security,Intermediate,24.5,49.9,31.4,60.4,37.2,66.7,39.4,0,35.8,57,Improve accuracy and completeness,Product Manager,Product Manager
+STU0780,Ananya,24,Lucknow,Postgraduate,PRJ038,Artificial Intelligence,Beginner,55.1,51.0,86.3,77.0,58.9,88.1,57.2,0,70.9,104,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0781,Ira,20,Chennai,School,PRJ095,Data Science,Intermediate,74.1,68.9,72.2,48.1,74.6,61.3,73.4,1,78.0,102,Strong project; add more creativity and documentation,Product Manager,AI/ML Engineer
+STU0782,Kabir,18,Delhi,Higher Secondary,PRJ012,UI/UX Design,Intermediate,38.7,48.9,55.7,48.6,95.7,74.4,49.3,0,55.9,83,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0783,Aditya,21,Guwahati,Undergraduate,PRJ100,Cloud Computing,Advanced,50.7,46.2,51.3,66.4,71.3,100.0,54.8,1,72.8,100,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0784,Aditya,16,Guwahati,Undergraduate,PRJ029,Data Science,Advanced,67.2,64.7,89.2,56.5,57.8,80.0,64.5,1,72.2,106,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0785,Meera,23,Chennai,Undergraduate,PRJ054,Web Development,Beginner,59.5,40.8,87.2,59.6,39.1,74.5,56.7,1,69.7,90,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0786,Kavya,18,Lucknow,School,PRJ041,UI/UX Design,Beginner,25.9,73.8,60.9,79.1,69.8,71.8,50.6,1,78.3,107,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0787,Diya,15,Chennai,Higher Secondary,PRJ001,Cloud Computing,Advanced,55.0,63.5,43.6,63.8,67.3,77.0,60.6,1,62.7,85,Good work; improve problem-solving depth,Data Scientist,Database Administrator
+STU0788,Rahul,25,Chennai,Higher Secondary,PRJ093,Data Science,Advanced,93.6,87.4,69.8,53.3,56.8,86.9,88.8,1,88.8,124,Excellent project; ready for advanced work,UI/UX Designer,AI/ML Engineer
+STU0789,Ira,16,Bengaluru,Higher Secondary,PRJ057,Data Science,Intermediate,29.2,49.1,39.3,68.4,66.7,88.3,44.2,1,69.6,89,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0790,Kavya,19,Pune,Undergraduate,PRJ083,Database,Intermediate,32.5,68.9,47.4,61.5,91.3,89.8,52.4,0,59.2,77,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0791,Ananya,23,Jaipur,School,PRJ059,Database,Intermediate,48.6,75.1,65.8,33.7,78.2,57.2,61.3,0,51.3,78,Improve accuracy and completeness,Mobile App Developer,Database Administrator
+STU0792,Ishaan,17,Hyderabad,Higher Secondary,PRJ035,Cloud Computing,Beginner,55.8,49.3,79.7,76.1,69.5,90.6,55.3,1,81.3,100,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0793,Aditya,23,Hyderabad,Undergraduate,PRJ001,Web Development,Intermediate,61.5,51.2,78.6,66.0,80.0,97.2,55.8,1,78.8,112,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0794,Vivaan,17,Hyderabad,School,PRJ055,Mobile App Development,Beginner,53.9,47.6,76.3,56.3,89.6,77.6,53.6,1,80.9,106,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0795,Sneha,23,Chennai,Undergraduate,PRJ016,Database,Beginner,43.4,86.2,41.7,45.0,73.8,81.0,63.0,1,65.9,93,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0796,Aanya,25,Kolkata,Higher Secondary,PRJ005,Data Science,Advanced,67.6,58.9,100.0,69.7,77.1,88.6,64.4,0,79.2,108,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0797,Sneha,20,Jaipur,Higher Secondary,PRJ008,Business Analytics,Beginner,64.9,71.5,48.1,66.3,50.2,88.8,71.5,1,69.2,85,Good work; improve problem-solving depth,Data Scientist,Data Analyst
+STU0798,Diya,23,Chennai,School,PRJ022,Cloud Computing,Beginner,37.1,49.6,27.5,64.8,51.1,84.7,44.7,1,52.8,74,Improve accuracy and completeness,Cloud Engineer,Product Manager
+STU0799,Arjun,19,Kolkata,School,PRJ039,Artificial Intelligence,Advanced,69.2,73.2,64.5,62.0,53.8,69.4,73.6,0,62.5,78,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0800,Aditya,18,Lucknow,Undergraduate,PRJ065,Business Analytics,Intermediate,50.8,80.1,41.4,68.9,79.4,74.9,60.6,1,63.1,84,Good work; improve problem-solving depth,Software Developer,Database Administrator
+STU0801,Diya,24,Pune,Undergraduate,PRJ090,Python,Intermediate,53.6,43.3,61.1,81.4,66.9,72.2,50.2,1,63.4,89,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0802,Aarav,24,Kolkata,School,PRJ083,Business Analytics,Beginner,37.5,81.0,64.1,58.1,85.6,64.9,57.2,1,61.1,86,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0803,Kavya,19,Bengaluru,Undergraduate,PRJ084,Database,Beginner,65.5,72.9,40.5,54.7,54.1,68.6,68.4,0,52.9,63,Improve accuracy and completeness,Cyber Security Analyst,Data Analyst
+STU0804,Ira,18,Chennai,Higher Secondary,PRJ010,Cyber Security,Beginner,48.6,57.2,48.9,68.6,54.3,72.6,56.1,1,58.2,74,Good work; improve problem-solving depth,AI/ML Engineer,Product Manager
+STU0805,Rahul,21,Pune,Postgraduate,PRJ038,Artificial Intelligence,Advanced,53.9,52.6,64.7,60.5,59.0,68.8,56.3,1,62.6,92,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0806,Vivaan,19,Bengaluru,Postgraduate,PRJ026,Database,Beginner,59.0,71.4,62.3,46.7,62.3,74.1,62.6,1,72.3,102,Strong project; add more creativity and documentation,UI/UX Designer,Database Administrator
+STU0807,Ananya,21,Lucknow,Postgraduate,PRJ096,Mobile App Development,Intermediate,49.4,63.8,62.1,51.4,72.8,100.0,60.8,1,70.6,102,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0808,Aarav,17,Chennai,Undergraduate,PRJ061,Cloud Computing,Intermediate,78.4,55.8,29.3,65.5,56.2,71.8,68.5,0,47.9,71,Improve accuracy and completeness,Product Manager,Software Developer
+STU0809,Priya,15,Hyderabad,Undergraduate,PRJ100,Cyber Security,Intermediate,45.1,63.0,86.5,61.4,95.5,78.6,54.6,0,63.0,82,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0810,Aarav,16,Guwahati,Higher Secondary,PRJ085,UI/UX Design,Beginner,52.0,61.1,48.0,71.8,56.4,64.1,60.5,0,58.9,78,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0811,Rahul,25,Chennai,Higher Secondary,PRJ021,Python,Beginner,91.8,28.9,65.6,67.5,76.9,59.3,63.3,1,73.8,93,Strong project; add more creativity and documentation,Mobile App Developer,Mobile App Developer
+STU0812,Ira,18,Bengaluru,Undergraduate,PRJ003,Business Analytics,Beginner,59.3,56.8,54.4,91.0,64.6,84.8,60.8,1,75.0,108,Strong project; add more creativity and documentation,Database Administrator,Product Manager
+STU0813,Aditya,22,Bengaluru,Undergraduate,PRJ056,Python,Intermediate,60.0,27.6,48.6,49.4,56.5,62.8,48.1,1,60.3,77,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0814,Aarav,22,Mumbai,Undergraduate,PRJ034,Cyber Security,Intermediate,69.1,50.6,55.2,46.6,81.3,77.4,63.7,1,68.6,91,Good work; improve problem-solving depth,Software Developer,Cloud Engineer
+STU0815,Arjun,19,Bengaluru,Undergraduate,PRJ096,Business Analytics,Beginner,62.7,68.6,47.7,59.4,70.0,83.4,65.6,1,77.3,106,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0816,Arjun,24,Lucknow,Undergraduate,PRJ017,Web Development,Beginner,59.7,77.9,56.1,38.9,72.4,66.8,66.7,1,72.6,102,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0817,Vivaan,20,Mumbai,Undergraduate,PRJ097,Business Analytics,Intermediate,44.4,61.5,53.6,80.7,71.0,86.3,57.1,1,73.9,92,Strong project; add more creativity and documentation,Cyber Security Analyst,Product Manager
+STU0818,Ishaan,15,Chennai,School,PRJ085,Python,Beginner,74.3,73.3,54.9,56.8,61.6,61.4,73.6,1,71.1,98,Strong project; add more creativity and documentation,Product Manager,AI/ML Engineer
+STU0819,Ishaan,20,Bengaluru,Undergraduate,PRJ031,Mobile App Development,Beginner,41.6,63.3,66.1,69.4,46.0,63.4,53.6,0,50.1,65,Improve accuracy and completeness,Mobile App Developer,UI/UX Designer
+STU0820,Ananya,18,Guwahati,Undergraduate,PRJ069,Database,Advanced,69.6,84.8,75.7,64.5,68.9,81.5,74.5,1,73.0,108,Strong project; add more creativity and documentation,Data Scientist,Database Administrator
+STU0821,Rahul,15,Delhi,Undergraduate,PRJ005,UI/UX Design,Intermediate,47.9,83.6,41.0,70.5,93.4,88.1,62.6,1,75.8,96,Strong project; add more creativity and documentation,Cloud Engineer,Database Administrator
+STU0822,Aarav,22,Chennai,Postgraduate,PRJ098,Data Science,Intermediate,74.6,48.2,54.7,59.5,68.5,84.9,63.4,1,75.1,99,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0823,Kavya,17,Mumbai,Undergraduate,PRJ036,Artificial Intelligence,Beginner,49.6,54.1,55.5,91.1,73.0,82.3,54.3,1,67.7,99,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0824,Priya,15,Delhi,School,PRJ016,Artificial Intelligence,Intermediate,71.9,55.1,65.8,69.6,69.3,84.4,63.4,1,76.1,94,Strong project; add more creativity and documentation,Cyber Security Analyst,Mobile App Developer
+STU0825,Diya,22,Bengaluru,School,PRJ042,Python,Intermediate,39.9,45.3,58.3,69.6,56.3,85.2,47.7,1,71.7,97,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0826,Aarav,24,Kolkata,Higher Secondary,PRJ041,Cyber Security,Intermediate,55.3,77.4,41.7,62.9,75.0,74.4,67.9,0,53.8,69,Improve accuracy and completeness,Cyber Security Analyst,Database Administrator
+STU0827,Arjun,16,Jaipur,Postgraduate,PRJ058,Web Development,Beginner,48.6,56.1,79.3,67.4,43.3,82.3,58.1,1,67.1,100,Good work; improve problem-solving depth,UI/UX Designer,UI/UX Designer
+STU0828,Rahul,18,Guwahati,School,PRJ039,Artificial Intelligence,Intermediate,53.6,47.2,55.8,78.2,66.9,92.7,52.0,1,75.7,95,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0829,Ira,23,Lucknow,Undergraduate,PRJ042,Cyber Security,Intermediate,43.7,55.6,62.2,71.1,67.9,68.5,52.5,1,67.0,92,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0830,Aditya,21,Hyderabad,Postgraduate,PRJ005,Database,Beginner,73.5,57.9,47.4,56.8,71.2,92.5,66.8,1,77.2,97,Strong project; add more creativity and documentation,Database Administrator,Cloud Engineer
+STU0831,Diya,25,Mumbai,Undergraduate,PRJ038,Mobile App Development,Beginner,41.4,69.9,75.8,38.4,54.6,59.0,56.2,1,60.6,78,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0832,Kabir,18,Lucknow,Higher Secondary,PRJ039,Web Development,Beginner,37.8,35.7,63.8,67.6,56.8,76.6,44.0,1,65.8,99,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0833,Riya,25,Pune,Undergraduate,PRJ008,Database,Intermediate,45.1,48.3,38.2,80.1,61.9,74.7,50.9,1,68.2,87,Good work; improve problem-solving depth,Cloud Engineer,Product Manager
+STU0834,Ananya,20,Jaipur,Higher Secondary,PRJ071,UI/UX Design,Beginner,54.6,40.6,62.1,71.7,65.6,100.0,55.0,0,68.0,100,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0835,Nisha,17,Lucknow,Higher Secondary,PRJ008,Cyber Security,Intermediate,43.5,40.8,79.5,66.3,36.9,82.1,45.8,1,69.4,97,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0836,Priya,23,Jaipur,School,PRJ010,Cyber Security,Beginner,58.6,65.2,44.3,58.4,58.5,71.8,61.5,1,67.0,95,Good work; improve problem-solving depth,Cyber Security Analyst,Data Analyst
+STU0837,Rahul,20,Pune,Undergraduate,PRJ067,Web Development,Intermediate,57.4,46.8,69.7,59.1,85.1,71.8,54.6,1,77.8,93,Strong project; add more creativity and documentation,AI/ML Engineer,Cyber Security Analyst
+STU0838,Aanya,24,Bengaluru,Undergraduate,PRJ025,Python,Beginner,84.7,56.1,33.6,63.9,81.9,99.1,68.2,1,70.5,93,Strong project; add more creativity and documentation,Cyber Security Analyst,Software Developer
+STU0839,Aarav,21,Delhi,Higher Secondary,PRJ004,Data Science,Intermediate,60.4,100.0,82.3,87.9,56.6,72.2,75.7,1,80.9,97,Strong project; add more creativity and documentation,Database Administrator,Data Analyst
+STU0840,Ira,20,Hyderabad,Undergraduate,PRJ091,Cloud Computing,Advanced,20.0,56.7,36.4,84.0,92.4,73.3,43.7,0,53.1,78,Improve accuracy and completeness,Cyber Security Analyst,Product Manager
+STU0841,Vivaan,16,Delhi,Undergraduate,PRJ016,UI/UX Design,Intermediate,36.4,67.8,65.6,50.3,71.3,84.9,56.2,1,66.9,85,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0842,Aditya,22,Hyderabad,Higher Secondary,PRJ091,Python,Intermediate,93.3,55.1,53.4,82.4,68.0,67.7,78.0,1,81.8,113,Strong project; add more creativity and documentation,UI/UX Designer,Software Developer
+STU0843,Riya,20,Delhi,Undergraduate,PRJ036,Web Development,Advanced,49.8,42.7,62.5,44.7,45.0,78.9,54.3,1,65.0,91,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0844,Ishaan,23,Bengaluru,Postgraduate,PRJ029,UI/UX Design,Beginner,94.9,83.0,56.6,59.2,81.9,86.1,83.1,1,86.6,115,Excellent project; ready for advanced work,UI/UX Designer,Cloud Engineer
+STU0845,Rahul,21,Mumbai,Higher Secondary,PRJ043,Artificial Intelligence,Intermediate,73.7,60.6,81.5,100.0,68.1,79.3,68.2,1,79.6,100,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0846,Aarav,21,Kolkata,Undergraduate,PRJ050,UI/UX Design,Beginner,62.8,55.4,93.6,76.0,85.2,52.3,60.0,1,79.7,105,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0847,Diya,16,Bengaluru,Higher Secondary,PRJ052,Data Science,Beginner,72.1,66.7,27.6,47.8,53.7,85.3,67.0,1,65.5,95,Good work; improve problem-solving depth,Cloud Engineer,Cloud Engineer
+STU0848,Kabir,24,Delhi,School,PRJ070,UI/UX Design,Beginner,36.6,59.4,84.3,77.3,75.0,82.1,51.7,0,68.8,101,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0849,Kabir,24,Lucknow,Postgraduate,PRJ052,Database,Intermediate,38.6,94.0,71.2,100.0,56.5,99.2,64.5,1,81.5,113,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0850,Priya,24,Hyderabad,Undergraduate,PRJ072,Artificial Intelligence,Advanced,64.0,64.9,64.3,71.3,46.8,92.3,63.8,1,71.6,98,Strong project; add more creativity and documentation,Software Developer,Data Analyst
+STU0851,Nisha,15,Jaipur,Undergraduate,PRJ023,Python,Intermediate,78.3,65.8,73.1,62.4,72.4,69.5,70.7,1,78.9,101,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0852,Vivaan,25,Jaipur,Undergraduate,PRJ090,Data Science,Intermediate,61.2,65.9,49.7,54.6,54.6,95.8,64.6,1,78.0,98,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0853,Kavya,21,Delhi,Higher Secondary,PRJ089,Database,Intermediate,60.4,83.4,81.4,43.5,93.8,96.4,72.5,1,90.2,120,Excellent project; ready for advanced work,Software Developer,Database Administrator
+STU0854,Sneha,20,Lucknow,Undergraduate,PRJ082,Data Science,Beginner,38.0,70.0,60.0,64.8,58.3,52.5,54.4,1,63.5,91,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0855,Meera,25,Delhi,Postgraduate,PRJ023,Artificial Intelligence,Beginner,40.2,51.0,72.7,52.8,32.4,72.6,47.6,1,58.2,73,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0856,Riya,23,Jaipur,Undergraduate,PRJ035,UI/UX Design,Advanced,60.1,63.4,69.4,68.2,56.9,61.8,63.0,0,57.9,73,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0857,Priya,21,Lucknow,Higher Secondary,PRJ034,Mobile App Development,Beginner,74.5,84.4,68.1,51.2,58.5,78.4,77.0,1,78.5,113,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0858,Kavya,19,Pune,School,PRJ033,Business Analytics,Beginner,48.8,75.8,33.1,72.2,61.8,82.7,62.7,1,65.1,88,Good work; improve problem-solving depth,Database Administrator,Data Analyst
+STU0859,Sneha,21,Delhi,School,PRJ096,Artificial Intelligence,Intermediate,64.5,55.4,62.0,67.6,74.0,94.5,61.7,0,64.9,81,Good work; improve problem-solving depth,Data Analyst,Mobile App Developer
+STU0860,Kabir,20,Pune,Undergraduate,PRJ075,Mobile App Development,Intermediate,50.8,64.9,82.9,67.6,47.4,71.4,61.3,1,73.9,106,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0861,Vivaan,23,Guwahati,Undergraduate,PRJ013,UI/UX Design,Beginner,43.9,67.8,47.3,72.9,63.7,73.4,59.3,1,67.8,100,Good work; improve problem-solving depth,Product Manager,Product Manager
+STU0862,Aditya,24,Bengaluru,Undergraduate,PRJ037,Mobile App Development,Intermediate,66.2,52.0,62.2,72.1,68.3,67.8,60.3,1,73.0,99,Strong project; add more creativity and documentation,Software Developer,Mobile App Developer
+STU0863,Kavya,23,Chennai,Postgraduate,PRJ029,Business Analytics,Advanced,76.6,73.3,45.8,76.2,75.5,78.5,74.7,0,68.2,89,Good work; improve problem-solving depth,AI/ML Engineer,Software Developer
+STU0864,Tanya,24,Lucknow,Undergraduate,PRJ094,Python,Beginner,58.7,51.7,35.1,74.2,45.8,70.9,58.4,1,61.1,91,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0865,Riya,17,Kolkata,School,PRJ097,Mobile App Development,Intermediate,61.8,50.5,97.8,57.0,60.5,66.6,62.0,1,76.8,107,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0866,Rahul,20,Pune,School,PRJ019,Business Analytics,Intermediate,35.3,82.5,84.3,66.5,74.5,91.0,59.5,1,83.8,106,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer
+STU0867,Karan,17,Jaipur,Undergraduate,PRJ027,UI/UX Design,Beginner,50.3,54.8,59.5,73.0,65.1,68.6,53.8,1,59.5,75,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0868,Aanya,15,Hyderabad,Postgraduate,PRJ057,UI/UX Design,Beginner,69.0,31.4,47.4,74.0,74.6,78.7,56.4,1,68.2,84,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0869,Arjun,16,Lucknow,School,PRJ001,Data Science,Intermediate,49.5,52.3,60.8,51.7,59.3,72.2,58.8,0,62.7,75,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0870,Aanya,21,Hyderabad,Undergraduate,PRJ013,UI/UX Design,Beginner,32.6,34.4,97.9,65.5,59.7,80.2,42.2,1,74.0,93,Strong project; add more creativity and documentation,Software Developer,UI/UX Designer
+STU0871,Vivaan,15,Jaipur,Undergraduate,PRJ086,Data Science,Beginner,70.3,59.0,71.3,100.0,57.1,71.9,65.4,1,78.8,97,Strong project; add more creativity and documentation,UI/UX Designer,UI/UX Designer
+STU0872,Priya,21,Hyderabad,Undergraduate,PRJ003,Database,Beginner,39.2,80.3,69.3,84.8,57.6,88.8,59.3,1,72.5,106,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0873,Kabir,15,Delhi,Higher Secondary,PRJ014,UI/UX Design,Beginner,38.4,50.8,53.3,87.1,62.2,71.1,48.8,1,65.4,86,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0874,Ira,16,Mumbai,Higher Secondary,PRJ022,Artificial Intelligence,Intermediate,20.0,72.3,60.2,70.4,85.2,72.7,51.4,1,70.8,94,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0875,Meera,25,Hyderabad,Undergraduate,PRJ055,Cyber Security,Intermediate,75.7,65.1,100.0,94.1,66.8,100.0,72.6,1,89.8,115,Excellent project; ready for advanced work,UI/UX Designer,UI/UX Designer
+STU0876,Aditya,15,Pune,Higher Secondary,PRJ069,Mobile App Development,Beginner,56.3,37.3,55.1,83.3,53.4,68.8,50.7,1,67.0,93,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0877,Sneha,16,Kolkata,Higher Secondary,PRJ006,Cloud Computing,Intermediate,69.5,79.4,59.8,60.1,80.6,94.7,72.1,1,76.6,102,Strong project; add more creativity and documentation,Mobile App Developer,Database Administrator
+STU0878,Rahul,19,Chennai,Undergraduate,PRJ042,Database,Beginner,43.7,50.3,68.2,56.3,51.2,88.4,50.1,0,50.2,75,Improve accuracy and completeness,Data Scientist,UI/UX Designer
+STU0879,Nisha,21,Hyderabad,Undergraduate,PRJ042,Data Science,Intermediate,87.7,66.0,73.3,53.7,60.3,95.8,76.5,1,85.1,103,Excellent project; ready for advanced work,Product Manager,Mobile App Developer
+STU0880,Kavya,17,Lucknow,Undergraduate,PRJ096,Business Analytics,Intermediate,67.3,33.5,70.4,79.6,35.3,73.8,54.0,1,66.9,83,Good work; improve problem-solving depth,Data Scientist,Mobile App Developer
+STU0881,Diya,17,Chennai,Undergraduate,PRJ087,UI/UX Design,Intermediate,61.2,47.0,47.2,70.2,78.5,70.0,59.7,0,66.8,97,Good work; improve problem-solving depth,Cloud Engineer,Cyber Security Analyst
+STU0882,Meera,16,Lucknow,Undergraduate,PRJ060,Artificial Intelligence,Intermediate,52.6,47.0,62.1,65.2,63.8,95.5,53.4,1,73.7,108,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0883,Meera,23,Bengaluru,Higher Secondary,PRJ093,Cloud Computing,Beginner,89.6,46.8,51.7,64.3,56.7,92.3,66.0,1,73.0,108,Strong project; add more creativity and documentation,Cyber Security Analyst,Software Developer
+STU0884,Aditya,20,Guwahati,Undergraduate,PRJ058,Python,Advanced,63.3,26.7,67.4,83.4,62.4,75.2,50.3,1,68.2,92,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0885,Vivaan,23,Jaipur,Undergraduate,PRJ047,Business Analytics,Intermediate,41.5,76.0,48.9,62.6,96.6,84.8,60.8,1,83.2,119,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0886,Ishaan,15,Kolkata,Undergraduate,PRJ080,Database,Advanced,74.6,78.2,86.5,74.1,47.7,63.3,78.4,0,65.9,93,Good work; improve problem-solving depth,UI/UX Designer,Data Analyst
+STU0887,Kabir,25,Hyderabad,School,PRJ051,Cyber Security,Intermediate,54.6,80.0,58.3,80.9,53.3,75.3,69.5,0,59.4,72,Good work; improve problem-solving depth,Data Analyst,Data Analyst
+STU0888,Ananya,15,Delhi,Undergraduate,PRJ078,Business Analytics,Intermediate,35.7,71.6,53.4,88.2,82.7,80.2,55.6,1,74.3,91,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0889,Diya,24,Lucknow,Undergraduate,PRJ073,Python,Intermediate,30.3,58.3,76.7,57.8,49.7,66.6,49.6,1,59.7,80,Good work; improve problem-solving depth,Cyber Security Analyst,UI/UX Designer
+STU0890,Diya,21,Mumbai,Undergraduate,PRJ027,Business Analytics,Beginner,67.4,75.2,63.6,61.2,71.3,67.9,71.6,1,76.1,91,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0891,Priya,22,Pune,Undergraduate,PRJ093,Cloud Computing,Beginner,42.1,79.3,77.3,37.7,68.4,72.8,54.9,1,77.4,97,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0892,Aarav,19,Lucknow,Undergraduate,PRJ025,Web Development,Intermediate,77.8,52.7,72.7,49.2,70.6,67.9,64.8,1,67.6,81,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0893,Aditya,20,Delhi,Higher Secondary,PRJ070,Web Development,Beginner,61.0,62.4,63.0,80.7,78.4,92.4,66.0,1,79.2,115,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0894,Ananya,24,Pune,Undergraduate,PRJ007,Database,Beginner,68.9,69.5,60.8,46.1,67.6,81.8,72.0,1,82.3,102,Strong project; add more creativity and documentation,Cyber Security Analyst,AI/ML Engineer
+STU0895,Ananya,25,Delhi,Postgraduate,PRJ039,Mobile App Development,Intermediate,36.2,64.3,65.9,58.2,28.9,62.9,54.8,0,48.8,74,Improve accuracy and completeness,Cyber Security Analyst,UI/UX Designer
+STU0896,Arjun,21,Bengaluru,Undergraduate,PRJ052,Cyber Security,Beginner,51.2,91.5,68.1,99.7,59.5,76.9,66.4,1,84.3,108,Strong project; add more creativity and documentation,UI/UX Designer,Product Manager
+STU0897,Arjun,15,Delhi,School,PRJ013,Cyber Security,Beginner,40.7,71.9,52.0,65.3,60.4,88.4,57.2,1,75.9,106,Strong project; add more creativity and documentation,AI/ML Engineer,Product Manager
+STU0898,Sneha,18,Lucknow,Undergraduate,PRJ035,Mobile App Development,Beginner,33.5,76.4,61.6,76.8,75.0,66.8,54.6,1,66.2,79,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0899,Riya,17,Lucknow,Higher Secondary,PRJ002,Cyber Security,Intermediate,50.9,62.4,56.6,43.6,61.7,83.4,58.0,1,67.4,90,Good work; improve problem-solving depth,UI/UX Designer,Database Administrator
+STU0900,Sneha,16,Mumbai,Postgraduate,PRJ013,Mobile App Development,Intermediate,59.7,55.8,69.7,79.4,75.6,77.1,61.1,1,73.1,96,Strong project; add more creativity and documentation,Data Analyst,Product Manager
+STU0901,Diya,16,Delhi,Higher Secondary,PRJ029,Python,Intermediate,56.2,50.3,80.3,47.2,57.0,70.7,56.8,1,74.7,102,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0902,Meera,16,Chennai,Postgraduate,PRJ022,Data Science,Advanced,59.8,65.1,28.2,46.4,46.9,84.3,65.1,0,52.6,76,Improve accuracy and completeness,Data Analyst,Database Administrator
+STU0903,Aditya,16,Kolkata,Postgraduate,PRJ072,Business Analytics,Beginner,61.0,60.9,56.6,38.4,59.1,76.6,64.7,1,64.4,81,Good work; improve problem-solving depth,Cloud Engineer,AI/ML Engineer
+STU0904,Aarav,20,Delhi,Undergraduate,PRJ022,Python,Beginner,51.9,50.9,36.2,65.9,68.5,70.1,54.7,1,65.7,96,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0905,Ishaan,24,Mumbai,Undergraduate,PRJ081,Business Analytics,Intermediate,77.4,79.9,36.8,41.8,64.5,82.7,78.7,1,73.9,103,Strong project; add more creativity and documentation,Product Manager,Database Administrator
+STU0906,Tanya,15,Hyderabad,Higher Secondary,PRJ094,Cloud Computing,Intermediate,55.5,73.9,57.6,66.5,91.5,64.4,65.2,1,74.7,104,Strong project; add more creativity and documentation,Cyber Security Analyst,Database Administrator
+STU0907,Sneha,17,Kolkata,Undergraduate,PRJ023,Business Analytics,Intermediate,26.6,88.2,42.5,41.8,40.7,100.0,58.6,1,65.6,87,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0908,Sneha,19,Jaipur,School,PRJ099,UI/UX Design,Beginner,45.9,44.8,56.6,64.8,57.3,67.4,50.2,1,60.7,87,Good work; improve problem-solving depth,Cyber Security Analyst,UI/UX Designer
+STU0909,Aanya,21,Chennai,School,PRJ016,Cloud Computing,Beginner,75.6,53.8,51.5,63.2,54.5,85.7,66.6,1,73.0,106,Strong project; add more creativity and documentation,AI/ML Engineer,Software Developer
+STU0910,Kabir,25,Lucknow,Undergraduate,PRJ077,Web Development,Intermediate,76.6,78.2,65.9,78.1,83.5,84.3,78.0,1,73.3,88,Strong project; add more creativity and documentation,Cyber Security Analyst,Cyber Security Analyst
+STU0911,Rahul,20,Bengaluru,School,PRJ041,Mobile App Development,Intermediate,43.1,68.0,56.8,79.8,62.2,87.6,57.1,1,75.5,97,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0912,Aanya,23,Pune,Undergraduate,PRJ068,Artificial Intelligence,Advanced,60.1,86.0,50.6,76.8,85.4,91.2,71.4,0,69.5,90,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0913,Arjun,18,Guwahati,Postgraduate,PRJ065,Database,Intermediate,63.3,80.9,53.5,53.3,64.3,90.3,68.0,1,70.6,100,Strong project; add more creativity and documentation,UI/UX Designer,Database Administrator
+STU0914,Aditya,18,Hyderabad,Undergraduate,PRJ067,Cloud Computing,Beginner,64.7,63.1,89.1,57.1,64.7,62.8,67.6,0,62.8,94,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0915,Rohan,18,Delhi,Undergraduate,PRJ040,Database,Beginner,56.0,74.5,49.9,52.7,92.3,100.0,65.5,1,78.3,113,Strong project; add more creativity and documentation,Software Developer,Database Administrator
+STU0916,Diya,17,Delhi,School,PRJ087,Python,Intermediate,58.3,33.3,63.5,62.7,54.0,81.0,52.7,0,59.0,79,Good work; improve problem-solving depth,UI/UX Designer,Mobile App Developer
+STU0917,Ira,21,Chennai,School,PRJ045,Cloud Computing,Beginner,73.2,64.5,80.6,70.7,53.5,88.3,67.2,1,75.4,94,Strong project; add more creativity and documentation,Product Manager,UI/UX Designer
+STU0918,Rohan,22,Delhi,Undergraduate,PRJ068,Web Development,Beginner,60.1,57.4,63.7,61.2,75.6,82.7,62.5,1,72.7,93,Strong project; add more creativity and documentation,Software Developer,Cyber Security Analyst
+STU0919,Kavya,21,Pune,Postgraduate,PRJ091,Artificial Intelligence,Beginner,39.0,62.0,56.5,55.0,76.6,100.0,55.8,1,73.7,88,Strong project; add more creativity and documentation,Software Developer,Product Manager
+STU0920,Nisha,25,Pune,School,PRJ019,Python,Beginner,67.7,31.2,90.6,63.6,50.9,84.7,53.9,1,76.3,104,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0921,Rahul,18,Guwahati,School,PRJ051,Data Science,Advanced,75.9,40.8,70.4,89.3,56.6,89.9,66.0,1,76.6,112,Strong project; add more creativity and documentation,Product Manager,Mobile App Developer
+STU0922,Karan,19,Pune,Higher Secondary,PRJ002,Web Development,Beginner,67.1,51.9,42.9,74.4,57.6,63.7,64.1,0,58.2,78,Good work; improve problem-solving depth,Software Developer,Software Developer
+STU0923,Rohan,16,Pune,Undergraduate,PRJ011,Data Science,Beginner,73.7,67.0,79.5,72.6,81.1,63.1,70.5,1,79.1,95,Strong project; add more creativity and documentation,Cloud Engineer,Mobile App Developer
+STU0924,Ananya,18,Lucknow,Postgraduate,PRJ020,Business Analytics,Intermediate,80.7,63.8,39.3,82.6,75.6,92.6,75.1,1,74.4,95,Strong project; add more creativity and documentation,Software Developer,Software Developer
+STU0925,Tanya,20,Mumbai,School,PRJ091,Web Development,Advanced,56.0,59.0,27.1,53.6,85.7,76.1,58.9,0,57.1,70,Good work; improve problem-solving depth,UI/UX Designer,Cyber Security Analyst
+STU0926,Tanya,24,Chennai,Higher Secondary,PRJ085,Cloud Computing,Intermediate,45.4,58.6,74.9,52.6,82.7,53.0,53.8,1,63.3,76,Good work; improve problem-solving depth,Mobile App Developer,UI/UX Designer
+STU0927,Sneha,20,Chennai,Higher Secondary,PRJ027,Python,Intermediate,60.9,63.9,57.9,57.1,48.9,96.8,67.0,1,75.2,105,Strong project; add more creativity and documentation,Cloud Engineer,Data Analyst
+STU0928,Sneha,23,Chennai,School,PRJ064,Cloud Computing,Intermediate,48.0,47.6,88.6,58.0,36.5,91.8,55.0,1,65.1,97,Good work; improve problem-solving depth,Product Manager,UI/UX Designer
+STU0929,Aditya,19,Lucknow,Postgraduate,PRJ053,Cloud Computing,Intermediate,82.9,74.2,53.5,49.4,73.4,75.5,78.7,1,74.2,94,Strong project; add more creativity and documentation,Mobile App Developer,AI/ML Engineer
+STU0930,Kabir,20,Pune,Higher Secondary,PRJ092,Artificial Intelligence,Beginner,50.5,71.5,65.7,61.8,44.4,81.2,59.9,0,54.2,78,Improve accuracy and completeness,AI/ML Engineer,UI/UX Designer
+STU0931,Kabir,15,Hyderabad,Undergraduate,PRJ012,Data Science,Intermediate,44.9,83.6,46.8,62.0,71.1,91.9,66.5,1,76.8,104,Strong project; add more creativity and documentation,AI/ML Engineer,Database Administrator
+STU0932,Ira,19,Kolkata,Higher Secondary,PRJ092,Python,Beginner,54.0,77.8,29.8,85.9,63.2,63.1,65.1,1,66.1,99,Good work; improve problem-solving depth,Data Scientist,Data Analyst
+STU0933,Ishaan,20,Bengaluru,School,PRJ041,Artificial Intelligence,Intermediate,46.6,48.4,60.9,94.0,50.7,78.0,52.9,1,74.2,106,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0934,Aanya,16,Lucknow,Higher Secondary,PRJ021,Web Development,Advanced,57.9,83.1,76.7,56.7,73.7,77.1,69.6,1,86.2,109,Excellent project; ready for advanced work,AI/ML Engineer,UI/UX Designer
+STU0935,Sneha,16,Bengaluru,Undergraduate,PRJ078,Database,Beginner,51.2,90.7,100.0,66.8,82.0,78.6,66.7,1,90.5,125,Excellent project; ready for advanced work,Product Manager,UI/UX Designer
+STU0936,Diya,18,Mumbai,Undergraduate,PRJ047,Python,Intermediate,45.9,79.0,58.3,49.0,63.9,97.4,61.1,1,78.6,94,Strong project; add more creativity and documentation,Cyber Security Analyst,Database Administrator
+STU0937,Kabir,24,Kolkata,Undergraduate,PRJ015,Data Science,Intermediate,35.2,60.2,61.4,90.8,82.4,66.0,55.8,1,70.3,89,Strong project; add more creativity and documentation,Mobile App Developer,Product Manager
+STU0938,Arjun,21,Hyderabad,Higher Secondary,PRJ098,Business Analytics,Intermediate,84.5,34.1,51.6,88.8,79.7,67.1,64.6,0,60.9,85,Good work; improve problem-solving depth,Database Administrator,Mobile App Developer
+STU0939,Nisha,25,Kolkata,School,PRJ092,Cyber Security,Beginner,94.6,58.9,74.4,77.0,81.2,83.5,79.1,1,77.4,100,Strong project; add more creativity and documentation,AI/ML Engineer,Mobile App Developer
+STU0940,Sneha,21,Mumbai,Undergraduate,PRJ075,Mobile App Development,Beginner,52.8,44.1,46.7,51.9,68.7,60.0,55.4,1,63.2,90,Good work; improve problem-solving depth,Data Scientist,Cyber Security Analyst
+STU0941,Rahul,19,Lucknow,Higher Secondary,PRJ078,Database,Intermediate,26.8,74.3,55.1,66.1,31.3,43.6,52.7,1,52.4,72,Improve accuracy and completeness,AI/ML Engineer,Data Analyst
+STU0942,Aditya,18,Mumbai,Undergraduate,PRJ015,Business Analytics,Advanced,39.9,67.2,75.7,80.6,61.0,56.6,55.3,1,68.2,94,Good work; improve problem-solving depth,Cyber Security Analyst,UI/UX Designer
+STU0943,Ira,17,Kolkata,Undergraduate,PRJ065,Data Science,Advanced,75.5,31.7,52.7,50.4,84.4,76.1,59.1,0,60.6,85,Good work; improve problem-solving depth,AI/ML Engineer,Mobile App Developer
+STU0944,Ira,17,Bengaluru,Higher Secondary,PRJ044,Data Science,Beginner,70.1,57.6,68.0,34.7,59.7,100.0,66.6,1,83.9,101,Strong project; add more creativity and documentation,Database Administrator,AI/ML Engineer
+STU0945,Karan,25,Hyderabad,Undergraduate,PRJ062,Python,Intermediate,78.0,64.6,24.2,71.2,55.6,89.4,71.4,0,57.4,89,Good work; improve problem-solving depth,Cloud Engineer,Software Developer
+STU0946,Rohan,21,Chennai,Undergraduate,PRJ034,Data Science,Beginner,50.6,66.1,57.1,81.9,67.2,82.2,61.9,0,66.9,95,Good work; improve problem-solving depth,Data Scientist,Product Manager
+STU0947,Nisha,18,Chennai,Higher Secondary,PRJ086,Artificial Intelligence,Intermediate,63.9,30.7,61.4,77.0,61.4,100.0,53.7,1,75.6,105,Strong project; add more creativity and documentation,Cloud Engineer,Mobile App Developer
+STU0948,Ira,15,Hyderabad,Higher Secondary,PRJ027,Data Science,Advanced,82.3,76.2,84.2,82.7,51.7,82.0,79.9,1,85.5,116,Excellent project; ready for advanced work,Cloud Engineer,Data Analyst
+STU0949,Kavya,19,Delhi,Undergraduate,PRJ076,Web Development,Intermediate,72.7,62.8,50.2,70.5,96.7,59.9,70.1,0,63.4,93,Good work; improve problem-solving depth,Mobile App Developer,Cyber Security Analyst
+STU0950,Diya,22,Guwahati,Undergraduate,PRJ072,Business Analytics,Intermediate,40.6,79.0,45.7,71.1,68.7,75.8,59.8,1,68.4,90,Good work; improve problem-solving depth,Software Developer,Product Manager
+STU0951,Kabir,18,Hyderabad,Undergraduate,PRJ046,UI/UX Design,Intermediate,67.8,66.0,73.1,77.1,68.3,90.8,68.9,1,83.2,114,Strong project; add more creativity and documentation,Database Administrator,UI/UX Designer
+STU0952,Tanya,25,Kolkata,Undergraduate,PRJ012,Web Development,Intermediate,63.1,71.6,56.4,77.5,84.6,85.0,64.5,0,70.7,97,Strong project; add more creativity and documentation,Data Scientist,Product Manager
+STU0953,Karan,20,Lucknow,Undergraduate,PRJ040,Mobile App Development,Beginner,65.8,48.2,56.4,52.8,58.8,81.5,59.5,1,75.6,108,Strong project; add more creativity and documentation,Cloud Engineer,Mobile App Developer
+STU0954,Meera,16,Mumbai,Higher Secondary,PRJ082,Cyber Security,Advanced,36.5,53.8,57.8,62.5,20.0,53.9,50.1,1,59.8,78,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0955,Ishaan,23,Pune,School,PRJ013,Cloud Computing,Intermediate,56.1,80.8,55.6,42.1,87.5,91.2,63.1,1,76.0,102,Strong project; add more creativity and documentation,Database Administrator,Database Administrator
+STU0956,Tanya,25,Mumbai,Undergraduate,PRJ066,UI/UX Design,Beginner,55.0,61.4,92.8,65.1,64.4,57.5,58.6,1,72.5,105,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0957,Tanya,20,Guwahati,School,PRJ015,Cyber Security,Beginner,67.2,58.2,59.1,48.7,51.8,83.6,64.1,1,67.7,82,Good work; improve problem-solving depth,Database Administrator,Mobile App Developer
+STU0958,Riya,22,Jaipur,School,PRJ091,Business Analytics,Advanced,94.1,53.6,57.3,49.5,75.0,62.5,74.5,1,81.9,109,Strong project; add more creativity and documentation,AI/ML Engineer,Cloud Engineer
+STU0959,Kabir,23,Delhi,Higher Secondary,PRJ047,Cyber Security,Intermediate,39.9,72.4,60.1,66.6,89.4,62.9,59.1,1,67.0,96,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0960,Karan,16,Jaipur,Undergraduate,PRJ048,Database,Beginner,52.7,56.8,44.5,82.3,60.1,61.6,56.6,1,69.7,96,Good work; improve problem-solving depth,Cyber Security Analyst,Product Manager
+STU0961,Aditya,15,Chennai,Higher Secondary,PRJ068,UI/UX Design,Beginner,48.1,94.3,58.8,58.0,72.4,80.7,68.5,0,64.2,97,Good work; improve problem-solving depth,Mobile App Developer,Database Administrator
+STU0962,Sneha,25,Kolkata,Undergraduate,PRJ078,Artificial Intelligence,Beginner,49.8,43.6,33.6,72.8,93.2,65.1,54.1,1,60.1,76,Good work; improve problem-solving depth,Cyber Security Analyst,Cyber Security Analyst
+STU0963,Karan,20,Jaipur,School,PRJ080,Database,Beginner,57.9,67.9,57.5,67.8,82.6,83.1,63.6,1,74.1,91,Strong project; add more creativity and documentation,Data Scientist,Cyber Security Analyst
+STU0964,Tanya,22,Pune,Higher Secondary,PRJ046,Python,Intermediate,46.0,65.5,58.0,88.8,59.9,65.0,58.6,1,69.3,87,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0965,Aanya,21,Pune,School,PRJ034,Data Science,Advanced,55.6,53.3,33.8,49.7,72.0,79.6,55.8,1,67.2,100,Good work; improve problem-solving depth,UI/UX Designer,Cyber Security Analyst
+STU0966,Meera,21,Delhi,Undergraduate,PRJ029,UI/UX Design,Beginner,53.2,24.6,88.9,57.2,34.6,67.4,45.4,1,64.9,91,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0967,Rahul,16,Delhi,Undergraduate,PRJ081,Database,Advanced,49.9,52.1,29.5,60.4,73.5,81.1,56.0,1,74.9,102,Strong project; add more creativity and documentation,Software Developer,Cyber Security Analyst
+STU0968,Priya,21,Delhi,Undergraduate,PRJ040,Web Development,Advanced,73.3,68.9,61.3,95.6,82.3,65.1,73.4,1,85.1,119,Excellent project; ready for advanced work,Product Manager,Product Manager
+STU0969,Kabir,20,Jaipur,Undergraduate,PRJ043,Python,Beginner,73.9,67.5,49.7,61.6,73.8,81.5,70.3,1,75.2,102,Strong project; add more creativity and documentation,Mobile App Developer,Cloud Engineer
+STU0970,Aanya,15,Mumbai,Postgraduate,PRJ077,Web Development,Intermediate,30.8,70.4,77.0,83.2,26.9,99.5,53.4,1,77.8,102,Strong project; add more creativity and documentation,Data Scientist,UI/UX Designer
+STU0971,Ira,18,Chennai,Undergraduate,PRJ074,Artificial Intelligence,Beginner,77.6,51.9,69.6,63.6,47.7,87.6,64.9,0,69.0,100,Good work; improve problem-solving depth,Mobile App Developer,Mobile App Developer
+STU0972,Riya,20,Bengaluru,Postgraduate,PRJ046,Artificial Intelligence,Beginner,32.9,20.0,97.8,72.7,55.5,63.4,34.8,1,58.9,77,Good work; improve problem-solving depth,AI/ML Engineer,UI/UX Designer
+STU0973,Ishaan,15,Bengaluru,School,PRJ025,Business Analytics,Beginner,57.5,99.7,55.5,81.7,88.5,88.7,73.7,0,71.1,87,Strong project; add more creativity and documentation,Cloud Engineer,Database Administrator
+STU0974,Priya,21,Delhi,Postgraduate,PRJ031,Artificial Intelligence,Beginner,53.8,55.4,47.8,55.4,58.1,85.9,56.6,1,60.3,88,Good work; improve problem-solving depth,Data Analyst,UI/UX Designer
+STU0975,Ananya,20,Chennai,School,PRJ033,Python,Intermediate,79.4,69.4,42.1,74.3,72.6,85.9,75.0,0,65.7,89,Good work; improve problem-solving depth,Cyber Security Analyst,Software Developer
+STU0976,Rohan,22,Lucknow,Higher Secondary,PRJ092,Web Development,Beginner,47.0,63.5,87.8,52.6,59.7,80.8,59.1,1,79.8,109,Strong project; add more creativity and documentation,Mobile App Developer,UI/UX Designer
+STU0977,Karan,25,Guwahati,School,PRJ005,Mobile App Development,Intermediate,50.6,43.6,50.3,55.2,77.3,72.7,51.9,1,69.6,103,Good work; improve problem-solving depth,Software Developer,UI/UX Designer
+STU0978,Ira,22,Guwahati,School,PRJ085,Python,Intermediate,47.4,65.9,64.6,48.8,62.3,54.5,59.0,0,48.0,72,Improve accuracy and completeness,Database Administrator,Database Administrator
+STU0979,Aanya,15,Hyderabad,Higher Secondary,PRJ050,Cloud Computing,Advanced,45.9,54.1,81.0,79.9,49.8,58.1,52.1,1,63.5,94,Good work; improve problem-solving depth,Data Scientist,UI/UX Designer
+STU0980,Diya,23,Chennai,Undergraduate,PRJ066,Python,Beginner,82.8,62.2,82.4,66.3,70.1,62.9,70.7,1,75.9,107,Strong project; add more creativity and documentation,Database Administrator,Mobile App Developer
+STU0981,Vivaan,24,Pune,Undergraduate,PRJ005,Database,Intermediate,44.1,81.3,53.3,54.3,34.8,79.3,61.0,1,66.8,81,Good work; improve problem-solving depth,Product Manager,Data Analyst
+STU0982,Ira,18,Guwahati,Postgraduate,PRJ015,Python,Advanced,31.9,73.8,49.4,64.8,50.9,75.1,54.1,1,60.5,81,Good work; improve problem-solving depth,Mobile App Developer,Product Manager
+STU0983,Ishaan,23,Pune,Higher Secondary,PRJ065,UI/UX Design,Beginner,45.5,40.2,66.3,76.1,48.8,98.6,47.4,1,72.0,87,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0984,Ishaan,24,Kolkata,Undergraduate,PRJ087,UI/UX Design,Beginner,69.7,54.0,63.0,75.5,81.1,91.6,64.9,1,78.3,106,Strong project; add more creativity and documentation,Software Developer,Software Developer
+STU0985,Kavya,16,Chennai,Higher Secondary,PRJ058,Artificial Intelligence,Intermediate,75.9,61.1,46.5,78.8,87.8,92.8,68.7,1,80.7,112,Strong project; add more creativity and documentation,Software Developer,Software Developer
+STU0986,Vivaan,22,Hyderabad,Undergraduate,PRJ054,Web Development,Beginner,51.7,85.2,46.0,61.7,48.8,60.5,70.2,0,54.4,73,Improve accuracy and completeness,Software Developer,Data Analyst
+STU0987,Diya,18,Bengaluru,Higher Secondary,PRJ030,Web Development,Intermediate,78.2,65.0,66.9,69.3,55.0,100.0,74.6,1,74.7,106,Strong project; add more creativity and documentation,Data Scientist,Mobile App Developer
+STU0988,Arjun,17,Hyderabad,School,PRJ008,Cloud Computing,Intermediate,66.9,44.2,50.4,66.8,78.3,60.6,63.3,1,69.5,89,Good work; improve problem-solving depth,UI/UX Designer,Software Developer
+STU0989,Kavya,17,Bengaluru,Undergraduate,PRJ070,Data Science,Intermediate,46.6,48.0,52.5,50.8,62.8,88.7,50.9,1,69.1,83,Good work; improve problem-solving depth,Data Analyst,Product Manager
+STU0990,Kabir,18,Mumbai,School,PRJ069,Business Analytics,Beginner,54.8,65.4,48.8,60.4,78.3,86.0,59.8,1,67.0,81,Good work; improve problem-solving depth,Cloud Engineer,Cyber Security Analyst
+STU0991,Rohan,25,Delhi,Higher Secondary,PRJ058,Cloud Computing,Intermediate,69.0,74.4,99.2,70.9,63.3,88.9,72.8,1,90.9,125,Excellent project; ready for advanced work,Cyber Security Analyst,UI/UX Designer
+STU0992,Rahul,24,Chennai,Higher Secondary,PRJ039,Artificial Intelligence,Intermediate,44.3,30.8,70.5,57.9,74.5,66.6,43.5,1,70.3,90,Strong project; add more creativity and documentation,AI/ML Engineer,UI/UX Designer
+STU0993,Riya,25,Mumbai,Undergraduate,PRJ071,Database,Beginner,34.6,55.4,46.8,49.8,83.3,53.0,48.5,1,66.6,95,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0994,Arjun,20,Pune,Higher Secondary,PRJ037,Data Science,Advanced,55.9,66.7,79.1,88.3,86.5,64.1,62.4,0,66.3,97,Good work; improve problem-solving depth,UI/UX Designer,Product Manager
+STU0995,Riya,20,Chennai,Higher Secondary,PRJ012,Database,Intermediate,49.4,68.4,69.2,45.0,20.3,80.8,62.5,1,64.9,91,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU0996,Diya,21,Delhi,Undergraduate,PRJ100,Mobile App Development,Intermediate,47.2,74.8,36.0,64.2,72.4,68.1,56.8,1,60.4,82,Good work; improve problem-solving depth,Data Analyst,Database Administrator
+STU0997,Aanya,18,Guwahati,School,PRJ025,UI/UX Design,Intermediate,48.4,89.1,51.7,82.0,82.6,74.7,67.3,1,73.9,95,Strong project; add more creativity and documentation,Product Manager,Product Manager
+STU0998,Ananya,20,Kolkata,Undergraduate,PRJ025,Data Science,Intermediate,41.0,100.0,61.6,55.5,59.5,68.2,67.1,1,69.4,84,Good work; improve problem-solving depth,AI/ML Engineer,Database Administrator
+STU0999,Vivaan,15,Jaipur,Postgraduate,PRJ007,UI/UX Design,Beginner,56.6,48.9,75.8,68.8,68.7,58.8,53.9,1,64.2,97,Good work; improve problem-solving depth,Cloud Engineer,UI/UX Designer
+STU1000,Nisha,21,Guwahati,Postgraduate,PRJ022,UI/UX Design,Intermediate,36.9,62.0,60.2,72.1,45.0,86.0,52.9,1,77.2,106,Strong project; add more creativity and documentation,Data Analyst,UI/UX Designer

@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% block title %}Evaluation Inbox · Project Phoenix{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="section-kicker">WORKSPACE / EVALUATION INBOX · LIVE DATA</div><h1>Review the work. Guide the growth.</h1><p>AI assists with completeness and rubric alignment. Your review determines the final grade.</p></div><span class="soft-tag">TEACHER CONTROL</span></div>
+<div class="evaluation-grid"><section class="panel"><div class="panel-head"><div><div class="section-kicker">AI OBJECTIVE ASSESSMENT</div><h2>Evaluate a submission</h2></div></div><form id="f" class="score-form"><label>Submission<select id="submissionId" name="submission_id"></select></label>{% for x in ['programming','analytical','creativity','communication','problem_solving','completeness','accuracy'] %}<label>{{x.replace('_',' ').title()}}<input id="score_{{x}}" name="{{x}}" type="number" value="80" min="0" max="100"><small>0–100 · loaded from submission</small></label>{% endfor %}<button class="cyan-btn full" type="submit">Run preliminary assessment →</button></form></section><section class="panel" id="result"><div class="empty-state"><span>✦</span><h3>Teacher remains in control.</h3><p>Run the assessment to see a preliminary score, feedback and pathway match.</p></div></section></div>
+<section class="panel" id="filePanel"><div class="panel-head"><div><div class="section-kicker">ORIGINAL WORK</div><h2>Submission files</h2></div></div><div id="submissionFiles" class="file-list"><div class="empty-state small">Select a submission to view files.</div></div></section><section class="panel final-review" id="finalReview" hidden><div class="panel-head"><div><div class="section-kicker">FINAL TEACHER REVIEW</div><h2>Publish the grade</h2></div><span class="soft-tag">NOT FINAL UNTIL PUBLISHED</span></div><form id="finalForm" class="modal-form"><input type="hidden" name="submission_id" id="finalSubmission"><label>Teacher score<input name="teacher_score" id="teacherScore" type="number" min="0" max="100" required></label><label>Teacher feedback<textarea name="teacher_feedback" rows="5" placeholder="Add context, strengths and next steps..."></textarea></label><div class="button-row"><button class="outline-btn" type="submit">Save draft</button><button class="cyan-btn" type="button" onclick="publishFinal()">Publish final grade</button></div><div id="finalMsg" class="form-msg"></div></form></section>
+<div class="review-note"><b>Important:</b> Initial AI scores are preliminary. The teacher checks the original work and context before publishing a final grade.</div>
+{% endblock %}
+{% block scripts %}
+<script>
+let lastScore=0;
+async function loadSubmissions(){
+ const r=await fetch('/api/projects'); const d=await r.json();
+ if(!r.ok){submissionId.innerHTML='<option>Could not load submissions</option>';return;}
+ submissionId.innerHTML=(d.projects||[]).filter(x=>x.submission_status!=='draft').map(x=>`<option value="${x.submission_id}">${x.student_name} · ${x.project_id} · ${x.project_subject} · #${x.submission_id}</option>`).join('')||'<option value="">No submitted projects</option>';
+ const requested=new URLSearchParams(location.search).get('submission'); if(requested)submissionId.value=requested; await loadSubmission();
+}
+async function loadSubmission(){
+ const id=submissionId.value;if(!id)return;
+ const r=await fetch('/api/submissions/'+id);const d=await r.json();if(!r.ok)return;const s=d.submission;
+ ['programming','analytical','creativity','communication','problem_solving','completeness','accuracy'].forEach(k=>{const el=document.getElementById('score_'+k);if(el)el.value=s[k+'_score']??80});
+ await loadFiles();
+ if(s.ai_feedback){result.innerHTML=`<div class="result-score"><span>LAST PRELIMINARY AI SCORE</span><strong>${s.project_score}<small>/100</small></strong><em>${s.final_published?'Final grade published':'Teacher review pending'}</em></div><div class="result-career"><span>CAREER MATCH</span><h2>${s.recommended_career||'Pending'}</h2></div><div class="feedback-box"><span>AI FEEDBACK</span><p>${esc(s.ai_feedback)}</p></div>`;}
+ if(s.final_published){finalReview.hidden=false;finalSubmission.value=id;teacherScore.value=s.teacher_score;document.querySelector('[name="teacher_feedback"]').value=s.teacher_feedback||'';finalMsg.textContent='Final grade already published.';finalMsg.className='form-msg success';}
+}
+async function loadFiles(){const id=submissionId.value;if(!id)return;const d=await fetch('/api/submission/'+id+'/files').then(r=>r.json());submissionFiles.innerHTML=d.files?.length?d.files.map(f=>`<div class="file-row"><b>${esc(f.original_name)}</b><span>${Math.round(f.file_size/1024)} KB</span><a href="${f.url}" target="_blank">Open ↗</a></div>`).join(''):'<div class="empty-state small">No uploaded files.</div>'}
+function esc(v){return String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+submissionId.onchange=loadSubmission;
+function showFinal(){finalReview.hidden=false;finalSubmission.value=submissionId.value;teacherScore.value=lastScore}
+f.onsubmit=async e=>{e.preventDefault();let o=Object.fromEntries(new FormData(f));Object.keys(o).forEach(k=>{if(k!=='submission_id')o[k]=+o[k]});let r=await fetch('/api/evaluate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(o)});let d=await r.json();if(!r.ok){result.innerHTML=`<div class="flash error">${esc(d.error||'Evaluation failed')}</div>`;return;}lastScore=d.project_score;result.innerHTML=`<div class="result-score"><span>PRELIMINARY AI SCORE</span><strong>${d.project_score}<small>/100</small></strong><em>Teacher review pending</em></div><div class="result-career"><span>EXPLAINABLE MATCH</span><h2>${esc(d.recommended_career)}</h2></div><div class="feedback-box"><span>WHAT TO IMPROVE</span><p>${esc(d.feedback)}</p></div><div class="match-list">${d.career_matches.map(x=>`<div><b>${esc(x.career)}</b><strong>${x.score}%</strong></div>`).join('')}</div><button class="cyan-btn full" style="margin-top:18px" type="button" onclick="showFinal()">Continue to teacher review →</button>`;showFinal();await loadSubmission();}
+async function saveFinal(publish){let o=Object.fromEntries(new FormData(finalForm));o.publish=publish;let r=await fetch('/api/evaluation/final',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(o)});let d=await r.json();finalMsg.textContent=d.error||(publish?'Final grade published. Student dashboard and analytics have been updated.':'Draft review saved.');finalMsg.className='form-msg '+(d.error?'error':'success');if(!d.error && publish){await loadSubmission();}}
+finalForm.onsubmit=e=>{e.preventDefault();saveFinal(false)};function publishFinal(){saveFinal(true)}
+loadSubmissions();
+</script>
+{% endblock %}
